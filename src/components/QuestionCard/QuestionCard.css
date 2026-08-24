@@ -962,3 +962,52 @@ span:last-child {
       0.01ms;
   }
 }
+
+.answer-option--selected {
+  border-color:
+    rgba(
+      126,
+      225,
+      251,
+      0.48
+    );
+
+  background:
+    rgba(
+      89,
+      204,
+      235,
+      0.13
+    );
+
+  box-shadow:
+    inset 0 0 0 1px
+      rgba(
+        126,
+        225,
+        251,
+        0.06
+      );
+}
+
+.answer-option--selected
+.answer-option__letter {
+  border-color:
+    rgba(
+      139,
+      232,
+      255,
+      0.4
+    );
+
+  color:
+    #d8f8ff;
+
+  background:
+    rgba(
+      102,
+      218,
+      247,
+      0.15
+    );
+}

@@ -19,7 +19,9 @@ const rootElement =
     "root",
   );
 
-if (!rootElement) {
+if (
+  !rootElement
+) {
   throw new Error(
     "No se encontró el elemento #root.",
   );

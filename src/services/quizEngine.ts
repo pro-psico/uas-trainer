@@ -304,3 +304,91 @@ export function getMistakeCount():
       ) > 0,
   ).length;
 }
+
+export function createReviewQuiz(
+  questionIds:
+    readonly number[],
+): QuizQuestion[] {
+  const uniqueIds =
+    Array.from(
+      new Set(
+        questionIds.filter(
+          (id) =>
+            Number.isInteger(
+              id,
+            ) &&
+            id > 0,
+        ),
+      ),
+    );
+
+  if (
+    uniqueIds.length === 0
+  ) {
+    return [];
+  }
+
+  const questionMap =
+    new Map(
+      questions.map(
+        (question) => [
+          question.id,
+          question,
+        ],
+      ),
+    );
+
+  const selected =
+    uniqueIds
+      .map(
+        (id) =>
+          questionMap.get(
+            id,
+          ),
+      )
+      .filter(
+        (
+          question,
+        ): question is Question =>
+          Boolean(
+            question,
+          ),
+      );
+
+  return shuffle(
+    selected,
+  ).map(
+    prepareQuestion,
+  );
+}
+
+export function createExamQuiz(
+  amount = 50,
+): QuizQuestion[] {
+  const validAmount =
+    Math.max(
+      1,
+      Math.min(
+        amount,
+        questions.length,
+      ),
+    );
+
+  /*
+   * A diferencia del simulacro adaptativo,
+   * aquí NO usamos las estadísticas.
+   *
+   * Todas las preguntas tienen la misma
+   * probabilidad de aparecer.
+   */
+  return shuffle(
+    questions,
+  )
+    .slice(
+      0,
+      validAmount,
+    )
+    .map(
+      prepareQuestion,
+    );
+}

@@ -13,12 +13,22 @@ import "./QuestionCard.css";
 
 interface QuestionCardProps {
   question: QuizQuestion;
+
   currentNumber: number;
   totalQuestions: number;
-  selectedAnswer: string | null;
+
+  selectedAnswer:
+    string | null;
+
   isAnswered: boolean;
-  onAnswer: (answer: string) => void;
-  onNext: () => void;
+
+  revealFeedback?: boolean;
+
+  onAnswer:
+    (answer: string) => void;
+
+  onNext:
+    () => void;
 }
 
 const SWIPE_THRESHOLD = 95;
@@ -29,6 +39,7 @@ export function QuestionCard({
   totalQuestions,
   selectedAnswer,
   isAnswered,
+  revealFeedback = true,
   onAnswer,
   onNext,
 }: QuestionCardProps) {
@@ -247,7 +258,8 @@ export function QuestionCard({
         <div
           className={[
             "question-card",
-            isAnswered
+
+            isAnswered && revealFeedback
               ? "question-card--flipped"
               : "",
           ]
@@ -300,7 +312,17 @@ export function QuestionCard({
                     <button
                       key={`${question.id}-${option}`}
                       type="button"
-                      className="answer-option"
+                      className={[
+                                  "answer-option",
+
+                                  !revealFeedback &&
+                                  selectedAnswer ===
+                                    option
+                                    ? "answer-option--selected"
+                                    : "",
+                                ]
+                                  .filter(Boolean)
+                                  .join(" ")}
                       onClick={() =>
                         onAnswer(
                           option,
@@ -327,7 +349,11 @@ export function QuestionCard({
             </div>
 
             <footer className="question-card__hint">
-              Selecciona una respuesta
+              {!isAnswered
+                ? "Selecciona una respuesta"
+                : !revealFeedback
+                  ? "Respuesta registrada · desliza para continuar"
+                  : "Respuesta registrada"}
             </footer>
           </section>
 

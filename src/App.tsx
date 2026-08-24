@@ -21,6 +21,10 @@ import {
 } from "./pages/Mistakes/Mistakes";
 
 import {
+  Stats,
+} from "./pages/Stats/Stats";
+
+import {
   PlaceholderPage,
 } from "./pages/Placeholder/PlaceholderPage";
 
@@ -58,10 +62,7 @@ function App() {
       <Route
         path="/stats"
         element={
-          <PlaceholderPage
-            title="Estadísticas"
-            description="Aquí construiremos el análisis completo del rendimiento."
-          />
+          <Stats />
         }
       />
 
@@ -70,7 +71,7 @@ function App() {
         element={
           <PlaceholderPage
             title="Historial"
-            description="Aquí aparecerán todas las sesiones realizadas en este dispositivo."
+            description="Aquí construiremos el registro cronológico de tus sesiones."
           />
         }
       />

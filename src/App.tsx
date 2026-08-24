@@ -24,9 +24,6 @@ import {
   Stats,
 } from "./pages/Stats/Stats";
 
-import {
-  PlaceholderPage,
-} from "./pages/Placeholder/PlaceholderPage";
 
 function App() {
   return (
@@ -69,9 +66,9 @@ function App() {
       <Route
         path="/history"
         element={
-          <PlaceholderPage
-            title="Historial"
-            description="Aquí construiremos el registro cronológico de tus sesiones."
+          <Navigate
+            to="/stats"
+            replace
           />
         }
       />

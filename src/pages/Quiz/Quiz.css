@@ -567,3 +567,94 @@
     margin-inline: auto;
   }
 }
+
+.quiz__timer {
+  min-width: 68px;
+
+  text-align: right;
+}
+
+.quiz__timer span {
+  display: block;
+
+  color:
+    rgba(
+      203,
+      227,
+      237,
+      0.36
+    );
+
+  font-size: 0.52rem;
+
+  font-weight: 800;
+
+  letter-spacing: 0.1em;
+}
+
+.quiz__timer strong {
+  display: block;
+
+  margin-top: 2px;
+
+  color:
+    rgba(
+      177,
+      236,
+      250,
+      0.92
+    );
+
+  font-size: 1.05rem;
+
+  font-weight: 850;
+
+  /*
+   * Todos los números tienen
+   * exactamente el mismo ancho.
+   *
+   * Evita que el reloj "salte"
+   * visualmente.
+   */
+  font-variant-numeric:
+    tabular-nums;
+
+  letter-spacing: 0.03em;
+}
+
+/*
+ * Últimos cinco minutos.
+ */
+.quiz__timer--danger strong {
+  color: #ff9292;
+
+  animation:
+    examTimerPulse
+    1.2s ease-in-out
+    infinite;
+}
+
+@keyframes examTimerPulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.55;
+  }
+}
+
+/*
+ * Si el usuario tiene desactivadas
+ * las animaciones por accesibilidad,
+ * respetamos esa configuración.
+ */
+@media (
+  prefers-reduced-motion:
+  reduce
+) {
+  .quiz__timer--danger strong {
+    animation: none;
+  }
+}

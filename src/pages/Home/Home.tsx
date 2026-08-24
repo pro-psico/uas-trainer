@@ -88,7 +88,7 @@ function StatsIcon() {
   );
 }
 
-function HistoryIcon() {
+function ExamIcon() {
   return (
     <svg
       viewBox="0 0 24 24"
@@ -100,11 +100,15 @@ function HistoryIcon() {
     >
       <circle
         cx="12"
-        cy="12"
-        r="9"
+        cy="13"
+        r="8"
       />
 
-      <path d="M12 7v5l3 2" />
+      <path d="M12 9v4l3 2" />
+
+      <path d="M9 2h6" />
+
+      <path d="M12 2v3" />
     </svg>
   );
 }
@@ -260,9 +264,10 @@ export function Home() {
             />
 
             <MenuButton
-              to="/history"
-              title="Historial"
-              icon={<HistoryIcon />}
+              to="/quiz?mode=exam"
+              title="Modo examen"
+              subtitle="50 preguntas · 45 min"
+              icon={<ExamIcon />}
               variant="compact"
             />
           </div>
@@ -274,7 +279,7 @@ export function Home() {
           </span>
 
           <span>
-            V1.1
+            V1.3
           </span>
         </footer>
       </section>

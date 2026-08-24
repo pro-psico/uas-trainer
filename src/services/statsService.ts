@@ -635,3 +635,165 @@ export function getWeakQuestions(
       a.score,
   );
 }
+
+export function buildExamSessionResult(
+  questions:
+    readonly Question[],
+  answers:
+    readonly QuestionAnswer[],
+  durationSeconds: number,
+): QuizSessionResult {
+  const answersByQuestionId =
+    new Map(
+      answers.map(
+        (answer) => [
+          answer.questionId,
+          answer,
+        ],
+      ),
+    );
+
+  const topicMap =
+    new Map<
+      string,
+      {
+        total: number;
+        correct: number;
+        incorrect: number;
+      }
+    >();
+
+  const failedQuestionIds:
+    number[] = [];
+
+  let correct = 0;
+
+  /*
+   * En Modo Examen recorremos TODAS
+   * las preguntas del examen.
+   *
+   * No solamente las contestadas.
+   */
+  for (
+    const question
+    of questions
+  ) {
+    const answer =
+      answersByQuestionId.get(
+        question.id,
+      );
+
+    const currentTopic =
+      topicMap.get(
+        question.tema,
+      ) ?? {
+        total: 0,
+        correct: 0,
+        incorrect: 0,
+      };
+
+    currentTopic.total += 1;
+
+    /*
+     * Solamente es correcta si:
+     *
+     * 1. Existe una respuesta.
+     * 2. Esa respuesta fue correcta.
+     */
+    if (
+      answer?.isCorrect ===
+      true
+    ) {
+      correct += 1;
+
+      currentTopic.correct +=
+        1;
+    } else {
+      /*
+       * Aquí entran:
+       *
+       * - respuestas incorrectas;
+       * - preguntas sin responder.
+       */
+      currentTopic.incorrect +=
+        1;
+
+      failedQuestionIds.push(
+        question.id,
+      );
+    }
+
+    topicMap.set(
+      question.tema,
+      currentTopic,
+    );
+  }
+
+  const total =
+    questions.length;
+
+  const incorrect =
+    total - correct;
+
+  const percentage =
+    total > 0
+      ? Math.round(
+          (
+            correct /
+            total
+          ) *
+            100,
+        )
+      : 0;
+
+  const topicBreakdown:
+    SessionTopicPerformance[] =
+    Array.from(
+      topicMap.entries(),
+    ).map(
+      (
+        [
+          topic,
+          stats,
+        ],
+      ) => ({
+        topic,
+
+        total:
+          stats.total,
+
+        correct:
+          stats.correct,
+
+        incorrect:
+          stats.incorrect,
+
+        percentage:
+          stats.total > 0
+            ? Math.round(
+                (
+                  stats.correct /
+                  stats.total
+                ) *
+                  100,
+              )
+            : 0,
+      }),
+    );
+
+  return {
+    total,
+
+    correct,
+
+    incorrect,
+
+    percentage,
+
+    durationSeconds,
+
+    topicBreakdown,
+
+    failedQuestionIds,
+  };
+}

@@ -1,0 +1,383 @@
+.drone-background {
+  position: fixed;
+  inset: 0;
+
+  overflow: hidden;
+
+  pointer-events: none;
+
+  z-index: 0;
+}
+
+.grid-overlay {
+  position: absolute;
+  inset: 0;
+
+  opacity: 0.13;
+
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.04) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.04) 1px,
+      transparent 1px
+    );
+
+  background-size:
+    52px 52px;
+
+  mask-image:
+    linear-gradient(
+      to bottom,
+      black,
+      transparent 82%
+    );
+}
+
+.scan-line {
+  position: absolute;
+
+  top: -20%;
+  left: 0;
+
+  width: 100%;
+  height: 180px;
+
+  opacity: 0.08;
+
+  background:
+    linear-gradient(
+      to bottom,
+      transparent,
+      rgba(110, 231, 255, 0.7),
+      transparent
+    );
+
+  animation:
+    scan 11s linear infinite;
+}
+
+@keyframes scan {
+  from {
+    transform:
+      translateY(-200px);
+  }
+
+  to {
+    transform:
+      translateY(calc(100vh + 400px));
+  }
+}
+
+.drone {
+  position: absolute;
+
+  width: clamp(
+    110px,
+    27vw,
+    240px
+  );
+
+  opacity: 0.18;
+
+  filter:
+    drop-shadow(
+      0 0 15px
+      rgba(105, 230, 255, 0.25)
+    );
+
+  will-change: transform;
+}
+
+.drone svg {
+  width: 100%;
+  height: auto;
+
+  overflow: visible;
+}
+
+.drone__structure {
+  fill:
+    rgba(
+      130,
+      225,
+      255,
+      0.12
+    );
+
+  stroke:
+    rgba(
+      160,
+      235,
+      255,
+      0.85
+    );
+
+  stroke-width: 2.2;
+
+  stroke-linecap: round;
+
+  stroke-linejoin: round;
+}
+
+.drone__rotors {
+  fill:
+    rgba(
+      155,
+      235,
+      255,
+      0.4
+    );
+
+  transform-origin: center;
+}
+
+.drone__camera {
+  fill:
+    rgba(
+      190,
+      245,
+      255,
+      0.85
+    );
+}
+
+.drone--one {
+  top: 9%;
+  right: -30px;
+
+  animation:
+    droneFloatOne
+    14s ease-in-out
+    infinite;
+}
+
+.drone--two {
+  top: 45%;
+  left: -45px;
+
+  width: clamp(
+    95px,
+    22vw,
+    190px
+  );
+
+  opacity: 0.11;
+
+  animation:
+    droneFloatTwo
+    18s ease-in-out
+    infinite;
+}
+
+.drone--three {
+  bottom: 5%;
+  right: 2%;
+
+  width: clamp(
+    70px,
+    16vw,
+    140px
+  );
+
+  opacity: 0.08;
+
+  animation:
+    droneFloatThree
+    22s ease-in-out
+    infinite;
+}
+
+@keyframes droneFloatOne {
+  0%,
+  100% {
+    transform:
+      translate3d(
+        0,
+        0,
+        0
+      )
+      rotate(-5deg);
+  }
+
+  35% {
+    transform:
+      translate3d(
+        -25px,
+        25px,
+        0
+      )
+      rotate(0deg);
+  }
+
+  70% {
+    transform:
+      translate3d(
+        12px,
+        45px,
+        0
+      )
+      rotate(4deg);
+  }
+}
+
+@keyframes droneFloatTwo {
+  0%,
+  100% {
+    transform:
+      translate3d(
+        0,
+        0,
+        0
+      )
+      rotate(4deg);
+  }
+
+  50% {
+    transform:
+      translate3d(
+        60px,
+        -35px,
+        0
+      )
+      rotate(-5deg);
+  }
+}
+
+@keyframes droneFloatThree {
+  0%,
+  100% {
+    transform:
+      translate3d(
+        0,
+        0,
+        0
+      )
+      rotate(-3deg);
+  }
+
+  50% {
+    transform:
+      translate3d(
+        -40px,
+        -25px,
+        0
+      )
+      rotate(5deg);
+  }
+}
+
+.hud {
+  position: absolute;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 8px;
+}
+
+.hud--left {
+  top: 20%;
+  left: 20px;
+}
+
+.hud span {
+  display: block;
+
+  width: 42px;
+  height: 2px;
+
+  opacity: 0.2;
+
+  background:
+    rgba(
+      125,
+      230,
+      255,
+      0.8
+    );
+}
+
+.hud span:nth-child(2) {
+  width: 26px;
+}
+
+.hud span:nth-child(3) {
+  width: 12px;
+}
+
+.hud-circle {
+  position: absolute;
+
+  width: 180px;
+  aspect-ratio: 1;
+
+  border:
+    1px solid
+    rgba(
+      135,
+      235,
+      255,
+      0.08
+    );
+
+  border-radius: 50%;
+}
+
+.hud-circle::before,
+.hud-circle::after {
+  content: "";
+
+  position: absolute;
+  inset: 14px;
+
+  border:
+    1px dashed
+    rgba(
+      135,
+      235,
+      255,
+      0.07
+    );
+
+  border-radius: inherit;
+}
+
+.hud-circle::after {
+  inset: 38px;
+}
+
+.hud-circle--top {
+  top: -90px;
+  left: -70px;
+}
+
+.hud-circle--bottom {
+  right: -70px;
+  bottom: -80px;
+}
+
+@media (
+  min-width: 768px
+) {
+  .drone--one {
+    right: 5%;
+  }
+
+  .drone--two {
+    left: 2%;
+  }
+}
+
+@media (
+  prefers-reduced-motion:
+  reduce
+) {
+  .drone,
+  .scan-line {
+    animation: none;
+  }
+}

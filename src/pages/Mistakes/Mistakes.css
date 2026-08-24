@@ -1,0 +1,568 @@
+.mistakes {
+  min-height: 100svh;
+
+  padding:
+    max(
+      20px,
+      env(
+        safe-area-inset-top
+      )
+    )
+    16px
+    max(
+      28px,
+      env(
+        safe-area-inset-bottom
+      )
+    );
+
+  color: #f5f9fb;
+
+  background:
+    radial-gradient(
+      circle at 100% 0%,
+      rgba(
+        146,
+        66,
+        66,
+        0.12
+      ),
+      transparent 30%
+    ),
+    radial-gradient(
+      circle at 0% 40%,
+      rgba(
+        27,
+        135,
+        171,
+        0.12
+      ),
+      transparent 32%
+    ),
+    #05090f;
+}
+
+.mistakes__header {
+  display: grid;
+
+  grid-template-columns:
+    44px 1fr;
+
+  gap: 15px;
+
+  width: min(
+    100%,
+    680px
+  );
+
+  margin:
+    0 auto 28px;
+}
+
+.mistakes__back {
+  display: grid;
+  place-items: center;
+
+  width: 44px;
+  height: 44px;
+
+  border:
+    1px solid
+    rgba(
+      255,
+      255,
+      255,
+      0.075
+    );
+
+  border-radius: 14px;
+
+  color: inherit;
+
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.035
+    );
+
+  text-decoration: none;
+}
+
+.mistakes__header span {
+  color:
+    rgba(
+      157,
+      226,
+      245,
+      0.48
+    );
+
+  font-size: 0.6rem;
+  font-weight: 850;
+
+  letter-spacing:
+    0.13em;
+}
+
+.mistakes__header h1 {
+  margin:
+    5px 0 7px;
+
+  font-size:
+    clamp(
+      2rem,
+      10vw,
+      3.4rem
+    );
+
+  line-height: 0.95;
+
+  letter-spacing:
+    -0.05em;
+}
+
+.mistakes__header p {
+  margin: 0;
+
+  color:
+    rgba(
+      221,
+      235,
+      242,
+      0.46
+    );
+
+  font-size: 0.82rem;
+
+  line-height: 1.55;
+}
+
+.mistakes__summary {
+  display: grid;
+
+  grid-template-columns:
+    1fr 1fr;
+
+  gap: 10px;
+
+  width: min(
+    100%,
+    680px
+  );
+
+  margin:
+    0 auto 12px;
+}
+
+.mistakes__summary div {
+  padding: 17px;
+
+  border:
+    1px solid
+    rgba(
+      255,
+      255,
+      255,
+      0.07
+    );
+
+  border-radius: 18px;
+
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.03
+    );
+}
+
+.mistakes__summary strong {
+  display: block;
+
+  margin-bottom: 5px;
+
+  font-size:
+    clamp(
+      1.6rem,
+      8vw,
+      2.3rem
+    );
+}
+
+.mistakes__summary span {
+  color:
+    rgba(
+      219,
+      234,
+      242,
+      0.4
+    );
+
+  font-size: 0.62rem;
+
+  text-transform: uppercase;
+
+  letter-spacing:
+    0.06em;
+}
+
+.mistakes__train {
+  display: grid;
+
+  grid-template-columns:
+    auto 1fr auto;
+
+  align-items: center;
+
+  gap: 14px;
+
+  width: min(
+    100%,
+    680px
+  );
+
+  min-height: 82px;
+
+  margin:
+    0 auto 30px;
+
+  padding:
+    15px;
+
+  border:
+    1px solid
+    rgba(
+      113,
+      224,
+      250,
+      0.25
+    );
+
+  border-radius: 20px;
+
+  color: #edf9fc;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(
+        20,
+        143,
+        178,
+        0.25
+      ),
+      rgba(
+        35,
+        73,
+        102,
+        0.15
+      )
+    );
+
+  text-decoration: none;
+}
+
+.mistakes__train-icon {
+  display: grid;
+  place-items: center;
+
+  width: 46px;
+  height: 46px;
+
+  border-radius: 14px;
+
+  background:
+    rgba(
+      117,
+      227,
+      252,
+      0.08
+    );
+
+  font-size: 1.3rem;
+}
+
+.mistakes__train strong {
+  display: block;
+
+  font-size: 0.95rem;
+}
+
+.mistakes__train small {
+  display: block;
+
+  margin-top: 4px;
+
+  color:
+    rgba(
+      220,
+      238,
+      244,
+      0.44
+    );
+
+  font-size: 0.65rem;
+}
+
+.mistakes__ranking {
+  width: min(
+    100%,
+    680px
+  );
+
+  margin-inline: auto;
+}
+
+.mistakes__ranking > header span {
+  color:
+    rgba(
+      151,
+      222,
+      243,
+      0.42
+    );
+
+  font-size: 0.59rem;
+
+  font-weight: 850;
+
+  letter-spacing:
+    0.14em;
+}
+
+.mistakes__ranking h2 {
+  margin:
+    6px 0 15px;
+
+  font-size:
+    clamp(
+      1.3rem,
+      6vw,
+      1.7rem
+    );
+}
+
+.mistakes__ranking-list {
+  display: flex;
+  flex-direction: column;
+
+  gap: 9px;
+}
+
+.weak-question {
+  display: grid;
+
+  grid-template-columns:
+    37px 1fr;
+
+  gap: 12px;
+
+  padding:
+    15px;
+
+  border:
+    1px solid
+    rgba(
+      255,
+      255,
+      255,
+      0.065
+    );
+
+  border-radius: 18px;
+
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.025
+    );
+}
+
+.weak-question__rank {
+  display: grid;
+  place-items: center;
+
+  width: 37px;
+  height: 37px;
+
+  border:
+    1px solid
+    rgba(
+      247,
+      118,
+      118,
+      0.15
+    );
+
+  border-radius: 11px;
+
+  color:
+    rgba(
+      255,
+      150,
+      150,
+      0.75
+    );
+
+  background:
+    rgba(
+      241,
+      92,
+      92,
+      0.05
+    );
+
+  font-size: 0.62rem;
+  font-weight: 850;
+}
+
+.weak-question__content > span {
+  color:
+    rgba(
+      153,
+      222,
+      243,
+      0.45
+    );
+
+  font-size: 0.55rem;
+  font-weight: 800;
+
+  text-transform: uppercase;
+
+  letter-spacing:
+    0.06em;
+}
+
+.weak-question__content p {
+  margin:
+    6px 0 10px;
+
+  font-size:
+    0.78rem;
+
+  line-height: 1.45;
+}
+
+.weak-question__stats {
+  display: flex;
+  flex-wrap: wrap;
+
+  align-items: center;
+
+  gap: 5px;
+
+  color:
+    rgba(
+      219,
+      234,
+      241,
+      0.36
+    );
+
+  font-size: 0.59rem;
+}
+
+.weak-question__stats strong {
+  color:
+    rgba(
+      255,
+      148,
+      148,
+      0.8
+    );
+}
+
+.mistakes__empty {
+  width: min(
+    100%,
+    500px
+  );
+
+  margin:
+    clamp(
+      50px,
+      12vh,
+      100px
+    )
+    auto 0;
+
+  text-align: center;
+}
+
+.mistakes__empty-icon {
+  display: grid;
+  place-items: center;
+
+  width: 72px;
+  height: 72px;
+
+  margin:
+    0 auto 21px;
+
+  border:
+    1px solid
+    rgba(
+      103,
+      230,
+      167,
+      0.2
+    );
+
+  border-radius: 50%;
+
+  color:
+    #7feab7;
+
+  background:
+    rgba(
+      71,
+      202,
+      143,
+      0.07
+    );
+
+  font-size: 2rem;
+}
+
+.mistakes__empty h2 {
+  margin-bottom: 9px;
+}
+
+.mistakes__empty p {
+  color:
+    rgba(
+      220,
+      234,
+      242,
+      0.45
+    );
+
+  font-size: 0.83rem;
+
+  line-height: 1.6;
+}
+
+.mistakes__start {
+  display: inline-flex;
+
+  margin-top: 14px;
+
+  padding:
+    14px 20px;
+
+  border-radius: 14px;
+
+  color: #061017;
+
+  background: #e8f7fb;
+
+  font-weight: 850;
+
+  text-decoration: none;
+}

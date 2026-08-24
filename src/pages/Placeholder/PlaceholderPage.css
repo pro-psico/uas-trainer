@@ -1,0 +1,111 @@
+.placeholder {
+  min-height: 100svh;
+
+  display: grid;
+  place-items: center;
+
+  padding: 22px;
+
+  background:
+    radial-gradient(
+      circle at top,
+      rgba(
+        24,
+        114,
+        150,
+        0.18
+      ),
+      transparent 40%
+    ),
+    #05080d;
+
+  color: #f5f8fa;
+}
+
+.placeholder__card {
+  width: min(
+    100%,
+    520px
+  );
+
+  padding: 28px;
+
+  border:
+    1px solid
+    rgba(
+      255,
+      255,
+      255,
+      0.08
+    );
+
+  border-radius: 26px;
+
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.035
+    );
+}
+
+.placeholder__eyebrow {
+  color:
+    rgba(
+      165,
+      229,
+      247,
+      0.6
+    );
+
+  font-size: 0.68rem;
+
+  font-weight: 800;
+
+  letter-spacing:
+    0.18em;
+}
+
+.placeholder h1 {
+  margin:
+    10px 0 14px;
+
+  font-size:
+    clamp(
+      2rem,
+      10vw,
+      4rem
+    );
+}
+
+.placeholder p {
+  color:
+    rgba(
+      225,
+      236,
+      243,
+      0.6
+    );
+
+  line-height: 1.65;
+}
+
+.placeholder__back {
+  display: inline-flex;
+
+  margin-top: 24px;
+
+  padding:
+    13px 18px;
+
+  border-radius: 14px;
+
+  color: #081016;
+
+  background: #e7f6fa;
+
+  font-weight: 800;
+
+  text-decoration: none;
+}

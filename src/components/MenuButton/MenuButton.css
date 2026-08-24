@@ -1,0 +1,271 @@
+.menu-button {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+
+  gap: 14px;
+
+  width: 100%;
+
+  min-height: 66px;
+
+  padding:
+    14px 16px;
+
+  overflow: hidden;
+
+  text-decoration: none;
+
+  border:
+    1px solid
+    rgba(
+      255,
+      255,
+      255,
+      0.09
+    );
+
+  border-radius: 20px;
+
+  color: inherit;
+
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.045
+    );
+
+  backdrop-filter:
+    blur(14px);
+
+  -webkit-tap-highlight-color:
+    transparent;
+
+  transition:
+    transform 160ms ease,
+    background 160ms ease,
+    border-color 160ms ease;
+}
+
+.menu-button::before {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  opacity: 0;
+
+  background:
+    linear-gradient(
+      110deg,
+      transparent,
+      rgba(
+        255,
+        255,
+        255,
+        0.08
+      ),
+      transparent
+    );
+
+  transform:
+    translateX(-100%);
+
+  transition:
+    transform 400ms ease,
+    opacity 200ms ease;
+}
+
+.menu-button:hover::before {
+  opacity: 1;
+
+  transform:
+    translateX(100%);
+}
+
+.menu-button:hover {
+  transform:
+    translateY(-2px);
+
+  border-color:
+    rgba(
+      145,
+      230,
+      255,
+      0.25
+    );
+
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.07
+    );
+}
+
+.menu-button:active {
+  transform:
+    scale(0.985);
+}
+
+.menu-button:focus-visible {
+  outline:
+    2px solid
+    rgba(
+      145,
+      230,
+      255,
+      0.95
+    );
+
+  outline-offset:
+    3px;
+}
+
+.menu-button__icon {
+  flex:
+    0 0 44px;
+
+  display: grid;
+  place-items: center;
+
+  width: 44px;
+  height: 44px;
+
+  border-radius: 14px;
+
+  font-size: 1.35rem;
+
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.07
+    );
+}
+
+.menu-button__content {
+  flex: 1;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 2px;
+
+  min-width: 0;
+}
+
+.menu-button__content strong {
+  font-size:
+    clamp(
+      0.95rem,
+      4vw,
+      1.07rem
+    );
+
+  letter-spacing:
+    0.01em;
+}
+
+.menu-button__content small {
+  color:
+    rgba(
+      230,
+      240,
+      250,
+      0.55
+    );
+
+  font-size: 0.74rem;
+}
+
+.menu-button__arrow {
+  font-size: 1.25rem;
+
+  opacity: 0.45;
+
+  transition:
+    transform 160ms ease;
+}
+
+.menu-button:hover
+.menu-button__arrow {
+  transform:
+    translateX(3px);
+}
+
+.menu-button--primary {
+  min-height: 86px;
+
+  border-color:
+    rgba(
+      130,
+      230,
+      255,
+      0.38
+    );
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(
+        17,
+        150,
+        180,
+        0.38
+      ),
+      rgba(
+        29,
+        83,
+        120,
+        0.22
+      )
+    );
+
+  box-shadow:
+    0 20px 55px
+    rgba(
+      0,
+      174,
+      220,
+      0.08
+    ),
+    inset 0 1px 0
+    rgba(
+      255,
+      255,
+      255,
+      0.08
+    );
+}
+
+.menu-button--primary
+.menu-button__icon {
+  background:
+    rgba(
+      132,
+      232,
+      255,
+      0.13
+    );
+}
+
+.menu-button--compact {
+  min-height: 62px;
+}
+
+@media (
+  prefers-reduced-motion:
+  reduce
+) {
+  .menu-button,
+  .menu-button::before,
+  .menu-button__arrow {
+    transition: none;
+  }
+}

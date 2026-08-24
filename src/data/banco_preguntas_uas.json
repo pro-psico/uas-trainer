@@ -1,0 +1,4462 @@
+[
+  {
+    "id": 1,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 1,
+    "pregunta": "La seguridad operacional en el espacio aéreo y la seguridad de las personas en tierra y su privacidad, son aspectos relevantes que se tienen en cuenta para el establecimiento de las Normas para aeronaves no tripuladas a nivel mundial. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 2,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 2,
+    "pregunta": "¿Qué requisitos son básicos y se requiere cumplir para volar un UAS en el espacio aéreo de un país?",
+    "respuestas_incorrectas": [
+      "Ningún permiso ni licencia, ya que son no tripulados.",
+      "Sólo se pueden operar en áreas deshabitadas, sin regulaciones adicionales."
+    ],
+    "respuesta_correcta": "Un registro del UAS y el cumplimiento de las regulaciones específicas."
+  },
+  {
+    "id": 3,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 3,
+    "pregunta": "¿Cuál es uno de los propósitos principales de las regulaciones de UAS?",
+    "respuestas_incorrectas": [
+      "Restringir el acceso público a la tecnología de UAS.",
+      "Facilitar la adquisición de UAS por parte de particulares sin restricciones."
+    ],
+    "respuesta_correcta": "Garantizar la seguridad de las operaciones y proteger la integridad del espacio aéreo."
+  },
+  {
+    "id": 4,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 4,
+    "pregunta": "¿Cuál es la sigla del Organismo de Autoridad de la Aviación Civil a nivel mundial?",
+    "respuestas_incorrectas": [
+      "FAA.",
+      "EASA."
+    ],
+    "respuesta_correcta": "OACI."
+  },
+  {
+    "id": 5,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 5,
+    "pregunta": "¿Cuál es la sigla del Organismo de Autoridad de la Aviación Civil en Colombia?",
+    "respuestas_incorrectas": [
+      "AAAE.",
+      "CIAC."
+    ],
+    "respuesta_correcta": "UAEAC."
+  },
+  {
+    "id": 6,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 6,
+    "pregunta": "La normatividad aeronáutica válida en Colombia se encuentra compilada en:",
+    "respuestas_incorrectas": [
+      "NAN – Normatividad Aeronáutica Nacional.",
+      "LAR – Reglamentos Aeronáuticos Latinoamericanos."
+    ],
+    "respuesta_correcta": "RAC – Reglamentos Aeronáuticos de Colombia."
+  },
+  {
+    "id": 7,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 7,
+    "pregunta": "¿Cuál de las siguientes normas aplicables en Colombia regulan la actividad aérea con aeronaves no tripuladas?",
+    "respuestas_incorrectas": [
+      "RAC 61.",
+      "Parte 101 y 102 de la OACI."
+    ],
+    "respuesta_correcta": "RAC 100."
+  },
+  {
+    "id": 8,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 8,
+    "pregunta": "¿Cuál es el objetivo principal del marco normativo de la aviación mundial?",
+    "respuestas_incorrectas": [
+      "Ordena implementar la seguridad operacional más elevada posible para todos los estados sean signatarios o no.",
+      "Que los diferentes estados signatarios cumplan a cabalidad las reglamentaciones internacionales emitidas por la OACI."
+    ],
+    "respuesta_correcta": "Lograr y conservar el nivel uniforme de seguridad operacional más elevado posible."
+  },
+  {
+    "id": 9,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 9,
+    "pregunta": "El Objetivo del marco normativo emitido por la OACI en sus 19 Anexos, radica específicamente en dar pautas de la reglamentación internacional aplicable a los estados signatarios, los cuales tienen que cumplir de forma obligatoria al pie de la letra. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 10,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 10,
+    "pregunta": "¿Cuál es el objetivo general y principal de los RAC?",
+    "respuestas_incorrectas": [
+      "Dar pautas para el desarrollo de toda la aviación en Colombia.",
+      "Sugerir diferentes formas de operación aérea para organizar las actividades entre Aviación Civil y Aviación de Estado."
+    ],
+    "respuesta_correcta": "Regular la actividad aérea civil en el país y proporcionar una base sólida y legal en las actuaciones administrativas y operativas propias de la aviación."
+  },
+  {
+    "id": 11,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 11,
+    "pregunta": "¿Qué se entiende por la Sigla SARP’s?",
+    "respuestas_incorrectas": [
+      "Recopilación de Procedimientos, Normas y Métodos Ordenados para la Aviación Civil Internacional.",
+      "Énfasis para la aplicación de Procedimientos, Normas y Métodos Asistidos para la Aviación Civil."
+    ],
+    "respuesta_correcta": "Estudio de Procedimientos y Redacción de Normas y Métodos Recomendados para la Aviación Civil Internacional."
+  },
+  {
+    "id": 12,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 12,
+    "pregunta": "¿Cuál es la relación entre las SARP´s de la OACI y las regulaciones nacionales de aviación?",
+    "respuestas_incorrectas": [
+      "Las SARP’s reemplazan por completo las regulaciones nacionales.",
+      "Las SARP’s se aplican sólo a las aeronaves militares."
+    ],
+    "respuesta_correcta": "Las SARP’s son recomendaciones y los estados pueden adoptarlas de manera voluntaria."
+  },
+  {
+    "id": 13,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 13,
+    "pregunta": "La Reglamentación Aeronáutica Colombiana (RAC-100) se realizó en concordancia con los SARP’s emitidos por la OACI, y está determinada para mantenimiento y preservación de la seguridad operacional con los más altos estándares. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 14,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 14,
+    "pregunta": "¿Cuál de las siguientes legislaciones colombianas no requiere ser observada para el desarrollo de la Aviación No Tripulada en el país?",
+    "respuestas_incorrectas": [
+      "Código Nacional de Policía y Convivencia: Ley 1801/2016.",
+      "Código de Comercio de Colombia: Decreto 410/1971."
+    ],
+    "respuesta_correcta": "Código Nacional de Tránsito: Ley 769 de 2002."
+  },
+  {
+    "id": 15,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 15,
+    "pregunta": "El uso indebido o irresponsable de aeronaves no tripuladas, podrá ser sancionado únicamente por la Autoridad Aeronáutica competente. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 16,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 16,
+    "pregunta": "¿Qué aspecto importante relacionado con la aviación, debemos conocer sobre el Código del Comercio?",
+    "respuestas_incorrectas": [
+      "Los detalles de cómo regular nuestra actividad económica.",
+      "Los deberes y Obligaciones contractuales como Explotador UAS."
+    ],
+    "respuesta_correcta": "Las cauciones que se deben formalizar para la actividad aérea comercial con aeronaves de peso inferior a 1000 kilogramos."
+  },
+  {
+    "id": 17,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 17,
+    "pregunta": "El Código del Comercio Indica que solamente aeronaves con peso superior a 1000 kilogramos deben constituir una caución (póliza) que garantice la indemnización por eventos aéreos (incidentes o accidentes) de los cuales se genere muerte, lesiones personales, daños y perjuicios a terceras personas. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 18,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 18,
+    "pregunta": "El Código del Comercio determina que para aeronaves con peso máximo hasta de 1000 kilogramos, se debe establecer una caución para la Indemnización de terceros en caso de muerte o lesiones personales. Este valor es el equivalente a:",
+    "respuestas_incorrectas": [
+      "30.300 kilogramos de oro puro.",
+      "33.333 libras de oro puro."
+    ],
+    "respuesta_correcta": "33.333 gramos de oro puro."
+  },
+  {
+    "id": 19,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 19,
+    "pregunta": "En el proceso de autorización de solicitudes de vuelo UAS, la Aerocivil acepta pólizas RCE de aseguradoras internacionales por periodos inferiores a un año. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 20,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 20,
+    "pregunta": "¿Qué condiciones o alcances debe tener una póliza internacional, para que sea aceptada por la Aerocivil en el proceso de autorización de solicitudes de vuelo de Aeronaves no tripuladas?",
+    "respuestas_incorrectas": [
+      "Indiquen las Horas y días de la cobertura.",
+      "Debe traer una certificación de la empresa aseguradora donde detalle que las condiciones de la póliza están en conformidad con la Legislación del país donde se expide el documento."
+    ],
+    "respuesta_correcta": "Debe indicar claramente que tiene cobertura en todo el territorio colombiano y que el beneficiario con la cobertura sea el mismo Explotador UAS inscrito."
+  },
+  {
+    "id": 21,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 21,
+    "pregunta": "Para vuelos realizados con aeronaves no tripuladas en la categoría “abierta” la Aerocivil ordena que los operadores de UAS cuenten con una póliza de cubrimiento por daños a terceros producidos como consecuencia de una operación aérea. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 22,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 22,
+    "pregunta": "De acuerdo con lo estipulado en la Ley 1801/2016 “Código Nacional de Policía y Convivencia”, las autoridades competentes y actividad de policía podrán suspender e incautar una aeronave no tripulada, cuando con ella se estén infringiendo normas legales. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 23,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 23,
+    "pregunta": "¿Cuál de las siguientes opciones es la más acertada en relación con la privacidad al operar un UAS?",
+    "respuestas_incorrectas": [
+      "No existe ninguna consideración de privacidad, ya que no tienen tripulación a bordo.",
+      "Debe obtenerse el consentimiento por escrito de todas las personas que se encuentren en la cercanía antes de operarlo."
+    ],
+    "respuesta_correcta": "Respetar la privacidad de las personas y evitar la vigilancia no autorizada."
+  },
+  {
+    "id": 24,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 24,
+    "pregunta": "De acuerdo con lo estipulado en la Ley 1523/2012 Sistema Nacional de Gestión del Riesgo de Desastres, un piloto de UAS que realice vuelos de asistencia AID con aeronaves no tripuladas en el sitio del desastre, debe ostentar la capacitación requerida y suficiente para estar desarrollando esta labor. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 25,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 25,
+    "pregunta": "¿Qué es el PMU?",
+    "respuestas_incorrectas": [
+      "Puesto Mandatorio Universal. Se refiere al lugar físico donde se concentra e implementan los vehículos y ayudas humanitarias para asuntos de un determinado incidente o evento.",
+      "Es la Jerarquía de los organismos estatales que se convocan para solucionar asuntos operacionales de un determinado incidente o evento."
+    ],
+    "respuesta_correcta": "Puesto de Mando Unificado. Hace referencia al lugar físico donde se concentra e implementa la coordinación para asuntos operacionales de un determinado incidente o evento."
+  },
+  {
+    "id": 26,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 26,
+    "pregunta": "De acuerdo con la Ley 356/1994, “Estatuto de Seguridad y Vigilancia Privada” Toda empresa de vigilancia que realice actividades con UAS, requiere:",
+    "respuestas_incorrectas": [
+      "Pedir permiso de operación aérea a la Superintendencia de seguridad y vigilancia privada.",
+      "Que el gerente General haya realizado un curso de operación de aeronaves no tripuladas."
+    ],
+    "respuesta_correcta": "Tener un permiso de la Superintendencia de seguridad y vigilancia privada para el empleo de facilidades tecnológicas aprobadas."
+  },
+  {
+    "id": 27,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 27,
+    "pregunta": "Una empresa de seguridad y vigilancia privada que emplee UAS en el desarrollo de su objeto social, debe tener el debido permiso expedido por la Superintendencia de Seguridad y Vigilancia Privada para su uso. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 28,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 28,
+    "pregunta": "A los pilotos UAS que violen o incumplan las normas establecidas en los RAC, les aplica lo dispuesto en el RAC 13 “Régimen sancionatorio”. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 29,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 29,
+    "pregunta": "¿Qué significa la Sigla “OACI”?",
+    "respuestas_incorrectas": [
+      "Conglomerado de las Naciones para la Aviación Civil.",
+      "Convención de Aviación Civil Internacional."
+    ],
+    "respuesta_correcta": "Organización Internacional de Aviación Civil."
+  },
+  {
+    "id": 30,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 30,
+    "pregunta": "La OACI tiene potestad sobre los Estados miembros para realizar acciones punitivas por incumplimiento a las normas aeronáuticas proferidas por ellos. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 31,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 31,
+    "pregunta": "De acuerdo al RAC 91, es adecuado emplear sustancias como Alcohol y Alucinógenos, ya que éstas no representan un uso problemático en las actividades de vuelo. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 32,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 32,
+    "pregunta": "En una aeronave no tripulada, no es permitido realizar trabajos en la modificación del diseño original de la aeronave, que afecten el centro de gravedad o las características de vuelo de dicha aeronave sin permiso del fabricante. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 33,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 33,
+    "pregunta": "Los documentos de la OACI nombrados Partes 101 y 102 del 2020, establecen un modelo de reglamentación para UAS de Categoría abierta y Categoría específica que sugiere la OACI, para que adopten los Estados miembros para el control de este tipo de aviación. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 34,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 34,
+    "pregunta": "¿Qué significa la sigla UAEAC?",
+    "respuestas_incorrectas": [
+      "Agencia Administrativa Estatal de Aerodinámica Civil",
+      "Ninguna de las anteriores."
+    ],
+    "respuesta_correcta": "Unidad Administrativa Especial de Aeronáutica Civil."
+  },
+  {
+    "id": 35,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 35,
+    "pregunta": "¿Cuáles de los siguientes, es un documento que ha publicado la Aerocivil para el control de la Aviación no tripulada en Colombia?",
+    "respuestas_incorrectas": [
+      "Circular 008/2014 (Requisitos Generales de Aeronavegabilidad y operaciones para RPAS).",
+      "Resolución 02401/2017 -Apéndice 11 RAC 90- (Operación de Sistemas de Aeronaves Tripuladas UAS)."
+    ],
+    "respuesta_correcta": "Ninguna de las anteriores"
+  },
+  {
+    "id": 36,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 36,
+    "pregunta": "¿Qué tipo de sanciones se pueden imponer la Aerocivil por el incumplimiento de las regulaciones para UAS?",
+    "respuestas_incorrectas": [
+      "Nada, ya que las regulaciones de UAS son puramente voluntarias.",
+      "Pérdida de la licencia para conducirlos."
+    ],
+    "respuesta_correcta": "Multas económicas e incluso acciones legales."
+  },
+  {
+    "id": 37,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 37,
+    "pregunta": "¿Qué RAC indica el regimen sancionatorio aplicado a los diferentes Explotadores aéreos por cometer actos ilícitos o que vayan en contra de los Reglamentos Aeronáuticos de Colombia?",
+    "respuestas_incorrectas": [
+      "RAC 91",
+      "RAC 141"
+    ],
+    "respuesta_correcta": "RAC 13"
+  },
+  {
+    "id": 38,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 38,
+    "pregunta": "¿Cuál de las siguientes opciones constituye una violación expresa de las normas?",
+    "respuestas_incorrectas": [
+      "Volar en los parámetros de autorización emitidos por la Autoridad Aeronáutica.",
+      "Volar desconociendo el espacio aéreo en donde estoy volando."
+    ],
+    "respuesta_correcta": "Extralimitar las restricciones e indicaciones descritas en la autorización de vuelo."
+  },
+  {
+    "id": 39,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 39,
+    "pregunta": "De acuerdo con el RAC 13 “Infracciones Aeronáuticas” ¿Cuáles son los dos tipos de infracciones aeronáuticas que se le pueden imponer a un Explotador UAS que viole la reglamentación?",
+    "respuestas_incorrectas": [
+      "Infracciones generales e infracciones particulares",
+      "Infracciones de la norma y Sanciones del procedimiento"
+    ],
+    "respuesta_correcta": "Infracciones de orden técnico e infracciones de orden administrativo."
+  },
+  {
+    "id": 40,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 40,
+    "pregunta": "Las Sanciones aeronáuticas impuestas por la Aerocivil, que tengan relación directa con acciones u omisiones que atenten contra la seguridad aérea y pongan en peligro la seguridad operacional de las aeronaves está considerada como una sanción:",
+    "respuestas_incorrectas": [
+      "De Orden nacional",
+      "De Orden Gerencial"
+    ],
+    "respuesta_correcta": "De Orden Técnico."
+  },
+  {
+    "id": 41,
+    "tema": "DERECHO AÉREO Y REGULACIONES AERONÁUTICAS",
+    "numero_pregunta": 41,
+    "pregunta": "La Policía Nacional puede suspender o impedir todas aquellas actividades con UAS o incautar los dispositivos de aeronaves no tripuladas, cuando con ellos no se estén violando ninguna de las normas o leyes legales del país. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 42,
+    "tema": "RAC 100",
+    "numero_pregunta": 1,
+    "pregunta": "¿Cuál es el título de la norma RAC 100?",
+    "respuestas_incorrectas": [
+      "Generalidades de las aeronaves no tripuladas - UAS.",
+      "Reglamento de utilización de aeronaves no tripuladas - UAS."
+    ],
+    "respuesta_correcta": "Operación de sistemas de aeronaves no tripuladas - UAS."
+  },
+  {
+    "id": 43,
+    "tema": "RAC 100",
+    "numero_pregunta": 2,
+    "pregunta": "¿A quiénes aplica la reglamentación de la norma RAC 100?",
+    "respuestas_incorrectas": [
+      "A toda persona natural o jurídica en el país que realice operaciones con UAS con fines comerciales únicamente y para los CIAC y aeroclubes que tengan previsto prestar servicios de capacitación y entrenamiento en la operación de UAS.",
+      "A aeronaves no tripuladas que realicen operaciones en territorio colombiano; y para cualquier tipo de centro de instrucción que tenga previsto prestar servicios de capacitación y entrenamiento en la operación de UAS."
+    ],
+    "respuesta_correcta": "A toda persona natural o jurídica, pública o privada, nacional o extranjera, que planee realizar operaciones con UAS sin ánimo de lucro, con fines comerciales y a todo CIAC que tenga previsto prestar servicios de instrucción en la operación de UAS."
+  },
+  {
+    "id": 44,
+    "tema": "RAC 100",
+    "numero_pregunta": 3,
+    "pregunta": "La norma RAC 100 contiene, entre otros, los requisitos para:",
+    "respuestas_incorrectas": [
+      "Los impuestos legales para los UAS y equipos tecnológicos asociados a ellas.",
+      "La obtención del permiso de funcionamiento de un centro de instrucción de UAS."
+    ],
+    "respuesta_correcta": "La obtención del certificado de idoneidad como piloto UAS."
+  },
+  {
+    "id": 45,
+    "tema": "RAC 100",
+    "numero_pregunta": 4,
+    "pregunta": "¿Qué ventaja tiene una UA registrada?",
+    "respuestas_incorrectas": [
+      "Son las únicas que pueden volar a 500 ft AGL.",
+      "Son las únicas que deben cumplir los RAC, en general."
+    ],
+    "respuesta_correcta": "Se puede operar dentro de la legalidad."
+  },
+  {
+    "id": 46,
+    "tema": "RAC 100",
+    "numero_pregunta": 5,
+    "pregunta": "La bitácora de vuelo es un documento donde se lleva el histórico de los vuelos realizados por una persona en formato libre, el cual debe contener como mínimo los siguientes datos: nombre del piloto UAS, fecha del vuelo, hora de despegue, tiempo total de vuelo y modelo del equipo UAS registrado. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 47,
+    "tema": "RAC 100",
+    "numero_pregunta": 6,
+    "pregunta": "El certificado de idoneidad de piloto UAS es un documento expedido por la Aerocivil por medio del cual se otorgan a una persona privilegios para operar UAS en la categoría específica. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 48,
+    "tema": "RAC 100",
+    "numero_pregunta": 7,
+    "pregunta": "El libro de vuelo y mantenimiento de una aeronave no tripulada es un documento de cada una de las aeronaves no tripuladas registradas ante la Aerocivil, en el cual se registran todos los datos, condiciones y reportes de vuelo, así como la información correspondiente a problemas de funcionamiento y trabajos de mantenimiento realizados a cada una de ellas. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 49,
+    "tema": "RAC 100",
+    "numero_pregunta": 8,
+    "pregunta": "¿Cuál de las siguientes postulaciones hace parte de la deficnición del observador UA?",
+    "respuestas_incorrectas": [
+      "Es una persona común y corriente quien, mediante observación visual directa de la aeronave no tripulada, ayuda al piloto UAS en la realización segura del vuelo, especialmente en operaciones VLOS.",
+      "Es cualquier persona designada por el Explotador UAS, para que acompañe al piloto de UAS en la realización de un vuelo."
+    ],
+    "respuesta_correcta": "Es una persona capacitada y competente, quien, mediante observación visual directa de la aeronave no tripulada, ayuda al piloto UAS en la realización segura del vuelo, especialmente en operaciones VLOS y EVLOS."
+  },
+  {
+    "id": 50,
+    "tema": "RAC 100",
+    "numero_pregunta": 9,
+    "pregunta": "¿Qué significa la sigla VLOS?",
+    "respuestas_incorrectas": [
+      "Virtual Line of Sight / Visibilidad en linea de vista virtual.",
+      "Visual Line Operation Safety / Visibilidad en linea de vista de operación segura."
+    ],
+    "respuesta_correcta": "Visual Line of Sight / Visibilidad en linea de vista."
+  },
+  {
+    "id": 51,
+    "tema": "RAC 100",
+    "numero_pregunta": 10,
+    "pregunta": "¿Qué significa la sigla BVLOS?",
+    "respuestas_incorrectas": [
+      "Beyond Virtual Line of Sight / Visibilidad más allá de la línea virtual de vista.",
+      "Basic Visual Line Operation Safety / Visibilidad en línea basica de operación segura."
+    ],
+    "respuesta_correcta": "Beyond Visual Line of Sight / Visibilidad más allá de la linea de vista."
+  },
+  {
+    "id": 52,
+    "tema": "RAC 100",
+    "numero_pregunta": 11,
+    "pregunta": "¿Qué significa la sigla EVLOS?",
+    "respuestas_incorrectas": [
+      "Eventual Visual Line of Sight / Visibilidad en línea de vista eventual.",
+      "Extreme Visual Line Operation Safety / Visibilidad en linea de operación extrema segura."
+    ],
+    "respuesta_correcta": "Extended Visual Line of Sight / Visibilidad en línea de vista extendida."
+  },
+  {
+    "id": 53,
+    "tema": "RAC 100",
+    "numero_pregunta": 12,
+    "pregunta": "En las operaciones en condiciones visuales VLOS está permitido el uso de instrumentos electrónicos, mecánicos, electromagnéticos, ópticos y/o electroópticos para no perder de vista la aeronave en vuelo. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 54,
+    "tema": "RAC 100",
+    "numero_pregunta": 13,
+    "pregunta": "La definición de EVLOS es: Operación más allá de la línea de vista, en la cual el piloto UAS opera un UAS sin mantener contacto visual directo con la UA. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 55,
+    "tema": "RAC 100",
+    "numero_pregunta": 14,
+    "pregunta": "Un sistema tecnológico de gestión de vuelo UAS, es aquella plataforma que integra, entre otras, facilidades tecnológicas, la gestión en tiempo real la operación de la aeronave no tripulada, garantizando el control operacional del vuelo sobre un sistema de información geográfica – GIS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 56,
+    "tema": "RAC 100",
+    "numero_pregunta": 15,
+    "pregunta": "El manual de control de mantenimiento (MCM) es el mismo manual del fabricante. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 57,
+    "tema": "RAC 100",
+    "numero_pregunta": 16,
+    "pregunta": "Se denomina operador UAS:",
+    "respuestas_incorrectas": [
+      "A la persona que manipula los mandos de control de una UA en cualquier categoría y quien conoce a profundidad el manual del usuario de la aeronave.",
+      "En la norma RAC 100 no se emplea el término “operador UAS”."
+    ],
+    "respuesta_correcta": "A la persona que manipula los mandos de control de una UA en categoría abierta, quien no cuenta con certificado de idoneidad como piloto UAS."
+  },
+  {
+    "id": 58,
+    "tema": "RAC 100",
+    "numero_pregunta": 17,
+    "pregunta": "¿Qué significa la sigla FPV?",
+    "respuestas_incorrectas": [
+      "Follow Plane View / Seguimiento del plano visual.",
+      "Facilidad para volar."
+    ],
+    "respuesta_correcta": "First Person View / Vista en primera persona."
+  },
+  {
+    "id": 59,
+    "tema": "RAC 100",
+    "numero_pregunta": 18,
+    "pregunta": "La sigla ZNVD significa Zona Norte para Vuelo de Drones. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 60,
+    "tema": "RAC 100",
+    "numero_pregunta": 19,
+    "pregunta": "¿Qué tipo de aeronaves no tripuladas deben registrarse en categoria abierta ante la Aerocivil?",
+    "respuestas_incorrectas": [
+      "Todas aquellas cuyo PMBO sea 250 gramos.",
+      "Solamente aquellas aeronaves no tripuladas que sean empleadas para actividades comerciales o profesionales."
+    ],
+    "respuesta_correcta": "Todos aquellos sistemas de aeronaves no tripuladas en los que la aeronave tenga un peso igual o superior a 200 gramos."
+  },
+  {
+    "id": 61,
+    "tema": "RAC 100",
+    "numero_pregunta": 20,
+    "pregunta": "En el caso en que se celebren contratos de arrendamiento sobre un UAS, la responsabilidad operacional recaerá sobre el arrendatario, dado que estos acuerdos lo convierten en explotador UAS.",
+    "respuestas_incorrectas": [
+      "Verdadero, sin condiciones.",
+      "Falso, el propietario siempre responderá por lo operacional."
+    ],
+    "respuesta_correcta": "Verdadero, siempre y cuando el contrato sea puesto en conocimiento del asunto a la Aerocivil."
+  },
+  {
+    "id": 62,
+    "tema": "RAC 100",
+    "numero_pregunta": 21,
+    "pregunta": "Es obligatorio que toda UA registrada tenga una etiqueta de identificación y que contenga datos mínimos del propietario o explotador UAS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 63,
+    "tema": "RAC 100",
+    "numero_pregunta": 22,
+    "pregunta": "¿Qué es la categoría “abierta”?",
+    "respuestas_incorrectas": [
+      "Corresponde a las aeronaves no comerciales y con un PMBO de hasta 15 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue.",
+      "Corresponde a las operaciones aéreas comerciales y con un PMBO de hasta 25 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue."
+    ],
+    "respuesta_correcta": "Corresponde a las operaciones aéreas no comerciales y con un PMBO de hasta 25 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue."
+  },
+  {
+    "id": 64,
+    "tema": "RAC 100",
+    "numero_pregunta": 23,
+    "pregunta": "¿Cuál de las siguientes expresiones define mejor la categoría “específica”, según el RAC 100?",
+    "respuestas_incorrectas": [
+      "Corresponde a las operaciones de vuelo con una UA empleada en actividades diferentes a las comerciales y hasta 250 kilogramos de peso general, incluyendo todos los elementos a bordo.",
+      "Corresponde a las aeronaves no tripuladas que se empleen en actividades comerciales, desde 25 Kilogramos y hasta 250 kilogramos de peso máximo, incluyendo todos los elementos a bordo."
+    ],
+    "respuesta_correcta": "Corresponde a las operaciones con una UA con finalidades comerciales, indiferente de su peso, y hasta 250 kilogramos de peso (masa) bruto en el despegue incluyendo todos los elementos a bordo."
+  },
+  {
+    "id": 65,
+    "tema": "RAC 100",
+    "numero_pregunta": 24,
+    "pregunta": "La Categoría Certificada corresponde a las operaciones de sistemas de aeronaves remotamente piloteadas RPAS, cuyas condiciones de vuelo y fines de utilización son similares a las realizadas en la aviación tripulada. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 66,
+    "tema": "RAC 100",
+    "numero_pregunta": 25,
+    "pregunta": "Planear el desarrollo de la operación, conocer las diferentes clasificaciones del espacio aéreo, operar un UA de manera responsable y segura, operar la UA dentro de las limitaciones establecidas por el fabricante y garantizar que la UA y sus correspondientes sistemas se encuentran en condiciones aptas para realizar un vuelo seguro, son algunas de las responsabilidades tanto de un operador UA, como de un piloto a distancia UA. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 67,
+    "tema": "RAC 100",
+    "numero_pregunta": 26,
+    "pregunta": "La distancia horizotal máxima permitida para operar una UA en VLOS es:",
+    "respuestas_incorrectas": [
+      "500 mts.",
+      "500 ft."
+    ],
+    "respuesta_correcta": "750 mts."
+  },
+  {
+    "id": 68,
+    "tema": "RAC 100",
+    "numero_pregunta": 27,
+    "pregunta": "El RAC 100 permite que las operaciones aéreas con UAS se puedan efectuar por encima de la primera capa de nubes, siempre y cuando estas se encuentren a no más de 500 ft de altura.",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 69,
+    "tema": "RAC 100",
+    "numero_pregunta": 28,
+    "pregunta": "El RAC 100 limita la cantidad de observadores UAS a uno solo por operación aérea, cuando se realicen operaciones en condición EVLOS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 70,
+    "tema": "RAC 100",
+    "numero_pregunta": 29,
+    "pregunta": "Para la categoría específica, la condición de vuelo nocturno la puede realizar cualquier piloto UAS, siempre y cuando tenga al día su certificado de aprobación del curso básico de piloto UAS en un CIAC autorizado por la Aerocivil. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 71,
+    "tema": "RAC 100",
+    "numero_pregunta": 30,
+    "pregunta": "¿Cuáles de las siguientes postulaciones son condiciones a cumplir al realizar actividades de vuelo en zona urbana? 1-Límite horizontal de 30 m en cercanía a una persona ajena a la operación. 2-No se puede volar por encima de 400 ft. 3-Únicamente en condiciones VLOS.",
+    "respuestas_incorrectas": [
+      "Solo el numeral 3 es correcto",
+      "Los numerales 1 y 3 son correctos"
+    ],
+    "respuesta_correcta": "Los numerales 1, 2 y 3 son correctos"
+  },
+  {
+    "id": 72,
+    "tema": "RAC 100",
+    "numero_pregunta": 31,
+    "pregunta": "Cuales de los siguientes Vuelos Especiales con UAS, son considerados dentro del RAC 100:",
+    "respuestas_incorrectas": [
+      "Vuelo acrobático, en zona rural, automático, para demostraciones y bajo techo.",
+      "Vuelo pesado, urbano, acrobático, bajo techo y de paisajismo."
+    ],
+    "respuesta_correcta": "Vuelo nocturno, en zona urbana, autónomo, para demostraciones comerciales o de capacidad tecnologica UAS, en competencias y actividades deportivas."
+  },
+  {
+    "id": 73,
+    "tema": "RAC 100",
+    "numero_pregunta": 32,
+    "pregunta": "De acuerdo con el RAC 100 para una inspección operacional, todo operador UA debe tener siempre a la mano unicamente certificado de inscripción de la UA ante la Aerocivil y copia del libro de vuelo y mantenimiento. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 74,
+    "tema": "RAC 100",
+    "numero_pregunta": 33,
+    "pregunta": "Con respecto al consumo de sustancias que perjudiquen las facultades humanas en su desempeño, la norma establece que no se podrá operar una UA, estando bajo su influencia, o dentro de las 36 horas siguientes a su consumo, bien sea de alcohol u otra sustancia psicoactiva. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 75,
+    "tema": "RAC 100",
+    "numero_pregunta": 34,
+    "pregunta": "Las sanciones que expresamente detalla el RAC 100 por la comisión de un acto prohibido o por incumplimiento de lo descrito en ella acarreará entre otras:",
+    "respuestas_incorrectas": [
+      "Suspender o revocar cualquier certificado o autorización aprobado previamente por la Aerocivil o negar cualquier solicitud elevada ante ella.",
+      "Iniciar actos administrativos sancionatorios según lo dispuesto en el RAC 13 sin perjuicio de la responsabilidad civil, penal, policiva o administrativa inherente al hecho."
+    ],
+    "respuesta_correcta": "Las dos opciones son correctas."
+  },
+  {
+    "id": 76,
+    "tema": "RAC 100",
+    "numero_pregunta": 35,
+    "pregunta": "En caso de un evento donde por la operación de la UA una persona haya resultado lesionada, el explotador está obligado a reportarlo a la autoridad de investigación de accidentes de aviación. Con",
+    "respuestas_incorrectas": [
+      "No es obligatorio, se realiza si el usuario ve la necesidad de reportarlo.",
+      "Sí se debe reportar, pero solo en el caso de requerirse para adelantar la gestión para el cobro de la póliza."
+    ],
+    "respuesta_correcta": "Si, esto es completamente obligatorio."
+  },
+  {
+    "id": 77,
+    "tema": "RAC 100",
+    "numero_pregunta": 36,
+    "pregunta": "Teniendo en cuenta que las aeronaves no tripuladas que realicen operaciones aéreas en la categoría abierta no requieren pedir permiso ante la Aerocivil, el RAC 100 no contempla las especificaciones requeridas y las reglas de operación para esta categoría. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 78,
+    "tema": "RAC 100",
+    "numero_pregunta": 37,
+    "pregunta": "Las condiciones específicas de operación con UAS en Colombia según el RAC 100, en categoría abierta y categoría específica, son, entre otras:",
+    "respuestas_incorrectas": [
+      "Altura máxima 400 m, VLOS 500 ft, IMC, separación mínima de personas a 300 m, consulta de meteorología.",
+      "Ninguna de las anteriores, para la categoría abierta no se exigen condiciones de operación."
+    ],
+    "respuesta_correcta": "Altura máxima 400 ft., VLOS 750 m, VMC, separación mínima de personas 30 m, consulta de espacios aéreos."
+  },
+  {
+    "id": 79,
+    "tema": "RAC 100",
+    "numero_pregunta": 38,
+    "pregunta": "¿Cuáles de las siguientes son consideradas restricciones para la operación de la categoría abierta? 1-Volar en zonas restringidas, prohibidas, peligrosas, ZNVD y BVLOS. 2-Actividades de transporte, delivery o comerciales. 3-Actividades recreativas o de deporte. 4-Volar en zonas despobladas o determinadas para el uso de aeromodelos. 5-Volar en cercanía de: Presidente, unidades militares y aeródromos.",
+    "respuestas_incorrectas": [
+      "Los numerales 1, 2 y 3 con correctos",
+      "Los numerales 3, 4 y 5 son correctos"
+    ],
+    "respuesta_correcta": "Los numerales 1, 2 y 5 son correctos"
+  },
+  {
+    "id": 80,
+    "tema": "RAC 100",
+    "numero_pregunta": 39,
+    "pregunta": "Un operador de una UA en categoría abierta deberá demostrar capacitación, entre otras, de las siguientes áreas de conocimiento:",
+    "respuestas_incorrectas": [
+      "Manual de operación del fabricante, conocimiento de las UA y conciencia situacional.",
+      "Solamente basta con conocer el funcionamiento de cada botón y palancas de control remoto de la aeronave."
+    ],
+    "respuesta_correcta": "Procedimientos de operación y seguridad del fabricante, cuidados y mantenimiento, aerodinámica aplicada y conocimiento de las UA, meteorología y navegación aplicada, actuación humana, distracciones y conciencia situacional."
+  },
+  {
+    "id": 81,
+    "tema": "RAC 100",
+    "numero_pregunta": 40,
+    "pregunta": "Las consideraciones que indica el RAC100 para una operación en categoría específica son:",
+    "respuestas_incorrectas": [
+      "Que la operación sea realizada para vuelos de hobby, recreación o deporte.",
+      "Que el piloto quiera realizar operaciones en esta categoría, por las bondades que ofrece."
+    ],
+    "respuesta_correcta": "Que la operación sea realizada con fines comerciales y que la operación exceda las condiciones y limitaciones dispuestas para la categoría abierta."
+  },
+  {
+    "id": 82,
+    "tema": "RAC 100",
+    "numero_pregunta": 41,
+    "pregunta": "Las operaciones de vigilancia y seguridad privada con UAS las puede realizar cualquier persona en la Categoría Abierta, siempre y cuando lo haga sin ánimo de lucro, en apoyo a una labor social y en coordinación directa con el cuadrante de la Policía Nacional que opera en el sector. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 83,
+    "tema": "RAC 100",
+    "numero_pregunta": 42,
+    "pregunta": "Las actividades de instrucción propia de los CIAC, aunque están catalogadas como operaciones de la categoría específica, no requieren cumplir el total de los formalismos relacionados para esta categoría, teniendo en cuenta que se encuentran bajo condiciones muy controladas de seguridad. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 84,
+    "tema": "RAC 100",
+    "numero_pregunta": 43,
+    "pregunta": "Para que un Explotador UAS pueda realizar una operación aérea de conformidad con las disposiciones legales del RAC 100, es requisito:",
+    "respuestas_incorrectas": [
+      "No haber inscrito ante la Aerocivil los equipos especiales que empleará.",
+      "No es necesario contar con la póliza de responsabilidad civil."
+    ],
+    "respuesta_correcta": "Contar con un Certificado de Explotador UAS expedido por la Aerocivil."
+  },
+  {
+    "id": 85,
+    "tema": "RAC 100",
+    "numero_pregunta": 44,
+    "pregunta": "Para que un Explotador UAS pueda realizar una operación aérea de conformidad con las disposiciones legales del RAC 100 es requisito:",
+    "respuestas_incorrectas": [
+      "Es opcional contar con el manual de operaciones y del fabricante",
+      "Es voluntario realizar el respectivo análisis de riesgos de seguridad operacional."
+    ],
+    "respuesta_correcta": "Obtener las autorizaciones de vuelo correspondientes."
+  },
+  {
+    "id": 86,
+    "tema": "RAC 100",
+    "numero_pregunta": 45,
+    "pregunta": "En caso de ser requerido por un Explotador UAS realizar modificaciones estructurales a una de sus UA, lo podrá hacer para brindar un mejor servicio a sus clientes. El anterior postulado es:",
+    "respuestas_incorrectas": [
+      "Falso, nunca se puede hacer.",
+      "Verdadero, siempre y cuando se tenga la respectiva autorización por parte de la Aerocivil."
+    ],
+    "respuesta_correcta": "Verdadero, siempre y cuando estén expresamente aprobadas por el fabricante."
+  },
+  {
+    "id": 87,
+    "tema": "RAC 100",
+    "numero_pregunta": 46,
+    "pregunta": "Dado el caso en que el piloto automático de la UA que se está volando presente fallas es necesario:",
+    "respuestas_incorrectas": [
+      "Deshabilitar el piloto automático del UA y continuar en vuelo manual.",
+      "Terminar rápidamente el trabajo que se está realizando, para no perder tiempo."
+    ],
+    "respuesta_correcta": "Suspender la operación aérea, para no incurrir en un accidente o incidente."
+  },
+  {
+    "id": 88,
+    "tema": "RAC 100",
+    "numero_pregunta": 47,
+    "pregunta": "Las acciones de mitigación de riesgos procuradas por el explotador UAS en cuanto a la pérdida de la conexión de comunicación entre la UA y la estación en tierra deberán enfocarse en minimizar los daños en caso de falla del enlace C2; estas acciones deben estar debidamente consignadas en el MO. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 89,
+    "tema": "RAC 100",
+    "numero_pregunta": 48,
+    "pregunta": "Para el caso específico de un UAS de 60 kg de PMBO utilizado en operaciones de aspersión agrícola en beneficio de un predio de su mismo propietario, su piloto debe:",
+    "respuestas_incorrectas": [
+      "Pedir permiso a la Aerocivil para ejecutar los vuelos.",
+      "Contar con la matriz de análisis y mitigación de riesgos."
+    ],
+    "respuesta_correcta": "Contar con el certificado de idoneidad y las adiciones correspondientes para el caso específico."
+  },
+  {
+    "id": 90,
+    "tema": "RAC 100",
+    "numero_pregunta": 49,
+    "pregunta": "Para el caso específico de un UAS de 60 kg de PMBO utilizado en operaciones de aspersión agrícola en beneficio de un predio de su mismo propietario, su piloto deberá solicitar siempre permiso a la Aerocivil. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 91,
+    "tema": "RAC 100",
+    "numero_pregunta": 50,
+    "pregunta": "Uno de los requisitos expresados en el RAC 100 y que es de suma importancia para poder solicitar un permiso de vuelo para realizar operaciones de enjambre con UAS, es:",
+    "respuestas_incorrectas": [
+      "Ser ingeniero de sistemas especializado en el software que controla el enjambre.",
+      "Poseer un sistema de protección especial para evitar incidentes o accidentes en caso de que fallen y se desplomen algunas aeronaves."
+    ],
+    "respuesta_correcta": "Contar con una adición en su certificado de idoneidad con base en un documento válido que soporte las habilidades y competencias necesarias para efectuar este tipo de operaciones."
+  },
+  {
+    "id": 92,
+    "tema": "RAC 100",
+    "numero_pregunta": 51,
+    "pregunta": "¿Qué significa una operación “dron delivery”?",
+    "respuestas_incorrectas": [
+      "Es una operación especial de topografía.",
+      "Es una operación de transporte de personas (taxi)."
+    ],
+    "respuesta_correcta": "Es una operación de transporte y entrega de pequeñas cargas."
+  },
+  {
+    "id": 93,
+    "tema": "RAC 100",
+    "numero_pregunta": 52,
+    "pregunta": "Un explotador UAS que pretenda hacer operaciones aéreas “dron delivery” está en la obligación de demostrar que el personal designado para efectuar este tipo de labor cuenta con la capacitación correspondiente del fabricante de la aeronave en cuanto a la manipulación y operación deL UAS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 94,
+    "tema": "RAC 100",
+    "numero_pregunta": 53,
+    "pregunta": "Que el personal involucrado en la manipulación de la carga tenga capacitación certificada en cuanto a transporte seguro de mercancías peligrosas por vía aérea es un requisito obligatorio para poder",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 95,
+    "tema": "RAC 100",
+    "numero_pregunta": 54,
+    "pregunta": "¿Qué límite debe ser excedido para poder considerar una operación de una UA como operación BVLOS?",
+    "respuestas_incorrectas": [
+      "Superar la distancia horizontal entre el Piloto UAS y la UA de 1.500 m.",
+      "Solamente disponer de un sistema de administración en tiempo real de la aeronave para poder volar."
+    ],
+    "respuesta_correcta": "Superar la distancia horizontal entre el piloto UAS y la UA de 3 km o antes si pierde linea directa de vista."
+  },
+  {
+    "id": 96,
+    "tema": "RAC 100",
+    "numero_pregunta": 55,
+    "pregunta": "Una operación BVLOS puede llevarse a cabo en cualquier lugar, no requiere condiciones especiales para su vuelo; solamente se requiere que el Explotador UAS realice una solicitud ordinaria ante la Aerocivil. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 97,
+    "tema": "RAC 100",
+    "numero_pregunta": 56,
+    "pregunta": "Las operaciones aéreas que sean realizadas en condiciones BVLOS por parte de un explotador UAS requieren que este cuente con una autorización expresa para este tipo de operación y un área específica determinada para el efecto. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 98,
+    "tema": "RAC 100",
+    "numero_pregunta": 57,
+    "pregunta": "¿Qué condiciones especiales debe tener en cuenta un explotador UAS para volar BVLOS? 1-Máxima altura de 400 ft y en VMC. 2-Falta de conciencia situacional permanente en la ubicación de la UA en vuelo. 3-Maxima desviación permitida es de 30 m entre la ruta de los WP. 4-Pérdida del enlace C2 se considera operación normal. 5-Visualización de la telemetría y sistema de administración del espacio en tiempo real. 6-Monitorización parcial y esporádica de la meteorología.",
+    "respuestas_incorrectas": [
+      "Los numerales 1, 2 y 3 son correctos.",
+      "Los numerales 4, 5 y 6 son correctos."
+    ],
+    "respuesta_correcta": "Los numerales 1, 3 y 5 son correctos."
+  },
+  {
+    "id": 99,
+    "tema": "RAC 100",
+    "numero_pregunta": 58,
+    "pregunta": "El certificado como explotador UAS expedido por la Aerocivil para la categoría específica permite:",
+    "respuestas_incorrectas": [
+      "Que el explotador UAS pueda determinar de mejor forma las tarifas de su servicio.",
+      "Que el explotador UAS relacione sin restricción los pilotos de UAS que requiera la empresa."
+    ],
+    "respuesta_correcta": "Que el explotador UAS cuente con autorización por parte de la Aerocivil para poder prestar un determinado servicio de aviación civil con el uso de UAS."
+  },
+  {
+    "id": 100,
+    "tema": "RAC 100",
+    "numero_pregunta": 59,
+    "pregunta": "Algunos de los requisitos que necesita una empresa para poder gestionar ante la Aerocivil un certificado como explotador UAS son:",
+    "respuestas_incorrectas": [
+      "Contar con un registro mercantil válido.",
+      "Obtener resultado satisfactorio en la inspección operacional por parte de la Aerocivil."
+    ],
+    "respuesta_correcta": "Ambas opciones son válidas."
+  },
+  {
+    "id": 101,
+    "tema": "RAC 100",
+    "numero_pregunta": 60,
+    "pregunta": "¿Con qué lapso de tiempo un explotador UAS debe reportar cambios en su información de registro para evitar inconsistencias que ocasionen la suspensión de su certificado de explotador UAS?",
+    "respuestas_incorrectas": [
+      "Mínimo semestralmente, el último día hábil de cada periodo.",
+      "Solamente se requiere el registro inicial, no hay necesidad de reportar cambios."
+    ],
+    "respuesta_correcta": "Dentro de los 15 días siguientes a la ocurrencia del cambio."
+  },
+  {
+    "id": 102,
+    "tema": "RAC 100",
+    "numero_pregunta": 61,
+    "pregunta": "Mantener al día el libro de vuelo y mantenimiento de cada UA, así como emitir y mantener actualizado el Manual de Operación (MO), hacen parte integral de las responsabilidades que el Explotador UAS certificado, Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 103,
+    "tema": "RAC 100",
+    "numero_pregunta": 62,
+    "pregunta": "No es necesario que el explotador UAS certifique el tiempo de vuelo acumulado a cada piloto UAS que trabaje en la empresa, teniendo en cuenta que la Aerocivil lleva este registro por medio de los permisos de vuelo tramitados. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 104,
+    "tema": "RAC 100",
+    "numero_pregunta": 63,
+    "pregunta": "Es responsabilidad de cada uno de los pilotos UAS que trabaja con un explotador UAS mantener sus competencias de entrenamiento para cumplir con los diferentes tipos de operación que realiza la empresa, realizando por cuenta propia los cursos de repaso y verificaciones correspondientes. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 105,
+    "tema": "RAC 100",
+    "numero_pregunta": 64,
+    "pregunta": "¿Cuáles son los parámetros que la Aerocivil tendrá en cuenta para suspender o cancelar un certificado de explotador UAS? 1-El incumplimiento de requisitos y condiciones establecidos en la reglamentación. 2-Efectuar operaciones aéreas que pongan en riesgo la seguridad operacional. 3-La incapacidad técnica para realizar actividades de mantenimiento. 4-El abandono de la actividad autorizada sin justificación por más de un año.",
+    "respuestas_incorrectas": [
+      "Los numerales 1 y 4 son correctos.",
+      "Los numerales 2 y 3 son correctos."
+    ],
+    "respuesta_correcta": "Todos los numerales son correctos."
+  },
+  {
+    "id": 106,
+    "tema": "RAC 100",
+    "numero_pregunta": 65,
+    "pregunta": "Un explotador UAS que tenga registrado bajo su dominio tres (3) o más UAS, ¿qué cargos debe registrar y designar ante la Aerocivil?",
+    "respuestas_incorrectas": [
+      "Una persona en el cargo de Jefe de Mantenimiento de UA y otra persona en el cargo de Gerente de Proyectos.",
+      "Una persona en el cargo de Secretaría para UAS y otra persona en el cargo de Gerente de Seguridad de los “Vertipuertos”."
+    ],
+    "respuesta_correcta": "Una persona en el cargo de Jefe de Pilotos UA y otra persona en el cargo de Gerente de Seguridad Operacional."
+  },
+  {
+    "id": 107,
+    "tema": "RAC 100",
+    "numero_pregunta": 66,
+    "pregunta": "¿Cuál de las siguientes afirmaciones no corresponde a la experiencia que debe ostentar un Jefe de Pilotos?",
+    "respuestas_incorrectas": [
+      "Contar con capacitación como piloto UAS en al menos una de las operaciones aéreas autorizadas al explotador UAS.",
+      "Contar con capacitación certificada por CIAC, de mínimo cuarenta (40) horas, en el sistema de gestión de la seguridad operacional - SMS."
+    ],
+    "respuesta_correcta": "Contar con experiencia administrativa de al menos cien (100) horas de trámites de vuelo para UAS."
+  },
+  {
+    "id": 108,
+    "tema": "RAC 100",
+    "numero_pregunta": 67,
+    "pregunta": "El aseguramiento de la adecuada asignación y utilización de cada UA y de cada piloto UAS de acuerdo con las competencias requeridas para el desarrollo de la operación autorizada al explotador UAS certificado es una función expresa del Jefe de Pilotos. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 109,
+    "tema": "RAC 100",
+    "numero_pregunta": 68,
+    "pregunta": "Monitorear los estándares operativos y la eficiencia de cada piloto UAS designado es una de las funciones principales del Gerente de Seguridad Operacional. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 110,
+    "tema": "RAC 100",
+    "numero_pregunta": 69,
+    "pregunta": "De las siguiente cualificaciones y experiencias del Gerente de Seguridad Operacional, ¿Cuál es la correcta?",
+    "respuestas_incorrectas": [
+      "Contar con un curso básico sobre el Sistema de Gestión de Calidad, certificado por ICONTEC, de mínimo cuarenta (40) horas.",
+      "Experiencia administrativa contable acreditada respecto de las funciones y naturaleza de la empresa explotadora UAS."
+    ],
+    "respuesta_correcta": "Tener formación acreditada en áreas del sector aeronáutico."
+  },
+  {
+    "id": 111,
+    "tema": "RAC 100",
+    "numero_pregunta": 70,
+    "pregunta": "La responsabilidad de la identificación de los peligros y el análisis y gestión de los riesgos en cuanto a la operación con aeronaves no tripuladas es una función inherente al Jefe de Pilotos. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 112,
+    "tema": "RAC 100",
+    "numero_pregunta": 71,
+    "pregunta": "Monitorear que se lleven a cabo las acciones correctivas (planes de acción) de un Explotador UAS, es una función inherente al Gerente de la Seguridad Operacional. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 113,
+    "tema": "RAC 100",
+    "numero_pregunta": 72,
+    "pregunta": "¿Cuál es el nombre del documento expedido por la Aerocivil que permite a los pilotos UA desarrollar operaciones de vuelo con aeronaves no tripuladas en la categoría específica?",
+    "respuestas_incorrectas": [
+      "Licencia de piloto a distancia.",
+      "Licencia de operación de UAS."
+    ],
+    "respuesta_correcta": "Certificado de idoneidad de piloto UAS."
+  },
+  {
+    "id": 114,
+    "tema": "RAC 100",
+    "numero_pregunta": 73,
+    "pregunta": "¿Cuál de los requisitos a continuación aplica para solicitar un certificado de idoneidad?",
+    "respuestas_incorrectas": [
+      "Haber culminado satisfactoriamente con Acta de Grado los estudios de básica secundaria en una institución reconocida nacionalmente.",
+      "Pagar un Objeto Virtual de Aprendizaje para reforzar los conocimientos de UAS."
+    ],
+    "respuesta_correcta": "Haber culminado satisfactoriamente el contenido del curso básico de piloto UAS de aeronaves no tripuladas en un CIAC aprobado por la Aerocivil."
+  },
+  {
+    "id": 115,
+    "tema": "RAC 100",
+    "numero_pregunta": 74,
+    "pregunta": "¿Cuál de los siguientes es requisito para poder volar una UA en categoría específica?",
+    "respuestas_incorrectas": [
+      "Contar con una aeronave no tripulada sin registro ante la Aerocivil.",
+      "Solicitar una autorización de vuelo no requiere presentar la poliza RCE."
+    ],
+    "respuesta_correcta": "Contar con un certificado de idoneidad como piloto UAS expedido por la Aerocivil."
+  },
+  {
+    "id": 116,
+    "tema": "RAC 100",
+    "numero_pregunta": 75,
+    "pregunta": "El certificado de idoneidad obtenido por una persona podrá ser transferido a otra, de acuerdo con la solicitud expresa de un explotador UAS en un determinado momento y bajo unas circunstancias específicas. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 117,
+    "tema": "RAC 100",
+    "numero_pregunta": 76,
+    "pregunta": "Para poder obtener el certificado de idoneidad de piloto UA en categoría específica, se requiere contar con un certificado médico con las siguientes características:",
+    "respuestas_incorrectas": [
+      "Médico Ocupacional: Vigencia de dos años, optometría, audiometría, tensión arterial, neurología, psicología e integridad de extremidades inferiores.",
+      "Médico Aeronáutico: Vigencia de tres años, optometría, audiometría, oftalmología, neurología, psicología y coeficiente intelectual."
+    ],
+    "respuesta_correcta": "Médico Ocupacional: Vigencia de un año, optometría, audiometría, lenguaje verbal e integridad de extremidades superiores."
+  },
+  {
+    "id": 118,
+    "tema": "RAC 100",
+    "numero_pregunta": 77,
+    "pregunta": "La estructura academica del curso de piloto UAS, contiene las siguientes áreas de conocimiento entre otras: 1-Aerodinámica aplicada. 2-Despacho de aeronaves. 3-Regulaciones aeronáuticas. 4-Peso y balance. 5-Meteorología aeronáutica. 6-Navegación aérea. 7-Asistente en vuelo.",
+    "respuestas_incorrectas": [
+      "Los numerales 2, 4, 6 y 7 son correctos.",
+      "Todos los numerales son correctos."
+    ],
+    "respuesta_correcta": "Los numerales 1, 3, 5 y 6 son correctos."
+  },
+  {
+    "id": 119,
+    "tema": "RAC 100",
+    "numero_pregunta": 78,
+    "pregunta": "Para la planificación del vuelo, se requiere del uso practico de GIS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 120,
+    "tema": "RAC 100",
+    "numero_pregunta": 79,
+    "pregunta": "Actividades como la dispersión, aspersión e instrucción de vuelo UAS, son considerados como adiciones al certificado de idoneidad. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 121,
+    "tema": "RAC 100",
+    "numero_pregunta": 80,
+    "pregunta": "Actividades de fotogrametría y modelamiento digital del terreno son considerados como adiciones al certificado de idoneidad. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 122,
+    "tema": "RAC 100",
+    "numero_pregunta": 81,
+    "pregunta": "Los requisitos generales para obtener una adición al certificado de idoneidad como piloto UAS son:",
+    "respuestas_incorrectas": [
+      "Ser titular de una aeronave que requiera de las especificaciones de la adición; demostrar horas de práctica relacionada con la correspondiente adición; pago de la compensación económica de la adición.",
+      "No tienen requisitos generales y se solicita a la Dirección de Servicios de Navegación Aérea."
+    ],
+    "respuesta_correcta": "Ser titular de un certificado de idoneidad de piloto UAS otorgado por la Aerocivil; demostrar capacitación teórica y práctica relacionada con la correspondiente adición; pago de los derechos de la respectiva adición."
+  },
+  {
+    "id": 123,
+    "tema": "RAC 100",
+    "numero_pregunta": 82,
+    "pregunta": "La suspensión o cancelación de un certificado de idoneidad o de sus adiciones se origina por: 1-A solicitud del interesado. 2-El titular no reúne los requisitos que dieron origen a su otorgamiento. 3-Como sanción en caso de infracción a los Reglamentos Aeronáuticos de Colombia. 4-Suspensión provisional por riesgo inminente contra la seguridad operacional en flagrancia.",
+    "respuestas_incorrectas": [
+      "Los numerales 2 y 3 son correctos.",
+      "Los numerales 1 y 4 son correctos."
+    ],
+    "respuesta_correcta": "Todos los numerales son correctos."
+  },
+  {
+    "id": 124,
+    "tema": "RAC 100",
+    "numero_pregunta": 83,
+    "pregunta": "El Sistema De Gestión de la Seguridad Operacional – SMS es de cumplimiento opcional para los explotadores UAS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 125,
+    "tema": "RAC 100",
+    "numero_pregunta": 84,
+    "pregunta": "El Sistema de Gestión de la Seguridad Operacional – SMS es de obligatorio cumplimiento para los explotadores UAS y requisito fundamental para obtener el certificado como explotador UAS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 126,
+    "tema": "RAC 100",
+    "numero_pregunta": 85,
+    "pregunta": "Tres (3) documentos requeridos para realizar una solicitud de autorización de vuelo en categoría específica ante la Aerocivil son:",
+    "respuestas_incorrectas": [
+      "Manual de operaciones, factura de compra, manual del fabricante.",
+      "Todas las opciones son correctas."
+    ],
+    "respuesta_correcta": "Formato de solicitud de vuelo, matriz SMS y póliza."
+  },
+  {
+    "id": 127,
+    "tema": "RAC 100",
+    "numero_pregunta": 86,
+    "pregunta": "Es requisito fundamental para tramitar el certificado de explotador UAS contar con el manual de operaciones (MO) aprobado por la Aerocivil. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 128,
+    "tema": "RAC 100",
+    "numero_pregunta": 87,
+    "pregunta": "Los documentos mínimos requeridos para solicitar un certificado de idoneidad como piloto UAS son: 1-Certificado del curso básico de piloto UAS expedido por un CIAC aprobado. 2-Copia del registro civil de nacimiento. 3-Copia del documento de identificación. 4-Copia de la declaración de renta. 5-Copia de la constancia de realización del OVA. 6-Copia del certificado de aprobación del examen teórico. 7-Copia de la licencia de conducción. 8-Copia del certificado médico ocupacional vigente.",
+    "respuestas_incorrectas": [
+      "Los numerales 2, 4, 5 y 7 no son requeridos.",
+      "Todos los numerales son requeridos."
+    ],
+    "respuesta_correcta": "Los numerales 1, 3, 5, 6 y 8 son requeridos."
+  },
+  {
+    "id": 129,
+    "tema": "RAC 100",
+    "numero_pregunta": 88,
+    "pregunta": "Los documentos mínimos requeridos para la solicitud de registro de una UA contemplan: las fotografías de la aeronave, la factura de compra, la declaración de importación, paz y salvo de la DIAN y el documento de identificación del propietario. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 130,
+    "tema": "RAC 100",
+    "numero_pregunta": 89,
+    "pregunta": "El procedimiento correcto para informar a la Aerocivil de que se requiere o se realizó una cesión de dominio de un UAS de un propietario a un explotador UAS que compró o alquiló la aeronave se realiza:",
+    "respuestas_incorrectas": [
+      "Tramitando el formato reporte de desuso o solicitud cambio de propiedad de UAS o equipo tecnológico, adjuntando para el efecto la documentación solicitada.",
+      "No se requiere informar a la Aerocivil de la novedad."
+    ],
+    "respuesta_correcta": "Por medio de carta dirigida al Grupo Drones y Movilidad Urbana Aérea firmada por el propietario del registro."
+  },
+  {
+    "id": 131,
+    "tema": "RAC 100",
+    "numero_pregunta": 90,
+    "pregunta": "Los únicos documentos requeridos para iniciar el proceso de certificación de explotador UAS son la carta de cumplimiento y el manual de operaciones con SMS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 132,
+    "tema": "RAC 100",
+    "numero_pregunta": 91,
+    "pregunta": "De las siguientes opciones, determine la fases para obtener la certificación como Explotador UAS (seleccione la correcta).",
+    "respuestas_incorrectas": [
+      "Solicitud, Aprobación de manuales, Inspección y Certificado.",
+      "Presolicitud, Evaluación documental, Solicitud formal, Demostración y Certificado."
+    ],
+    "respuesta_correcta": "Presolicitud, Solicitud, Evaluación Documental, Inspección y demostración y Emisión del certificado."
+  },
+  {
+    "id": 133,
+    "tema": "RAC 100",
+    "numero_pregunta": 92,
+    "pregunta": "Toda solicitud de autorización de vuelo que involucre el uso de espacio aéreo restringido, peligroso o prohibido debe ser solicitado a la Aerocivil, con copia dirigida a la FAC. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 134,
+    "tema": "RAC 100",
+    "numero_pregunta": 93,
+    "pregunta": "¿Qué requisito es necesario si un explotador UAS va a realizar un vuelo que esté dentro de una ZNVD?",
+    "respuestas_incorrectas": [
+      "Requerirá obligatoriamente el pago de los derechos para poder operar en una ZNVD.",
+      "Requerirá obligatoriamente una carta de confidencialidad exclusiva de la Fiscalía General de la Nación."
+    ],
+    "respuesta_correcta": "Requerirá obligatoriamente una autorización escrita de la entidad responsable de la ZNVD."
+  },
+  {
+    "id": 135,
+    "tema": "RAC 100",
+    "numero_pregunta": 94,
+    "pregunta": "¿Qué es y que significa la sigla CDM?",
+    "respuestas_incorrectas": [
+      "CDM: Coordinación de Datos Monitoreados.",
+      "CDM: Compilación De Maniobras integradas."
+    ],
+    "respuesta_correcta": "CDM: Toma de decisiones en colaboracion."
+  },
+  {
+    "id": 136,
+    "tema": "RAC 100",
+    "numero_pregunta": 95,
+    "pregunta": "¿Qué sigifica la sigla - MCM?",
+    "respuestas_incorrectas": [
+      "MCM: Maniobras controladas por el manual.",
+      "MCM: Monitoreo de control manual."
+    ],
+    "respuesta_correcta": "MCM: Manual de control de mantenimiento."
+  },
+  {
+    "id": 137,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 1,
+    "pregunta": "La aerodinámica es el estudio del movimiento de las masas de aire y sus efectos en la tierra. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 138,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 2,
+    "pregunta": "La definición mas acertada para \"AERODINÁMICA\" es:",
+    "respuestas_incorrectas": [
+      "El estudio de las propiedades químicas de los gases que componen el aire.",
+      "El movimiento del aire en la tierra."
+    ],
+    "respuesta_correcta": "El estudio del comportamiento del aire en movimiento al interactuar con un objeto."
+  },
+  {
+    "id": 139,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 3,
+    "pregunta": "¿Cuál de las siguientes opciones describe adecuadamente las tres leyes de Newton?",
+    "respuestas_incorrectas": [
+      "Ley de la termodinámica, ley de la física y y ley de la presión.",
+      "Ley del flujo, ley de la estática y ley de la reacción."
+    ],
+    "respuesta_correcta": "Ley de la inercia, ley de la dinámica y y ley de la acción y reacción."
+  },
+  {
+    "id": 140,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 4,
+    "pregunta": "Una de las leyes de Newton, que es uno de los principios aplicados a la aerodinámica presente en los UAS, es:",
+    "respuestas_incorrectas": [
+      "Ley de conservación de la energía.",
+      "Ley de la termodinámica"
+    ],
+    "respuesta_correcta": "Ley de acción y reacción."
+  },
+  {
+    "id": 141,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 5,
+    "pregunta": "El teorema de Bernoulli describe que todo cuerpo sumergido en un líquido experimenta una fuerza hacia arriba equivalente al peso del volumen desalojado. Este postulado es:.",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 142,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 6,
+    "pregunta": "¿De qué trata el teorema de Bernoulli?",
+    "respuestas_incorrectas": [
+      "Describe el comportamiento de un objeto con respecto a un fluido.",
+      "Describe los cambios de velocidad por la temperatura de un fluido."
+    ],
+    "respuesta_correcta": "Describe la conservación de la energia relacionando con la presión y velocidad de un fluido."
+  },
+  {
+    "id": 143,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 7,
+    "pregunta": "¿Cual de los siguientes postulados es verdadero?",
+    "respuestas_incorrectas": [
+      "A mayor velocidad relativa del aire, mayor presión sobre el plano aerodinámico de la aeronave, por lo tanto mayor sustentación.",
+      "A mayor velocidad relativa del aire, menor colchón de aire bajo el plano aerodinámico de la aeronave, por lo tanto mayor sustentación."
+    ],
+    "respuesta_correcta": "A mayor velocidad relativa del aire, menor presión sobre el plano aerodinámico de la aeronave, por lo tanto mayor sustentación."
+  },
+  {
+    "id": 144,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 8,
+    "pregunta": "¿Qué es un perfil aerodinámico?",
+    "respuestas_incorrectas": [
+      "La capacidad de una aeronave para realizar maniobras acrobáticas.",
+      "La velocidad máxima que puede alcanzar una aeronave."
+    ],
+    "respuesta_correcta": "La forma y las características del perfil transversal de una superficie sustentadora."
+  },
+  {
+    "id": 145,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 9,
+    "pregunta": "La capa de la atmósfera donde se desarrolla principalmente la aviación es:",
+    "respuestas_incorrectas": [
+      "La mesosfera.",
+      "La exosfera."
+    ],
+    "respuesta_correcta": "La troposfera."
+  },
+  {
+    "id": 146,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 10,
+    "pregunta": "Son los movimientos angulares naturales de una aeronave sobre sus ejes:",
+    "respuestas_incorrectas": [
+      "Guiñada, torsión y alabeo.",
+      "Guiñada, bamboleo y torsión."
+    ],
+    "respuesta_correcta": "Guiñada, alabeo y cabeceo."
+  },
+  {
+    "id": 147,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 11,
+    "pregunta": "¿Qué consideraciones se tienen para el cálculo del PMBO?",
+    "respuestas_incorrectas": [
+      "Peso potencial de inercia.",
+      "Variación de la presión por temperatura."
+    ],
+    "respuesta_correcta": "Potencia motriz, presión atmosférica y temperatura del aire."
+  },
+  {
+    "id": 148,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 12,
+    "pregunta": "¿Cuál es el función principal del borde de ataque de un perfil aerodinámico?",
+    "respuestas_incorrectas": [
+      "Parte del perfil aerodinámico donde se manifiestan los vectores de fuerza.",
+      "La presión del aire ejerce fuerza de sustentación."
+    ],
+    "respuesta_correcta": "Recibe el aire de impacto y lo divide para recorrer el perfil aerodinámico."
+  },
+  {
+    "id": 149,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 13,
+    "pregunta": "¿Cuál es la principal función que identifica el borde de fuga o borde de salida de un perfil aerodinámico?",
+    "respuestas_incorrectas": [
+      "Allí la sustentación ejerce su fuerza.",
+      "Allí cambia la presión del aire."
+    ],
+    "respuesta_correcta": "Allí, los flujos superior e inferior abandonan el ala."
+  },
+  {
+    "id": 150,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 14,
+    "pregunta": "¿A qué se denomina cuerda alar o línea de cuerda en un perfil aerodinámico?",
+    "respuestas_incorrectas": [
+      "Línea que recorre un perfil por su borde superior.",
+      "Línea que mide el espesor máximo del perfil."
+    ],
+    "respuesta_correcta": "Línea recta que va desde el borde de ataque hasta el borde de fuga."
+  },
+  {
+    "id": 151,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 15,
+    "pregunta": "¿Qué es un perfil aerodinámico simétrico?",
+    "respuestas_incorrectas": [
+      "Perfil que produce sustentación con ángulo de ataque cero.",
+      "Perfil de medidas iguales entre el espesor máximo y la cuerda."
+    ],
+    "respuesta_correcta": "Perfil en donde la línea de curvatura media coincide con la cuerda alar."
+  },
+  {
+    "id": 152,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 16,
+    "pregunta": "¿Qué es un perfil aerodinámico asimétrico?",
+    "respuestas_incorrectas": [
+      "Perfil en donde el extrados y el intrados son iguales.",
+      "Perfil similar en medidas entre borde de fuga y borde de ataque."
+    ],
+    "respuesta_correcta": "Perfil que produce sustentación con ángulo de ataque cero."
+  },
+  {
+    "id": 153,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 17,
+    "pregunta": "¿Cuáles son los vectores de fuerza resultantes que actúan en una aeronave?",
+    "respuestas_incorrectas": [
+      "Sustentación, elevación, empuje y resistencia.",
+      "Elevación, gravedad, empuje y potencia."
+    ],
+    "respuesta_correcta": "Sustentación, peso, empuje y resistencia."
+  },
+  {
+    "id": 154,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 18,
+    "pregunta": "¿Cómo se podría describir la fuerza sustentadora (lift) para una aeronave?",
+    "respuestas_incorrectas": [
+      "La fuerza resutante que impulsa a una aeronave hacia adelante.",
+      "La fuerza resultante que se opone a la resistencia al avance de una aeronave."
+    ],
+    "respuesta_correcta": "La fuerza resultante que principalmente hala a una aeronave hacia arriba."
+  },
+  {
+    "id": 155,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 19,
+    "pregunta": "¿Cómo se podría describir la resistencia en una aeronave?",
+    "respuestas_incorrectas": [
+      "La fuerza que mantiene una aeronave en el aire.",
+      "La capacidad que tiene una aeronave para mantenerse en vuelo."
+    ],
+    "respuesta_correcta": "La dificultad que experimenta el avance de una aeronave."
+  },
+  {
+    "id": 156,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 20,
+    "pregunta": "¿Cómo afecta la forma del ala a su aerodinámica?",
+    "respuestas_incorrectas": [
+      "Determina la velocidad máxima de vuelo.",
+      "Determina la altura máxima de servicio de una aeronave."
+    ],
+    "respuesta_correcta": "Influye directamente en la sustentación y la resistencia."
+  },
+  {
+    "id": 157,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 21,
+    "pregunta": "¿Cual es la característica del centro de gravedad de un multicóptero?",
+    "respuestas_incorrectas": [
+      "Que se ubica en cada uno de los motores de la aeronave.",
+      "Los multicópteros no tienen centro de gravedad definido."
+    ],
+    "respuesta_correcta": "Que se ubica cerca del centro geométrico de la aeronave, dependiendo de la distribución de los motores."
+  },
+  {
+    "id": 158,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 22,
+    "pregunta": "¿En dónde se debería ubicar el centro de gravedad de un avión?",
+    "respuestas_incorrectas": [
+      "En el tren de aterrizaje.",
+      "En la cola del avión."
+    ],
+    "respuesta_correcta": "En el centro de presión de las alas."
+  },
+  {
+    "id": 159,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 23,
+    "pregunta": "El centro de gravedad de una aeronave generalmente se expresa en términos de posición en el sistema de referencia de la aeronave, que incluye los ejes longitudinal, lateral y vertical. Estas “coordenadas” permiten determinar la ubicación precisa del punto del centro de gravedad. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 160,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 24,
+    "pregunta": "¿Qué sucede si el centro de gravedad de una UA se encuentra por fuera de los límites establecidos por el fabricante?",
+    "respuestas_incorrectas": [
+      "Se aprovecha para poder hacer vuelos acrobáticos con más facilidad.",
+      "El sistema advierte la condición y no permite el despegue de la UA."
+    ],
+    "respuesta_correcta": "Afecta negativamente la capacidad de control y estabilidad de la UA en el aire."
+  },
+  {
+    "id": 161,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 25,
+    "pregunta": "¿Qué es el ángulo de ataque?",
+    "respuestas_incorrectas": [
+      "Ángulo formado entre el borde de ataque y la cuerda alar.",
+      "Ángulo formado entre la línea de curvatura media alar y el viento relativo."
+    ],
+    "respuesta_correcta": "Ángulo formado entre la cuerda alar y el viento relativo."
+  },
+  {
+    "id": 162,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 26,
+    "pregunta": "¿Por qué se produce la pérdida aerodinámica?",
+    "respuestas_incorrectas": [
+      "Por aumento de velocidad del aire en el intrados.",
+      "Por acercarse a una velocidad subsónica."
+    ],
+    "respuesta_correcta": "Por exceder el ángulo de ataque."
+  },
+  {
+    "id": 163,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 27,
+    "pregunta": "¿Cuál de las siguientes opciones corresponde a superficies hipersustentadoras?",
+    "respuestas_incorrectas": [
+      "Alas rotatorias.",
+      "Spoilers"
+    ],
+    "respuesta_correcta": "Flaps"
+  },
+  {
+    "id": 164,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 28,
+    "pregunta": "¿Cómo influye la temperatura en el vuelo de un UA a una presión constante?",
+    "respuestas_incorrectas": [
+      "A menor temperatura, más difícil volar, menos tiempo de vuelo.",
+      "A menor temperatura, más fácil volar, menos tiempo de vuelo."
+    ],
+    "respuesta_correcta": "A mayor temperatura, más difícil volar, menos tiempo de vuelo."
+  },
+  {
+    "id": 165,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 29,
+    "pregunta": "¿Cómo se contrarresta el torque de las hélices en un multirrotor?",
+    "respuestas_incorrectas": [
+      "Todas las hélices giran en sentido de las manecillas del reloj.",
+      "Un solo motor no se ve afectado por el torque."
+    ],
+    "respuesta_correcta": "Las hélices se contrarrestan por pares girando en sentidos contrarios."
+  },
+  {
+    "id": 166,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 30,
+    "pregunta": "¿Qué tipos de resistencia aerodinámica existen?",
+    "respuestas_incorrectas": [
+      "Contorno, de superficie, de presión.",
+      "Parásita, inducida y de presión."
+    ],
+    "respuesta_correcta": "Inducida y parásita."
+  },
+  {
+    "id": 167,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 31,
+    "pregunta": "Entre los efectos aerodinámicos que tienen ocurrencia en una superficie alar, ¿qué es la pérdida?",
+    "respuestas_incorrectas": [
+      "La pérdida de sustentación por disminución de la densidad del aire.",
+      "La pérdida de velocidad de la aeronave."
+    ],
+    "respuesta_correcta": "La pérdida de sustentación por alto ángulo de ataque."
+  },
+  {
+    "id": 168,
+    "tema": "AERODINÁMICA BÁSICA",
+    "numero_pregunta": 32,
+    "pregunta": "¿Cuál de los siguientes elementos no es considerado una superficie sustentadora?",
+    "respuestas_incorrectas": [
+      "Hélices.",
+      "\"Flaps\" y \"slats\"."
+    ],
+    "respuesta_correcta": "Alerones."
+  },
+  {
+    "id": 169,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 1,
+    "pregunta": "¿Qué es la meteorología?",
+    "respuestas_incorrectas": [
+      "Es el estudio de las condiciones marítimas que tienen influencia en el viento y la lluvia.",
+      "Es el comportamiento del tiempo y clima de un lugar específico."
+    ],
+    "respuesta_correcta": "Es el estudio de los fenómenos que ocurren el la atmósfera."
+  },
+  {
+    "id": 170,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 2,
+    "pregunta": "¿En cuáles campos se hace uso de aplicación de la meteorología?",
+    "respuestas_incorrectas": [
+      "Forestal, aerodinámica y agropecuaria.",
+      "Regional, local y oceánica."
+    ],
+    "respuesta_correcta": "Experimental, sinóptica, agrícola, marítima y aeronáutica."
+  },
+  {
+    "id": 171,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 3,
+    "pregunta": "¿A qué se le conoce como clima?",
+    "respuestas_incorrectas": [
+      "Variación diaria de las condiciones atmosféricas que se presentan en una región específica.",
+      "Variaciones del viento en cuanto a velocidad y dirección que se presentan en una región específica."
+    ],
+    "respuesta_correcta": "Descripción estadística de las condiciones meteorológicas más frecuentes de una región, en un determinado período de tiempo."
+  },
+  {
+    "id": 172,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 4,
+    "pregunta": "¿A qué se le conoce como “tiempo meteorológico”?",
+    "respuestas_incorrectas": [
+      "Descripción estadística de las condiciones meteorológicas más frecuentes de una región, en un determinado periodo de tiempo.",
+      "Variaciones del viento en cuanto a velocidad y dirección que se presentan en una región específica."
+    ],
+    "respuesta_correcta": "Variación diaria o de tiempos muy cortos de análisis de las condiciones atmosféricas que se presentan en una región específica."
+  },
+  {
+    "id": 173,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 5,
+    "pregunta": "¿Cuál es la diferencia entre tiempo meteorológico y clima?",
+    "respuestas_incorrectas": [
+      "No hay diferencia, realmente son lo mismo.",
+      "El tiempo meteorológico son las condiciones atmosféricas predominantes de una región amplia y se determina por periodos largos de tiempo. El clima es un estado de la atmosfera en un momento determinado, en una locación específica y cambia constantemente."
+    ],
+    "respuesta_correcta": "El tiempo meteorológico es un estado de la atmósfera en un momento determinado, en una ubicación específica y cambia constantemente. El clima son las condiciones atmosféricas predominantes de una región amplia y se determina por períodos largos de tiempo."
+  },
+  {
+    "id": 174,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 6,
+    "pregunta": "¿Qué aspectos contribuyen a que se determinen los parámetros de clima en un lugar determinado?",
+    "respuestas_incorrectas": [
+      "Latitud y orografía.",
+      "Posición geográfica relativa con respecto a continentes y océanos."
+    ],
+    "respuesta_correcta": "Las dos opciones son correctas."
+  },
+  {
+    "id": 175,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 7,
+    "pregunta": "De las siguientes opciones, ¿Qué instrumentos meteorológicos, se emplean para capturar información del tiempo meteorológico? 1-Indicador de velocidad y dirección de viento. 2-Termómetros de altas y alcohol. 3-Odómetro. 4-Sensor de humedad. 5-Sensor presión ATM. 6-Tensiómetro. 7-Ceilómetro. 8-Variómetro. 9-Horizonte artificial. 10-Manómetro.",
+    "respuestas_incorrectas": [
+      "Los numerales 2, 4, 6, 8 y 10 son correctos",
+      "Los numerales 1, 3, 6, 8, 9 y 10 son correctos."
+    ],
+    "respuesta_correcta": "Los numerales 1, 2, 4, 5 y 7 son correctos."
+  },
+  {
+    "id": 176,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 8,
+    "pregunta": "La observación meteorológica consiste en la medición de todos los elementos meteorológicos que en conjunto representan las condiciones del estado de la atmósfera. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 177,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 9,
+    "pregunta": "¿Qué es la atmósfera?",
+    "respuestas_incorrectas": [
+      "Es manto de vapor de agua que rodea a la tierra.",
+      "Ambas opciones son correctas."
+    ],
+    "respuesta_correcta": "Es el conjunto de gases y nubes que envuelven a la tierra."
+  },
+  {
+    "id": 178,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 10,
+    "pregunta": "¿Cuál es la composición estándar del aire?",
+    "respuestas_incorrectas": [
+      "Nitrógeno 70% - Oxígeno 25% - Otros gases 5%",
+      "Nitrógeno 80% - 0xígeno 19% - Otros gases 1%"
+    ],
+    "respuesta_correcta": "Nitrógeno 78% - Oxígeno 21% - Otros gases 1%"
+  },
+  {
+    "id": 179,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 11,
+    "pregunta": "Además de los elementos gaseosos estándar del aire, ¿qué otras moléculas conforman la atmósfera?",
+    "respuestas_incorrectas": [
+      "Núcleos higroscópicos.",
+      "Solamente agua en estado gaseoso."
+    ],
+    "respuesta_correcta": "Agua en sus tres estados."
+  },
+  {
+    "id": 180,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 12,
+    "pregunta": "Las capas de la atmósfera según la composición química del aire son homósfera y heterósfera. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 181,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 13,
+    "pregunta": "¿Cuál de las siguientes es una característica de la troposfera?",
+    "respuestas_incorrectas": [
+      "Disminución abrupta de la temperatura con el incremento de altitud.",
+      "La altitud promedio del tope de la atmósfera es alrededor de 6 millas."
+    ],
+    "respuesta_correcta": "Contiene toda la humedad de la atmósfera."
+  },
+  {
+    "id": 182,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 14,
+    "pregunta": "La ionosfera es una capa de la atmósfera no clasificada según temperatura, la cual contiene una gran cantidad de iones que son importantes para procesos electromagnéticos. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 183,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 15,
+    "pregunta": "¿Qué característica tiene la ionósfera?",
+    "respuestas_incorrectas": [
+      "Permite la refracción de las ondas de radio HF.",
+      "Permite la difracción de las ondas de radio VHF."
+    ],
+    "respuesta_correcta": "Permite la reflexión de las ondas largas de radio HF."
+  },
+  {
+    "id": 184,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 16,
+    "pregunta": "¿Qué es el viento?",
+    "respuestas_incorrectas": [
+      "Es el movimiento de una masa de aire en sentido vertical.",
+      "Es el movimiento de una masa de aire sin importar su sentido."
+    ],
+    "respuesta_correcta": "Es el movimiento de una masa de aire en sentido horizontal."
+  },
+  {
+    "id": 185,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 17,
+    "pregunta": "¿Cuáles son las unidades empleadas para poder medir la velocidad del viento?",
+    "respuestas_incorrectas": [
+      "(m/s) metros por segundo y (km/h) kilómetros por hora.",
+      "(kt) nudos."
+    ],
+    "respuesta_correcta": "Todas las opciones son verdaderas."
+  },
+  {
+    "id": 186,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 18,
+    "pregunta": "El movimiento vertical de una masa de aire, inducido por elaumento de su temperatura se denomina:",
+    "respuestas_incorrectas": [
+      "Estratificación.",
+      "Efecto de Coriolis."
+    ],
+    "respuesta_correcta": "Convección."
+  },
+  {
+    "id": 187,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 19,
+    "pregunta": "Los vientos catabáticos son identificados como:",
+    "respuestas_incorrectas": [
+      "Vientos que viajan desde los valles hacia la cima de las montañas.",
+      "Vientos que viajan por las costas."
+    ],
+    "respuesta_correcta": "Vientos que viajan de los picos hacia las faldas de las montañas."
+  },
+  {
+    "id": 188,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 20,
+    "pregunta": "El movimiento desordenado del aire originado por diferentes causas se le conoce como:",
+    "respuestas_incorrectas": [
+      "Viento geostrófico.",
+      "Corriente de chorro."
+    ],
+    "respuesta_correcta": "Turbulencia."
+  },
+  {
+    "id": 189,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 21,
+    "pregunta": "¿Qué es la turbulencia?",
+    "respuestas_incorrectas": [
+      "Es el desplazamiento de un fluido de forma ordenada y laminar con respecto a su dirección e intensidad.",
+      "Es una situación de desorden presentado por un elemento en general."
+    ],
+    "respuesta_correcta": "Es el desplazamiento de un fluido de forma desordenada con respecto a su dirección e intensidad."
+  },
+  {
+    "id": 190,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 22,
+    "pregunta": "Para la aviación no tripulada, ¿por qué es peligrosa una situación de turbulencia del aire?",
+    "respuestas_incorrectas": [
+      "Porque interrumpe el flujo laminar sobre las superficies sustentadoras, causando desplome.",
+      "Porque existiendo la condición turbulenta, no se puede ver a simple vista."
+    ],
+    "respuesta_correcta": "Las dos opciones son correctas."
+  },
+  {
+    "id": 191,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 23,
+    "pregunta": "¿Qué es temperatura?",
+    "respuestas_incorrectas": [
+      "Es un concepto teórico basado en las sensaciones del cuerpo humano.",
+      "Es la comparación entre la sensación de frío y calor."
+    ],
+    "respuesta_correcta": "Es la medida de la energía interna de un cuerpo."
+  },
+  {
+    "id": 192,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 24,
+    "pregunta": "El calor es la energía manifestada por el aumento de la temperatura en un cuerpo determinado. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 193,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 25,
+    "pregunta": "¿Qué es radiación solar?",
+    "respuestas_incorrectas": [
+      "Son las crestas de fuego que produce el sol.",
+      "Se le conoce como la corona solar cuando hay un eclipse de sol."
+    ],
+    "respuesta_correcta": "Es la energía emitida por el sol."
+  },
+  {
+    "id": 194,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 26,
+    "pregunta": "La radiación solar se compone de radiación infrarroja y radiación ultravioleta únicamente. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 195,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 27,
+    "pregunta": "¿Cuál es la principal causa de la variación climatológica y del estado de la meteorología?",
+    "respuestas_incorrectas": [
+      "Cambios en la presión del aire sobre la superficie de la tierra.",
+      "Movimientos de las masas de aire de las áreas húmedas a las áreas secas."
+    ],
+    "respuesta_correcta": "Variaciones de la energía solar en la superficie terrestre."
+  },
+  {
+    "id": 196,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 28,
+    "pregunta": "¿A qué se le conoce como meteoro?",
+    "respuestas_incorrectas": [
+      "A un fenómeno atmosférico sólido (granizo, nieve, etc.).",
+      "Es el mismo meteoríto."
+    ],
+    "respuesta_correcta": "A cualquier fenómeno atmosférico (Hidricos, Sólidos, Eólicos, luminosos y Estelares)"
+  },
+  {
+    "id": 197,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 29,
+    "pregunta": "¿A qué se le conoce como meteorito?",
+    "respuestas_incorrectas": [
+      "Cualquier fenómeno atmosférico.",
+      "Las dos opciones son correctas."
+    ],
+    "respuesta_correcta": "Cualquier fragmento de materia sólida procedente del espacio exterior."
+  },
+  {
+    "id": 198,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 30,
+    "pregunta": "Las nubes son las manifestaciones visibles del agua contenida en la atmósfera, indicando saturación y condensación. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 199,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 31,
+    "pregunta": "¿A qué se le conoce como “precipitación”?",
+    "respuestas_incorrectas": [
+      "Cuando alguien realiza una acción de forma acelerada.",
+      "Evaporación del agua de la superficie."
+    ],
+    "respuesta_correcta": "Caída de agua líquida o sólida desde la atmósfera hacia la superficie terrestre."
+  },
+  {
+    "id": 200,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 32,
+    "pregunta": "Cuando la temperatura actual del aire se acerca a la temperatura del punto de rocío identificamos que:",
+    "respuestas_incorrectas": [
+      "Hay menor probabilidad de formación de niebla o nubes bajas.",
+      "No hay probabilidad de precipitación."
+    ],
+    "respuesta_correcta": "Hay mayor probabilidad de formación de niebla, neblina o nubes bajas."
+  },
+  {
+    "id": 201,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 33,
+    "pregunta": "Las nubes tipo estratos (ST), cúmulos (CU) y estratocúmulos (SC) son consideradas:",
+    "respuestas_incorrectas": [
+      "Nubes de capa media.",
+      "Nubes de tormenta."
+    ],
+    "respuesta_correcta": "Nubes de capa baja."
+  },
+  {
+    "id": 202,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 34,
+    "pregunta": "Las nubes tipo cirros, cirroestratos y cirrocúmulos son consideradas:",
+    "respuestas_incorrectas": [
+      "Nubes bajas.",
+      "Nubes medias."
+    ],
+    "respuesta_correcta": "Nubes altas."
+  },
+  {
+    "id": 203,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 35,
+    "pregunta": "La clasificación de las nubes según su apariencia es:",
+    "respuestas_incorrectas": [
+      "Estratiformes, bancos de niebla y cirriformes.",
+      "De formación vertical y formación horizontal."
+    ],
+    "respuesta_correcta": "Estratiformes, cumuliformes y cirriformes."
+  },
+  {
+    "id": 204,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 36,
+    "pregunta": "¿Cuál es el tipo de nube que produce mayor turbulencia y es potencialmente peligrosa para la aviación?",
+    "respuestas_incorrectas": [
+      "CS - Cirrostratos",
+      "Todas las nubes son peligrosas para la aviación."
+    ],
+    "respuesta_correcta": "CB - Cumulonimbos"
+  },
+  {
+    "id": 205,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 37,
+    "pregunta": "¿Qué tipo de nubes se consideran de desarrollo vertical?",
+    "respuestas_incorrectas": [
+      "Torrecúmulos (TCU) y nimboestratos (NS).",
+      "Cumulonimbos (CU) y nimboestratos (NS)."
+    ],
+    "respuesta_correcta": "Torrecúmulos (TCU) y cumulonimbos (CB)."
+  },
+  {
+    "id": 206,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 38,
+    "pregunta": "El término FEW empleado para determinar condiciones de nubosidad corresponde a:",
+    "respuestas_incorrectas": [
+      "Cielo despejado.",
+      "3 a 4 octas."
+    ],
+    "respuesta_correcta": "1 a 2 octas."
+  },
+  {
+    "id": 207,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 39,
+    "pregunta": "El término empleado para referirse a un cielo totalmente cubierto (8 Octas) por condiciones de nubosidad se le llama:",
+    "respuestas_incorrectas": [
+      "Scattered.",
+      "CAVOK."
+    ],
+    "respuesta_correcta": "Overcast."
+  },
+  {
+    "id": 208,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 40,
+    "pregunta": "En Colombia, la visibilidad horizontal se mide en:",
+    "respuestas_incorrectas": [
+      "Pies.",
+      "Millas terrestres."
+    ],
+    "respuesta_correcta": "Metros."
+  },
+  {
+    "id": 209,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 41,
+    "pregunta": "¿Cuáles son los mínimos meteorológicos aplicables a las reglas de vuelo visual VFR?",
+    "respuestas_incorrectas": [
+      "Visibilidad de más de 500 mts. y techo de nubes de más de 5000 ft.",
+      "Visibilidad de más de 10 km y techo de nubes de más de 1.500 ft."
+    ],
+    "respuesta_correcta": "Visibilidad de 5 km o más y techo de nubes no menor de 1.500 ft."
+  },
+  {
+    "id": 210,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 42,
+    "pregunta": "Se le llama al fenómeno compuesto en su mayoría por partículas de agua en estado líquido o sólido que opalizan el aire, reduciendo la visibilidad por debajo de 1 km:",
+    "respuestas_incorrectas": [
+      "HZ (Bruma).",
+      "GR (Granizo)."
+    ],
+    "respuesta_correcta": "FG (Niebla)."
+  },
+  {
+    "id": 211,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 43,
+    "pregunta": "¿Cuál de las siguientes es considerada nube de tormenta?",
+    "respuestas_incorrectas": [
+      "CC (Cirrocúmulos).",
+      "ST (Estratos)."
+    ],
+    "respuesta_correcta": "CB (Cumulonimbos)."
+  },
+  {
+    "id": 212,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 44,
+    "pregunta": "¿Qué es la presión atmosférica?",
+    "respuestas_incorrectas": [
+      "Peso de una columna de aire desde el punto de medición hasta el límite de la troposfera sobre una superficie determinada.",
+      "Presión de una columna de aire desde el nivel medio del mar hasta el límite superior de la atmósfera sobre una superficie estándar de un centímetro cuadrado."
+    ],
+    "respuesta_correcta": "Fuerza que ejerce el peso de una columna de aire desde el punto de medición hasta el límite superior de la atmósfera por unidad de superficie."
+  },
+  {
+    "id": 213,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 45,
+    "pregunta": "Fuerza que ejerce peso de una columna de aire sobre una unidad de superficie, que se extiende desde la superficie en la cual se realiza la medición hasta el límite superior de la atmósfera.",
+    "respuestas_incorrectas": [
+      "Presión barométrica.",
+      "Fuerza atmosférica."
+    ],
+    "respuesta_correcta": "Presión atmosférica."
+  },
+  {
+    "id": 214,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 46,
+    "pregunta": "En cuanto a la presión atmosférica, ¿cuál de las siguientes relaciones es la correcta?",
+    "respuestas_incorrectas": [
+      "A mayor altura, mayor presión atmosférica.",
+      "A menor altura, menor presión atmosférica."
+    ],
+    "respuesta_correcta": "A mayor altura, menor presión atmosférica."
+  },
+  {
+    "id": 215,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 47,
+    "pregunta": "En cuanto a la densidad del aire, se determina que:",
+    "respuestas_incorrectas": [
+      "A menor presión atmosférica, mayor densidad del aire.",
+      "Sin importar la presión atmosférica, la densidad del aire será siempre igual."
+    ],
+    "respuesta_correcta": "A mayor presión atmosférica, mayor densidad del aire."
+  },
+  {
+    "id": 216,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 48,
+    "pregunta": "Cuando se habla de VFR, nos referimos a las condiciones meteorológicas visuales. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 217,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 49,
+    "pregunta": "Un vuelo para una aeronave no tripulada debe ser efectuado de acuerdo con:",
+    "respuestas_incorrectas": [
+      "Reglas de vuelo instrumentos y en condiciones IMC.",
+      "Reglas de vuelo visual y en condiciones IMC."
+    ],
+    "respuesta_correcta": "Reglas de vuelo visual y en condiciones VMC."
+  },
+  {
+    "id": 218,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 50,
+    "pregunta": "Las unidades para la medición de la temperatura son grados Celsius, Kelvin y Fahrenheit. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 219,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 51,
+    "pregunta": "¿Qué es la humedad?",
+    "respuestas_incorrectas": [
+      "Es la cantidad de agua presente en los océanos.",
+      "Es el vapor de agua que se puede encontrar en la tierra."
+    ],
+    "respuesta_correcta": "Es la cantidad de agua presente en la atmósfera."
+  },
+  {
+    "id": 220,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 52,
+    "pregunta": "¿Cómo se define el “punto de rocío”?",
+    "respuestas_incorrectas": [
+      "Temperatura del aire a la cual se evaporan las moléculas de agua.",
+      "Presión del aire a la cual se condensa el vapor de agua."
+    ],
+    "respuesta_correcta": "Temperatura del aire a la cual se condensa el vapor de agua que hay en la atmósfera."
+  },
+  {
+    "id": 221,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 53,
+    "pregunta": "METAR, SPECI y TAF son:",
+    "respuestas_incorrectas": [
+      "Reportes meteorológicos aeronáuticos de tiempo real.",
+      "Información documentada de las condiciones meteorológicas de un determinado lugar."
+    ],
+    "respuesta_correcta": "Reportes meteorológicos aeronáuticos asociados a un aeródromo."
+  },
+  {
+    "id": 222,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 54,
+    "pregunta": "Dentro de la información que se maneja en la aviación, ¿qué es un METAR?",
+    "respuestas_incorrectas": [
+      "Reporte meteorológico de condiciones de altura.",
+      "Pronóstico meteorológico del aeródromo."
+    ],
+    "respuesta_correcta": "Reporte meteorológico de actualidad del aeródromo."
+  },
+  {
+    "id": 223,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 55,
+    "pregunta": "En los reportes METAR el término NSW significa:",
+    "respuestas_incorrectas": [
+      "Chubascos en la vecindades.",
+      "Precaución de tormenta en el sector."
+    ],
+    "respuesta_correcta": "No existen cambios significativos en la meteorología respecto del informe anterior."
+  },
+  {
+    "id": 224,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 56,
+    "pregunta": "En los reportes METAR el termino CAVOK significa:",
+    "respuestas_incorrectas": [
+      "Estamos todos bien.",
+      "Cielo completamente libre de nubes."
+    ],
+    "respuesta_correcta": "Condiciones de cielo (techo) y visibilidad buenas."
+  },
+  {
+    "id": 225,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 57,
+    "pregunta": "Se le llama al fenómeno compuesto en su mayoría por partículas sólidas suspendidas en la atmósfera que la oscurecen:",
+    "respuestas_incorrectas": [
+      "BR (Neblina).",
+      "FG (Niebla)."
+    ],
+    "respuesta_correcta": "HZ (Bruma)."
+  },
+  {
+    "id": 226,
+    "tema": "METEOROLOGÍA AERONÁUTICA",
+    "numero_pregunta": 58,
+    "pregunta": "Se le llama al fenómeno compuesto por partículas muy pequeñas de agua en estado líquido que opalizan el aire, reduciendo la visibilidad por debajo de 5 km, pero no menos de 1 km:",
+    "respuestas_incorrectas": [
+      "HZ (Bruma).",
+      "FG (Niebla)."
+    ],
+    "respuesta_correcta": "BR (Neblina)."
+  },
+  {
+    "id": 227,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 1,
+    "pregunta": "¿Cuál de las siguientes opciones se ajusta mas a la definición de espacio aéreo?",
+    "respuestas_incorrectas": [
+      "Es aquella porción del aire, sobre tierra de un país que se emplea para facilitar el tránsito aéreo, sin restricciones de ninguna clase para cualquier aeronave que la requiera sobrevolar.",
+      "Cualquiera de las opciones es correcta."
+    ],
+    "respuesta_correcta": "Es aquella porción de la atmósfera terrestre, sobre tierra o agua, que está sometida y regulada a la soberanía y jurisdicción de un estado en particular, en el cual se prestan los servicios de tránsito aéreo."
+  },
+  {
+    "id": 228,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 2,
+    "pregunta": "El espacio aéreo controlado es:",
+    "respuestas_incorrectas": [
+      "Zona del espacio aéreo de un país donde su Autoridad Aeronáutica solamente presta servicios de reglamentación y asesoría para el vuelo.",
+      "Una porción de la atmósfera determinada en donde las aeronaves están obligadas a pedir permiso para volar."
+    ],
+    "respuesta_correcta": "Porción del espacio atmosférico con límites definidos donde se presta el servicio de control de tránsito aéreo."
+  },
+  {
+    "id": 229,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 3,
+    "pregunta": "El espacio aéreo controlado es una porción de la atmósfera especialmente diseñado para que los UAS puedan realizar operaciones legales y dentro de los más altos estándares de seguridad operacional. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 230,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 4,
+    "pregunta": "En Colombia, el espacio aéreo controlado comprende: 1-Zonas de tránsito de aeródromo (ATZ). 2-Zonas prohibidas. 3-Areas de control terminal (TMA). 4-Zonas de entrenamiento. 5-Zonas de control (CTR). 6-Áreas de control. 7-Zonas restringidas.",
+    "respuestas_incorrectas": [
+      "Los numerales 1, 2, 3 y 4 son correctos.",
+      "Los numerales 2, 4 y 7 son correctos."
+    ],
+    "respuesta_correcta": "Los numerales 1, 3, 5 y 6 son correctos."
+  },
+  {
+    "id": 231,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 5,
+    "pregunta": "El espacio aéreo no controlado es un tipo de espacio aéreo con dimensiones conocidas donde se facilitan los servicios completos de tránsito aéreo. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 232,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 6,
+    "pregunta": "El espacio aéreo no controlado es:",
+    "respuestas_incorrectas": [
+      "Un concepto de espacio aéreo que incluye áreas restringidas, peligrosas y prohibidas.",
+      "Están clasificados como espacios aéreos clase B y C."
+    ],
+    "respuesta_correcta": "Porción del espacio atmosférico de un país donde se facilitan servicios de información y asesoramiento al vuelo únicamente."
+  },
+  {
+    "id": 233,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 7,
+    "pregunta": "El espacio aéreo no controlado en Colombia comprende:",
+    "respuestas_incorrectas": [
+      "Espacios aéreos ATZ.",
+      "Espacios aéreos segregados."
+    ],
+    "respuesta_correcta": "Espacios aéreos con clasificación F y G."
+  },
+  {
+    "id": 234,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 8,
+    "pregunta": "En las áreas o zonas restringidas están absolutamente prohibidas toda clase de vuelos. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 235,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 9,
+    "pregunta": "Las áreas o zonas prohibidas están administradas únicamente por la Autoridad de Aviación de Estado. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 236,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 10,
+    "pregunta": "¿Cuál es la definición de rumbo?",
+    "respuestas_incorrectas": [
+      "Es el camino general que se traza en una carta de navegación.",
+      "Es el ángulo formado entre el norte geográfico y la posición en donde me encuentro con respecto a donde quiero llegar."
+    ],
+    "respuesta_correcta": "Es la dirección respecto al norte magnético en la que una aeronave se desplaza en vuelo."
+  },
+  {
+    "id": 237,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 11,
+    "pregunta": "¿A qué se le conoce como “HEADING”?",
+    "respuestas_incorrectas": [
+      "La dirección que se estima a donde llegará la aeronave posterior al vuelo.",
+      "La dirección hacia donde se traslada la aeronave en vuelo."
+    ],
+    "respuesta_correcta": "La dirección a la cual apunta la nariz de la aeronave en vuelo."
+  },
+  {
+    "id": 238,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 12,
+    "pregunta": "La Rosa de los Vientos es un símbolo en forma de círculo que tiene marcado alrededor los rumbos en que se divide la circunferencia del horizonte, así mismo se representan en letras los puntos cardinales y está referenciado con respecto al norte geográfico. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 239,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 13,
+    "pregunta": "De acuerdo con la rosa de los vientos, los cuatro puntos cardinales principales son:",
+    "respuestas_incorrectas": [
+      "NNW, SSW, ENE, WNW.",
+      "NW, NE, SE, SW."
+    ],
+    "respuesta_correcta": "N, S, E, W."
+  },
+  {
+    "id": 240,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 14,
+    "pregunta": "Seleccione los tipos de navegación según la técnica de utilización: 1-Visual. 2-Marítima. 3-A la estima. 4-Espacial. 5-Astronómica. 6-Radionavegación. 7-Aérea. 8-Satelital. 9-Terrestre.",
+    "respuestas_incorrectas": [
+      "Los numerales 1, 2, 3, 4 y 7 son correctos.",
+      "Los numerales 2, 4, 7 y 9 son correctos."
+    ],
+    "respuesta_correcta": "Los Numerales 1, 3, 5, 6 y 8 son correctos."
+  },
+  {
+    "id": 241,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 15,
+    "pregunta": "La navegación aérea se define como el conjunto de técnicas y procedimientos que permiten guiar de manera eficiente una aeronave de un punto de partida hasta un punto de destino, respecto a la superficie de la tierra, manteniendo en todo momento la ruta deseada. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 242,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 16,
+    "pregunta": "Para poder volar una aeronave no tripulada con seguridad, es requisito indispensable que el piloto UAS tenga conocimiento y entrenamiento en técnicas de navegación por instrumentos. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 243,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 17,
+    "pregunta": "La palabra usada para definir la distancia vertical comprendida entre el nivel medio del mar y la posición de una aeronave en el aire es:",
+    "respuestas_incorrectas": [
+      "Altura.",
+      "Elevación."
+    ],
+    "respuesta_correcta": "Altitud."
+  },
+  {
+    "id": 244,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 18,
+    "pregunta": "¿Qué significa la sigla GNSS?",
+    "respuestas_incorrectas": [
+      "Ground Navigation Syncronic System.",
+      "Global New Positioning System."
+    ],
+    "respuesta_correcta": "Global Navigation Satellite System."
+  },
+  {
+    "id": 245,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 19,
+    "pregunta": "Los satélites de comunicaciones fueron diseñados para determinar las coordenadas geográficas de un receptor sin importar si está en el mar, en el aire o en una montaña. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 246,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 20,
+    "pregunta": "¿Qué es la navegación GNSS?",
+    "respuestas_incorrectas": [
+      "Es un tipo de navegación que se comunica con todos los satélites en el mundo, proporcionando referencias de coordenadas en lugares específicos de la tierra.",
+      "Es un tipo de navegación que emplea sistemas retroactivos de emisión de radiofrecuencia con satélites de comunicaciones, proporcionando referencias de coordenadas en cualquier lugar de la tierra."
+    ],
+    "respuesta_correcta": "Es un tipo de navegación que emplea sistemas de posicionamiento global pasivos de navegación basados en las emisiones de radiofrecuencia de los satélites, los cuales proporcionan una referencia espacio- temporal."
+  },
+  {
+    "id": 247,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 21,
+    "pregunta": "Para la aviación no tripulada, los sistemas de navegación satelital son considerados como:",
+    "respuestas_incorrectas": [
+      "Un complemento de la navegación visual.",
+      "Un suplemento de la navegación a la estima."
+    ],
+    "respuesta_correcta": "El sistema de navegación principal."
+  },
+  {
+    "id": 248,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 22,
+    "pregunta": "El sistema de recepción de satélites de una aeronave no tripulada en Colombia solamente puede ver satélites de las constelaciones autorizadas por la Aerocivil. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 249,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 23,
+    "pregunta": "¿Cuál es la definición más acertada para meridianos y paralelos?",
+    "respuestas_incorrectas": [
+      "Son líneas isogónicas trazadas sobre la superficie del globo terráqueo, con la cual se establece la posición de un objetivo.",
+      "Es la cuadrícula estructurada sobre los mapas referenciada con el norte magnético que nos da una idea cercana de donde nos podemos encontrar."
+    ],
+    "respuesta_correcta": "Conceptos geográficos que consisten en líneas imaginarias trazadas sobre el globo terrestre y que se utilizan para poder ubicar puntos sobre la superficie de la tierra."
+  },
+  {
+    "id": 250,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 24,
+    "pregunta": "Los paralelos dividen a la tierra en dos partes iguales, y son los que nos dan referencia del día y la noche. Este postulado es:.",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 251,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 25,
+    "pregunta": "En el sistema de orientación terrestre, la latitud hace referencia a:",
+    "respuestas_incorrectas": [
+      "Línea de orientación paralela a la línea Meridiano de Greenwich y va de 0° a 180° hacia el oriente o hacia el occidente.",
+      "Línea de orientación paralela a la línea del Ecuador y va de 0° al norte y se extiende hasta los 90° hacia el sur."
+    ],
+    "respuesta_correcta": "Línea de orientación paralela a la línea del Ecuador y va de 0° a 90° hacia el norte o hacia el sur."
+  },
+  {
+    "id": 252,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 26,
+    "pregunta": "En el sistema de orientación terrestre, la longitud hace referencia a:",
+    "respuestas_incorrectas": [
+      "Línea de orientación paralela a la línea meridiano de Greenwich y va de 0° al oriente hasta los 180° al occidente.",
+      "Línea de orientación paralela a la línea del ecuador y va de 0° a 90° hacia el norte o hacia el sur."
+    ],
+    "respuesta_correcta": "Línea de orientación paralela a la línea meridiano de Greenwich y va de 0° a 180° hacia el oriente o hacia el occidente."
+  },
+  {
+    "id": 253,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 27,
+    "pregunta": "Complete el siguiente enunciado con la palabra clave faltante: “Los paralelos son a la latitud como los meridianos a ________.\"",
+    "respuestas_incorrectas": [
+      "La Altitud.",
+      "La Línea Ecuatorial."
+    ],
+    "respuesta_correcta": "La Longitud."
+  },
+  {
+    "id": 254,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 28,
+    "pregunta": "Complete el siguiente enunciado con las palabras clave en su orden respectivo: \"La principal línea de referencia en los paralelos, es el __________ y en los meridianos es el ___________________\"",
+    "respuestas_incorrectas": [
+      "Meridiano de Greenwich – Ecuador.",
+      "Trópico de capricornio – Círculo polar ártico."
+    ],
+    "respuesta_correcta": "Ecuador – Meridiano de Greenwich."
+  },
+  {
+    "id": 255,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 29,
+    "pregunta": "Con respecto a los meridianos seleccione las características correctas:",
+    "respuestas_incorrectas": [
+      "Nos dan la referencia para las estaciones climatológicas.",
+      "No se emplean para determinar usos horarios."
+    ],
+    "respuesta_correcta": "Van del polo norte al polo sur y son semicírculos."
+  },
+  {
+    "id": 256,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 30,
+    "pregunta": "¿Qué es el meridiano de Greenwich?",
+    "respuestas_incorrectas": [
+      "Se le conoce como el meridiano de referencia o meridiano 0, divide a la tierra en longitud norte y sur y es la base de referencia para el establecimiento de la hora local.",
+      "Es una línea imaginaria que pasa por el círculo polar ártico y antártico, y forma un ángulo de corte con el ecuador de 90 grados."
+    ],
+    "respuesta_correcta": "Se le conoce como el meridiano de referencia o meridiano 0, divide a la tierra en longitud este y oeste, y es la base de referencia para el primer huso horario (Hora ZULU)."
+  },
+  {
+    "id": 257,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 31,
+    "pregunta": "Las coordenadas geográficas son un sistema de referencia que permite que cada ubicación en la tierra sea especificada por un conjunto de números, letras o símbolos. Un conjunto representa una posición horizontal, y el otro conjunto una posición vertical. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 258,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 32,
+    "pregunta": "Un sistema geodésico de coordenadas geográficas usado mundialmente es:",
+    "respuestas_incorrectas": [
+      "WPD-84.",
+      "WPD-30."
+    ],
+    "respuesta_correcta": "WGS-84."
+  },
+  {
+    "id": 259,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 33,
+    "pregunta": "Un formato de coordenadas geográficas usado mundialmente es:",
+    "respuestas_incorrectas": [
+      "Grados, décimas y centésimas.",
+      "Radianes y decimales."
+    ],
+    "respuesta_correcta": "Grados, minutos y segundos."
+  },
+  {
+    "id": 260,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 34,
+    "pregunta": "De las siguientes opciones, Indique cuál es la coordenada correctamente expresada:",
+    "respuestas_incorrectas": [
+      "07°62’30”N 72°49’37”W",
+      "04°33’25”W 76°55’74”N"
+    ],
+    "respuesta_correcta": "05°52’30”N 78°22’29”W"
+  },
+  {
+    "id": 261,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 35,
+    "pregunta": "El ecuador es el meridiano más importante de la tierra, ya que divide a esta en dos hemisferios iguales. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 262,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 36,
+    "pregunta": "La medida máxima de los paralelos equivale a 90° al norte y 90° al sur, y la de los meridianos a 180° al W y a 180° al E. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 263,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 37,
+    "pregunta": "El norte geográfico siempre coincide con el norte magnético. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 264,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 38,
+    "pregunta": "Es la diferencia entre el norte geográfico y el norte magnético:",
+    "respuestas_incorrectas": [
+      "Inclinación magnética.",
+      "Corrección magnética."
+    ],
+    "respuesta_correcta": "Variación o declinación magnética."
+  },
+  {
+    "id": 265,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 39,
+    "pregunta": "¿Qué son los ATZ?",
+    "respuestas_incorrectas": [
+      "Son espacios aéreos establecidos para la protección de las radioayudas que emplean las aeronaves para poder llevar el control de su vuelo.",
+      "Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves en condiciones instrumentos a una pista de aterrizaje."
+    ],
+    "respuesta_correcta": "Son espacios aéreos establecidos alrededor de un aeródromo, para la protección del tránsito de ese aeródromo."
+  },
+  {
+    "id": 266,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 40,
+    "pregunta": "¿Qué son las TMA?",
+    "respuestas_incorrectas": [
+      "Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves por instrumentos a una pista de aterrizaje.",
+      "Son espacios aéreos establecidos para la protección del presidente."
+    ],
+    "respuesta_correcta": "Son espacios aéreos establecidos generlamente en la confluencia de rutas ATS en inmediaciones de aeródromos principales para gestionar eficientemente el flujo de tránsito que entra y sale de ellos."
+  },
+  {
+    "id": 267,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 41,
+    "pregunta": "La siguiente definición corresponde a: \"Espacio aéreo establecido alrededor de un aeródromo para la protección del tránsito de aeródromo.\"",
+    "respuestas_incorrectas": [
+      "CTR",
+      "TMA"
+    ],
+    "respuesta_correcta": "ATZ"
+  },
+  {
+    "id": 268,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 42,
+    "pregunta": "¿Qué significa la sigla ATZ?",
+    "respuestas_incorrectas": [
+      "Zona de tráfico de vehículos aéreos.",
+      "Zona de control de tránsito aéreo."
+    ],
+    "respuesta_correcta": "Zona de tránsito de aeródromo."
+  },
+  {
+    "id": 269,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 43,
+    "pregunta": "¿Qué significa la sigla CTR?",
+    "respuestas_incorrectas": [
+      "Región de concentración de tráfico aéreo.",
+      "Región comunal de tráfico aéreo."
+    ],
+    "respuesta_correcta": "Zona de control de tránsito aéreo."
+  },
+  {
+    "id": 270,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 44,
+    "pregunta": "¿Qué significa la sigla TMA?",
+    "respuestas_incorrectas": [
+      "Área táctica de maniobras.",
+      "Área transicional de maniobras."
+    ],
+    "respuesta_correcta": "Área de control terminal."
+  },
+  {
+    "id": 271,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 45,
+    "pregunta": "La sigla AWY significa aerovía. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 272,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 46,
+    "pregunta": "¿Qué significa la sigla FIR?",
+    "respuestas_incorrectas": [
+      "Región de control distante de vuelo.",
+      "Región de no control de vuelo."
+    ],
+    "respuesta_correcta": "Región de información de vuelo."
+  },
+  {
+    "id": 273,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 47,
+    "pregunta": "La definición “porción de agua o tierra destinada al aterrizaje, despegue y movimiento de aeronaves en la superficie” corresponde a:",
+    "respuestas_incorrectas": [
+      "Área de aterrizaje.",
+      "Pista."
+    ],
+    "respuesta_correcta": "Aeródromo."
+  },
+  {
+    "id": 274,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 48,
+    "pregunta": "El espacio aéreo “FIR”, es un espacio aéreo controlado. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 275,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 49,
+    "pregunta": "Tipo de satélites empleados por las UA para seguir las trayectorias de vuelo durante su operación aérea:",
+    "respuestas_incorrectas": [
+      "Observación de la tierra.",
+      "Telecomunicaciones."
+    ],
+    "respuesta_correcta": "Navegación."
+  },
+  {
+    "id": 276,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 50,
+    "pregunta": "¿Qué información de valor para el planeamiento de una operación de vuelo con UAS se puede obtener de las cartas de navegación?",
+    "respuestas_incorrectas": [
+      "Visualización de todas las área de operación.",
+      "No tienen información relevante, no sirve de nada consultarlas."
+    ],
+    "respuesta_correcta": "Información sobre áreas y rutas de aeronaves tripuladas, elevación del terreno y frecuencias de comunicaciones aeronáuticas."
+  },
+  {
+    "id": 277,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 51,
+    "pregunta": "¿Qué es el “geofencing”?",
+    "respuestas_incorrectas": [
+      "Son las limitaciones que la casa matriz del dron coloca en su tarjeta madre para evitar accidentes con la aeronave por falta de pericia del piloto.",
+      "Es una restricción virtual del dron que solo se puede utilizar cuando tengo un sistema GIS."
+    ],
+    "respuesta_correcta": "Hace referencia a una cerca delimitando un perímetro virtual, el cual tiene su representación en un área geográfica del mundo real."
+  },
+  {
+    "id": 278,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 52,
+    "pregunta": "Dentro del contexto de los UAS, ¿qué significa la sigla “UTM”?",
+    "respuestas_incorrectas": [
+      "Por sus siglas en inglés, Upper Traffic Management / Gestión de tráfico alto.",
+      "Por sus siglas en inglés, Unmanned Traffic Maintenance / Gestión de Mantenimiento de tráfico."
+    ],
+    "respuesta_correcta": "Por sus siglas en inglés, Unmanned Traffic Management / Gestión de tránsito aéreo no tripulado."
+  },
+  {
+    "id": 279,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 53,
+    "pregunta": "Dentro del contexto de los UAS, ¿Cuál de las siguientes opciones se ajusta mas a la definición de UTM?",
+    "respuestas_incorrectas": [
+      "Es un sistema o plataforma análoga, no colaborativa que permite integrar la gestión administrativa para el control de los UAS a baja altura con limitaciones de seguridad y eficiencia en un espacio aéreo determinado.",
+      "Es un formulario digital creado para permitir que los usuarios puedan gestionar sus solicitudes de vuelo con UAS y con celeridad ante la Autoridad Aeronáutica en un espacio aéreo determinado."
+    ],
+    "respuesta_correcta": "Es un sistema o plataforma digital colaborativa que permite integrar la gestión del espacio aéreo con los UAS."
+  },
+  {
+    "id": 280,
+    "tema": "NAVEGACIÓN AÉREA",
+    "numero_pregunta": 54,
+    "pregunta": "Dentro del contexto de los UAS, ¿Cuáles de las siguientes opciones son funcionalidades del UTM? 1-Registro e identificación electrónica. 2-Geofencing. 3-Comunicaciones C2 aeronave – control. 4-Solicitudes de vuelo electrónicas. 5- Seguimiento radar de aeronaves. 6-Implementación de sistemas DAA.",
+    "respuestas_incorrectas": [
+      "Los numerales 3, 4 y 5 son correctos.",
+      "Los numerales 2, 3, 4 y 6 son correctos."
+    ],
+    "respuesta_correcta": "Los numerales 1, 2, 4 y 6 son correctos."
+  },
+  {
+    "id": 281,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 1,
+    "pregunta": "¿En qué bandas de frecuencia operan las comunicaciones aeronáuticas?",
+    "respuestas_incorrectas": [
+      "VLF Muy Baja Frecuencia.",
+      "UHF Ultra Alta Frecuencia."
+    ],
+    "respuesta_correcta": "VHF Muy Alta Frecuencia."
+  },
+  {
+    "id": 282,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 2,
+    "pregunta": "¿Cuál es la frecuencia de emergencia?",
+    "respuestas_incorrectas": [
+      "118,0 MHz.",
+      "122,9 KHz."
+    ],
+    "respuesta_correcta": "121,5 MHz."
+  },
+  {
+    "id": 283,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 3,
+    "pregunta": "¿En dónde se pueden verificar las frecuencias aeronáuticas de comunicación de un aeródromo?",
+    "respuestas_incorrectas": [
+      "En la carta aérea del ATM nacional.",
+      "Directamente en las instalaciones del aeródromo para confirmar su dial."
+    ],
+    "respuesta_correcta": "En las diferentes cartas aeronáuticas publicadas en la AIP Colombia (AD Aeródromos)."
+  },
+  {
+    "id": 284,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 4,
+    "pregunta": "¿Qué es interferencia?",
+    "respuestas_incorrectas": [
+      "Propagación de muchas ondas de radio.",
+      "Intermitencia de una onda de frecuencia."
+    ],
+    "respuesta_correcta": "Cuando dos señales en la misma onda se interrumpen entre sí."
+  },
+  {
+    "id": 285,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 5,
+    "pregunta": "¿Qué tipo de Interferencias existen?",
+    "respuestas_incorrectas": [
+      "Ruido atmosférico.",
+      "Ruido producido por el hombre."
+    ],
+    "respuesta_correcta": "Ambas opciones son correctas."
+  },
+  {
+    "id": 286,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 6,
+    "pregunta": "¿Cuál es el alfabeto utilizado para deletrear en la aviación?",
+    "respuestas_incorrectas": [
+      "Código “Q” de comunicaciones.",
+      "Lenguaje militar táctico."
+    ],
+    "respuesta_correcta": "Alfabeto fonético internacional OACI."
+  },
+  {
+    "id": 287,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 7,
+    "pregunta": "De acuerdo con el alfabeto fonético OACI, ¿cuál es el correcto deletreo de la palabra “VUELO”?",
+    "respuestas_incorrectas": [
+      "Vaca – Uva – Enano – Limón – Opera.",
+      "Vision – Uniform – Eco - Liceo – Omar."
+    ],
+    "respuesta_correcta": "Victor – Uniform – Eco – Lima – Oscar."
+  },
+  {
+    "id": 288,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 8,
+    "pregunta": "Según el alfabeto fonético de la OACI, la letra equis (x) se pronuncia:",
+    "respuestas_incorrectas": [
+      "Ex-ruy",
+      "Ex-trey"
+    ],
+    "respuesta_correcta": "Ex-rey"
+  },
+  {
+    "id": 289,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 9,
+    "pregunta": "¿Cómo se verifica que la información suministrada por radio fue correctamente recibida?",
+    "respuestas_incorrectas": [
+      "Obturando el PTT tres veces al terminar el mensaje.",
+      "Respondiendo “RECIBIDO” al terminar de escucharla."
+    ],
+    "respuesta_correcta": "Colacionando la información."
+  },
+  {
+    "id": 290,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 10,
+    "pregunta": "¿Qué no puede existir en el proceso de la comunicación?",
+    "respuestas_incorrectas": [
+      "Que la información sea veraz.",
+      "Que el idioma sea el mismo."
+    ],
+    "respuesta_correcta": "Dudas, confusión y ambigüedad."
+  },
+  {
+    "id": 291,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 11,
+    "pregunta": "¿Qué significa PAN-PAN?",
+    "respuestas_incorrectas": [
+      "Señal de aviso de emergencia.",
+      "Aviso de información aeronáutica."
+    ],
+    "respuesta_correcta": "Señal de aviso de urgencia."
+  },
+  {
+    "id": 292,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 12,
+    "pregunta": "¿Qué significa MAY DAY - MAY DAY - MAY DAY?",
+    "respuestas_incorrectas": [
+      "Señal de aviso de Urgencia.",
+      "Aviso de información aeronáutica."
+    ],
+    "respuesta_correcta": "Señal de aviso de emergencia."
+  },
+  {
+    "id": 293,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 13,
+    "pregunta": "Cuando una aeronave se encuentra en una situación de emergencia, radiotelefónicamente utiliza las palabras:",
+    "respuestas_incorrectas": [
+      "PAN, PAN, PAN.",
+      "SOS."
+    ],
+    "respuesta_correcta": "MAYDAY, MAYDAY, MAYDAY."
+  },
+  {
+    "id": 294,
+    "tema": "COMUNICACIONES AERONÁUTICAS",
+    "numero_pregunta": 14,
+    "pregunta": "Cuando una aeronave se encuentra en una situación de urgencia, radiotelefónicamente utiliza las palabras:",
+    "respuestas_incorrectas": [
+      "MAYDAY, MAYDAY, MAYDAY.",
+      "SOS."
+    ],
+    "respuesta_correcta": "PAN, PAN, PAN."
+  },
+  {
+    "id": 295,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 1,
+    "pregunta": "¿Cuál de los siguientes factores humanos afecta significativamente la actuación en la aviación no tripulada?",
+    "respuestas_incorrectas": [
+      "Altitud.",
+      "Peso de las antenas del control remoto."
+    ],
+    "respuesta_correcta": "Fatiga."
+  },
+  {
+    "id": 296,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 2,
+    "pregunta": "¿Cuál es un ejemplo adecuado de la carga de trabajo en la aviación no tripulada?",
+    "respuestas_incorrectas": [
+      "La cantidad de combustible en un UAS.",
+      "El peso máximo que un UAS puede llevar."
+    ],
+    "respuesta_correcta": "La demanda cognitiva y física impuesta a un piloto UAS."
+  },
+  {
+    "id": 297,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 3,
+    "pregunta": "¿Cuál es el fin de la capacitación en actuaciones humanas?",
+    "respuestas_incorrectas": [
+      "Reducir los costos operativos.",
+      "Aumentar la velocidad de vuelo."
+    ],
+    "respuesta_correcta": "Tomar decisiones seguras y efectivas durante las operaciones."
+  },
+  {
+    "id": 298,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 4,
+    "pregunta": "Los sistemas de apoyo digitales (apps), respecto a la toma de decisiones en la operación con UAS:",
+    "respuestas_incorrectas": [
+      "Automatizan completamente las operaciones de UAS.",
+      "Realizan mantenimiento en tiempo real de los UAS."
+    ],
+    "respuesta_correcta": "Ayudan a los operadores y pilotos a tomar decisiones informadas."
+  },
+  {
+    "id": 299,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 5,
+    "pregunta": "La fatiga puede afectar la actuación de los pilotos de UAS:",
+    "respuestas_incorrectas": [
+      "Aumentando la toma de decisiones efectivas por el cansancio.",
+      "Mejorando la concentración en la medida que progresa el vuelo."
+    ],
+    "respuesta_correcta": "Reduciendo la atención y el tiempo de reacción."
+  },
+  {
+    "id": 300,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 6,
+    "pregunta": "¿Cuál de las siguientes opciones no constituye un factor que afecte la carga de trabajo mental para los pilotos UAS?",
+    "respuestas_incorrectas": [
+      "Toma de decisiones.",
+      "Demanda cognitiva."
+    ],
+    "respuesta_correcta": "Altitud de vuelo."
+  },
+  {
+    "id": 301,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 7,
+    "pregunta": "¿Qué tipo de entrenamiento se debe fortalecer para mejorar la actuación del piloto UAS en situaciones de emergencia en la operación de vuelo?",
+    "respuestas_incorrectas": [
+      "Entrenamiento físico intensivo (Gimnasio).",
+      "Entrenamiento de resistencia (Ditching)."
+    ],
+    "respuesta_correcta": "Practica de reacciones de emergencia en escenarios de entrenamiento."
+  },
+  {
+    "id": 302,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 8,
+    "pregunta": "¿Qué tecnología ayuda a mitigar la carga de trabajo en los pilotos y operadores de UAS?",
+    "respuestas_incorrectas": [
+      "Cámaras de alta resolución.",
+      "Sistemas anticolisión, ADS-B."
+    ],
+    "respuesta_correcta": "Inteligencia artificial y automatización."
+  },
+  {
+    "id": 303,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 9,
+    "pregunta": "¿Qué impacto puede tener el estrés en la actuación de los pilotos y operadores de UAS?",
+    "respuestas_incorrectas": [
+      "Aumenta la adrenalina y propicia la claridad mental.",
+      "Facilita la comunicación y el nivel de concentración."
+    ],
+    "respuesta_correcta": "Aumenta exponencialmente los errores y reduce la eficiencia."
+  },
+  {
+    "id": 304,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 10,
+    "pregunta": "¿Qué rol juegan las habilidades de liderazgo en la aviación no tripulada?",
+    "respuestas_incorrectas": [
+      "Son esenciales para los pilotos UAS, pero no lo son para los operadores de UAS.",
+      "Solo son relevantes en operaciones militares."
+    ],
+    "respuesta_correcta": "Son importantes para la toma de decisiones y organización del equipo de trabajo."
+  },
+  {
+    "id": 305,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 11,
+    "pregunta": "¿Cuál es la importancia de la comunicación dentro del equipo de trabajo en la operación UAS?",
+    "respuestas_incorrectas": [
+      "No es relevante, ya que los UAS operan de forma automática según la planificación del vuelo gestionada.",
+      "La comunicación se utiliza sólo en situaciones de emergencia."
+    ],
+    "respuesta_correcta": "Es vital para coordinar las operaciones y garantizar las acciones de seguridad operacional."
+  },
+  {
+    "id": 306,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 12,
+    "pregunta": "¿Cuál de los siguientes factores humanos es clave para la actuación segura en la aviación no tripulada?",
+    "respuestas_incorrectas": [
+      "La elección de rutas de vuelo.",
+      "La velocidad del viento en vuelo."
+    ],
+    "respuesta_correcta": "La capacitación del piloto."
+  },
+  {
+    "id": 307,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 13,
+    "pregunta": "¿Qué factor o comportamiento humano es fundamental para evitar la fatiga del piloto en operaciones de vuelo?",
+    "respuestas_incorrectas": [
+      "Realizar múltiples tareas durante el vuelo.",
+      "Uso de estimulantes en la medida que el piloto los necesite."
+    ],
+    "respuesta_correcta": "Cumplimiento de regulaciones de tiempo de vuelo y descanso."
+  },
+  {
+    "id": 308,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 14,
+    "pregunta": "¿Qué es la ergonomía cognitiva aplicada a la aviación no tripulada?",
+    "respuestas_incorrectas": [
+      "Es el estudio de la postura de los operadores y pilotos cuando están en operaciones aéreas con sus aeronaves.",
+      "Es el proceso de mejora de las condiciones y resistencia física de los pilotos y operadores de aeronaves no tripuladas."
+    ],
+    "respuesta_correcta": "Es el mejoramiento de la relación entre máquinas y personas para entrelazar factores como la comunicación, trabajo en equipo, percepción, memoria, razonamiento e interrelacionarlo con las capacidades cognitivas humanas de cada persona."
+  },
+  {
+    "id": 309,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 15,
+    "pregunta": "¿Cómo puede colaborar la ergonomía cognitiva para mejorar la actuación en vuelo de un piloto UAS?",
+    "respuestas_incorrectas": [
+      "Diseñando asientos más cómodos para poder operar.",
+      "Aumentando las cargas intelectuales de trabajo."
+    ],
+    "respuesta_correcta": "Optimizando la interfaz de usuario de software."
+  },
+  {
+    "id": 310,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 16,
+    "pregunta": "¿De las siguientes apreciaciones cuáles constituyen falla humana en contra de la seguridad operacional?",
+    "respuestas_incorrectas": [
+      "Operar un dron desconociendo las regulaciones y legislaciones que aplican en el desarrollo de las operaciones de vuelo.",
+      "Maniobrar mi dron de forma irresponsable y temeraria en espacios públicos y el empleo de sustancias psicoactivas en la realización de operaciones de vuelo."
+    ],
+    "respuesta_correcta": "Todas las opciones son correctas."
+  },
+  {
+    "id": 311,
+    "tema": "FACTORES HUMANOS Y ACTUACIÓN HUMANA",
+    "numero_pregunta": 17,
+    "pregunta": "¿Cuál es el propósito de las regulaciones de tiempo de vuelo y descanso en la aviación?",
+    "respuestas_incorrectas": [
+      "Aumentar la carga de trabajo de los operadores.",
+      "Aumentar el tiempo de vuelo de los UAS."
+    ],
+    "respuesta_correcta": "Evitar la fatiga de los pilotos."
+  },
+  {
+    "id": 312,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 1,
+    "pregunta": "Es lo que significa la sigla SMS:",
+    "respuestas_incorrectas": [
+      "Sistema de la seguridad mixta en operaciones.",
+      "Manejo de riesgos para la seguridad operacional aérea."
+    ],
+    "respuesta_correcta": "Sistema de gestión de la seguridad operacional."
+  },
+  {
+    "id": 313,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 2,
+    "pregunta": "Uno de los 4 componentes del SMS en la aviación aplicable a los UAS es:",
+    "respuestas_incorrectas": [
+      "Manual de calidad del sistema.",
+      "Manual de operaciones."
+    ],
+    "respuesta_correcta": "Gestión del riesgo de la seguridad operacional."
+  },
+  {
+    "id": 314,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 3,
+    "pregunta": "Estado en el que los riesgos asociados a las actividades de aviación relativas a la operación de las aeronaves se reducen y controlan a un nivel aceptable. Esta definición que corresponde al concepto de:",
+    "respuestas_incorrectas": [
+      "Nivel de aceptabilidad.",
+      "Sistema de gestión de la seguridad operacional."
+    ],
+    "respuesta_correcta": "Seguridad operacional."
+  },
+  {
+    "id": 315,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 4,
+    "pregunta": "¿De qué consta la estructura del SMS?",
+    "respuestas_incorrectas": [
+      "Consta de doce (12) componentes y cuatro (4) elementos.",
+      "Ninguna de las opciones es correcta."
+    ],
+    "respuesta_correcta": "Consta de cuatro (4) componentes y doce (12) elementos."
+  },
+  {
+    "id": 316,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 5,
+    "pregunta": "¿Cuáles son los componentes del sistema de gestión de la seguridad operacional?",
+    "respuestas_incorrectas": [
+      "Alcances; Determinación de peligros; Mantenimiento y evaluación.",
+      "Tareas generales; Tareas específicas; Evaluación y mejora."
+    ],
+    "respuesta_correcta": "Política y objetivos; Gestión de riesgos; Aseguramiento y promoción."
+  },
+  {
+    "id": 317,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 6,
+    "pregunta": "Dentro del componente de políticas y objetivos de la seguridad operacional, el SMS designa la responsabilidad de un ejecutivo de la empresa.",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 318,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 7,
+    "pregunta": "EL SMS tiene alcance a_______________ de la empresa que participa de manera directa e indirecta en las operaciones de la aviación no tripulada.",
+    "respuestas_incorrectas": [
+      "Todo personal de pilotos.",
+      "Todo personal operativo."
+    ],
+    "respuesta_correcta": "Todo el personal."
+  },
+  {
+    "id": 319,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 8,
+    "pregunta": "En el SMS no es necesario que un explotador UAS cuente con una política de compromiso con su implementación y desarrollo. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 320,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 9,
+    "pregunta": "De las siguientes opciones, ¿cuales son objetivos de la seguridad operacional que debe tener todo explotador UAS?",
+    "respuestas_incorrectas": [
+      "Reducir y mitigar los riesgos operativos.",
+      "Capacitar y mantener entrenado a todo el personal de la empresa."
+    ],
+    "respuesta_correcta": "Todas las anteriores."
+  },
+  {
+    "id": 321,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 10,
+    "pregunta": "La rendición de cuentas es un elemento que no se considera en la implementación del SMS del explotador UAS. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 322,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 11,
+    "pregunta": "La observación y medición del rendimiento en materia de seguridad operacional es un elemento del SMS que invita a verificar el sistema mediante:",
+    "respuestas_incorrectas": [
+      "Indicadores y metas de rendimientos.",
+      "Estrategias e indicadores."
+    ],
+    "respuesta_correcta": "Estrategias, indicadores y metas de rendimiento."
+  },
+  {
+    "id": 323,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 12,
+    "pregunta": "Un análisis de riesgos realizado para un vuelo UAS debe contemplar la gestión de riesgos de seguridad operacional del tipo de operación UAS y la condición de vuelo que pretende realizar. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 324,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 13,
+    "pregunta": "Un Incidente de aviación se puede identificar como un evento o suceso que involucra a una aeronave sin daños graves, lesiones significativas a personas o pérdida de vidas humanas.",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 325,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 14,
+    "pregunta": "¿Cuál de las siguientes opciones se ajusta más a la definición de accidente aéreo?",
+    "respuestas_incorrectas": [
+      "Sucesos infortunado que, relacionado con la utilización de una aeronave, altera la marcha normal de los acontecimientos y, como consecuencia, hay daños materiales y fatalidades entre las personas involucradas.",
+      "Actuaciones inesperadas por parte del piloto que alteran la marcha normal de los acontecimientos y, como consecuencia, hay daños materiales y fatalidades entre las personas involucradas."
+    ],
+    "respuesta_correcta": "Todo suceso relacionado con la utilización de una aeronave, que en el caso de una aeronave no tripulada, que ocurre entre el momento en que la aeronave está lista para desplazarse con el propósito de realizar un vuelo y el momento en que se detiene, al finalizar el vuelo, y se apaga su sistema de propulsión principal, durante el cual cualquier persona sufre lesiones mortales o graves, la aeronave sufre daños o roturas estructurales o la aeronave desaparece o es totalmente inaccesible."
+  },
+  {
+    "id": 326,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 15,
+    "pregunta": "¿Qué se busca con la implementación de la gestión de la seguridad operacional?",
+    "respuestas_incorrectas": [
+      "El cumplimiento de las normas y procedimientos aeronáuticos, por parte de las aeronaves para evitar posibles colisiones en vuelo, preservando de esta forma la vida de las personas.",
+      "Que todas aquellas actuaciones de conciencia situacional sean realizadas por todas las personas, para evitar posibles problemas con las aeronaves."
+    ],
+    "respuesta_correcta": "Mitigar proactivamente riesgos de la seguridad operacional antes de que resulten en accidentes o incidentes de aviación. Las actividades de seguridad operacional se deben gestionar de una manera disciplinada, integral y enfocada."
+  },
+  {
+    "id": 327,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 16,
+    "pregunta": "En general, ¿qué es un sistema de gestión de la seguridad operacional (SMS)?",
+    "respuestas_incorrectas": [
+      "Conjunto de reglamentos y acciones para evitar hurtos o pérdidas de equipo.",
+      "Sistema para mejorar la seguridad física de las instalaciones."
+    ],
+    "respuesta_correcta": "Conjunto de reglamentos y acciones para mejorar la seguridad en la operación."
+  },
+  {
+    "id": 328,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 17,
+    "pregunta": "¿Qué características tiene el SMS?",
+    "respuestas_incorrectas": [
+      "Reactivo, proactivo y predictivo.",
+      "Analítico, reactivo y sancionatorio."
+    ],
+    "respuesta_correcta": "Estructurado, sistemático y proactivo."
+  },
+  {
+    "id": 329,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 18,
+    "pregunta": "La empresa debe garantizar la cultura del reporte en el SMS y para ello debe realizar:",
+    "respuestas_incorrectas": [
+      "Procedimientos.",
+      "Manuales."
+    ],
+    "respuesta_correcta": "Capacitaciones."
+  },
+  {
+    "id": 330,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 19,
+    "pregunta": "Parte del compromiso que debe tener el explotador UAS en el SMS es el de:",
+    "respuestas_incorrectas": [
+      "Sancionar.",
+      "Implementar protocolos y procedimientos."
+    ],
+    "respuesta_correcta": "Promocionar la cultura del reporte."
+  },
+  {
+    "id": 331,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 20,
+    "pregunta": "El medio oficial de comunicación de la seguridad operacional que debe implementar el explotador UAS debe ser tan claro que garantice:",
+    "respuestas_incorrectas": [
+      "Que mantiene en reserva la información crítica para la seguridad operacional.",
+      "Que las medidas de seguridad operacional que se adopten son implementadas sin dar indicios del por qué se tomaron."
+    ],
+    "respuesta_correcta": "Que todo el personal conozca el SMS, con arreglo al puesto de trabajo que ocupe."
+  },
+  {
+    "id": 332,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 21,
+    "pregunta": "La empresa definirá y mantendrá un proceso para identificar los cambios que puedan afectar al nivel de riesgo de seguridad operacional asociado a sus operaciones UAS, así como para identificar y manejar los riesgos de seguridad operacional que puedan derivarse de esos cambios. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 333,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 22,
+    "pregunta": "El SMS determina que se debe establecer un procedimiento interno de notificación e investigación de sucesos. Esto puede incluir los MOR, que significan:",
+    "respuestas_incorrectas": [
+      "Manejo oportuno de reportes.",
+      "Reportes operacionales mínimos."
+    ],
+    "respuesta_correcta": "Reportes obligatorios de eventos."
+  },
+  {
+    "id": 334,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 23,
+    "pregunta": "Dentro del SMS se realizan revisiones periódicas a la operación para la identificación de peligros y la evaluación de riesgos. Participar en la gestión de los riesgos es responsabilidad de:",
+    "respuestas_incorrectas": [
+      "Los clientes.",
+      "Los auditores."
+    ],
+    "respuesta_correcta": "Los pilotos."
+  },
+  {
+    "id": 335,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 24,
+    "pregunta": "La empresa deberá nombrar un _______________, que será el responsable de la implementación y mantenimiento del SMS.",
+    "respuestas_incorrectas": [
+      "Coordinador aéreo.",
+      "Director del sistema."
+    ],
+    "respuesta_correcta": "Gerente de seguridad operacional."
+  },
+  {
+    "id": 336,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 25,
+    "pregunta": "Es requisito de la norma contar con documentación para el sistema SMS; entre otros, con:",
+    "respuestas_incorrectas": [
+      "Código de SMS y listas de verificación.",
+      "Plan de SMS y formato de registro de UAS."
+    ],
+    "respuesta_correcta": "Manual de SMS o capítulo SMS en el MO."
+  },
+  {
+    "id": 337,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 26,
+    "pregunta": "La implementación apropiada del SMS garantiza que las auditorías internas, la rendición de cuentas y el seguimiento a los planes, programas y procedimientos mediante indicadores, aporten:",
+    "respuestas_incorrectas": [
+      "Cumplimiento de los cronogramas.",
+      "Identificación de peligros."
+    ],
+    "respuesta_correcta": "Mejora continua y gestión del cambio."
+  },
+  {
+    "id": 338,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 27,
+    "pregunta": "¿Cuáles son los métodos para la identificación de los peligros?",
+    "respuestas_incorrectas": [
+      "Método descriptivo, método reactivo y método rotativo.",
+      "Método predictivo, método descriptivo y método rotativo."
+    ],
+    "respuesta_correcta": "Método predictivo, método proactivo y método reactivo."
+  },
+  {
+    "id": 339,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 28,
+    "pregunta": "El método predictivo para la identificación de los peligros se enfoca en tomar medidas preventivas para reducir la probabilidad de que ocurran incidentes o accidentes. Esto implica la implementación de políticas, procedimientos y controles diseñados para mitigar riesgos conocidos o identificados. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 340,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 29,
+    "pregunta": "El método reactivo se aplica después de que ha ocurrido un incidente o accidente y se centra en responder a las situaciones de emergencia para tomar medidas correctivas y evitar que incidentes similares vuelvan a ocurrir en el futuro. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "id": 341,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 30,
+    "pregunta": "La definición más acertada de peligro en el contexto de la seguridad operacional es:",
+    "respuestas_incorrectas": [
+      "Condición nerviosa frente a una actividad.",
+      "Medida, en términos de severidad y probabilidad, de que algo pueda ocurrir y sus consecuencias."
+    ],
+    "respuesta_correcta": "Condición u objeto que potencialmente puede causar lesiones al personal y/o daños o destrucción del equipo."
+  },
+  {
+    "id": 342,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 31,
+    "pregunta": "El peligro es la evaluación de las consecuencias de la posibilidad de que el piloto pierda el control de la aeronave, expresada en términos de probabilidad y severidad. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 343,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 32,
+    "pregunta": "¿Cuáles son las fuentes más comunes para la identificación de peligros?",
+    "respuestas_incorrectas": [
+      "Reportes de incidentes / Accidentes y revisión de documentación.",
+      "Investigación de accidentes, regulaciones."
+    ],
+    "respuesta_correcta": "Todas las opciones son correctas."
+  },
+  {
+    "id": 344,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 33,
+    "pregunta": "¿Defina qué es riesgo en el contexto de la seguridad operacional?",
+    "respuestas_incorrectas": [
+      "Condición nerviosa frente a una actividad.",
+      "Nivel de incertidumbre ante la ocurrencia de un suceso y que este pueda tener componentes perjudiciales."
+    ],
+    "respuesta_correcta": "Probabilidad y gravedad proyectada de la consecuencia o el resultado de una situación o peligro existente."
+  },
+  {
+    "id": 345,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 34,
+    "pregunta": "Los elementos del componente de gestión del riesgo del SMS son: Identificación de peligros, y evaluación y mitigación de seguridad operacional. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+  {
+    "id": 346,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 35,
+    "pregunta": "El proceso de gestión de la seguridad operacional inicia con:",
+    "respuestas_incorrectas": [
+      "La obtención de los datos.",
+      "La implementación de las estrategias."
+    ],
+    "respuesta_correcta": "La identificación de los peligros."
+  },
+  {
+    "id": 347,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 36,
+    "pregunta": "En el contexto de la seguridad operacional, la definición más acertada para \"probabilidad\" es:",
+    "respuestas_incorrectas": [
+      "Posibles efectos de un evento o condición insegura.",
+      "Consecuencias de un riesgo."
+    ],
+    "respuesta_correcta": "Calificación de la frecuencia de posibilidad de que un evento ocurra."
+  },
+  {
+    "id": 348,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 37,
+    "pregunta": "En el contexto de la seguridad operacional, ¿qué es severidad del riesgo?",
+    "respuestas_incorrectas": [
+      "Consecuencias de un peligro.",
+      "Posibilidad que un evento no pueda ocurrir."
+    ],
+    "respuesta_correcta": "La calificación de las consecuencias posibles de un evento tomando como referencia el peor escenario previsible."
+  },
+  {
+    "id": 349,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 38,
+    "pregunta": "En el contexto de la seguridad operacional, según la OACI, ¿cuáles son las clases de severidad?",
+    "respuestas_incorrectas": [
+      "Depende del explotador UAS la forma cómo sean determinadas.",
+      "Frecuente, ocasional, remoto, improbable, extremadamente improbable."
+    ],
+    "respuesta_correcta": "Catastrófico, peligroso, mayor, menor, insignificante."
+  },
+  {
+    "id": 350,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 39,
+    "pregunta": "En el contexto de la seguridad operacional, ¿qué es mitigación?",
+    "respuestas_incorrectas": [
+      "Reducir la posibilidad de daño por descuido.",
+      "Disminuir la actividad operacional."
+    ],
+    "respuesta_correcta": "Medidas que eliminan o reducen la probabilidad o severidad del riesgo."
+  },
+  {
+    "id": 351,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 40,
+    "pregunta": "Los propósitos generales perseguidos por la implementación del SMS abarcan: 1-Protección de la seguridad pública e integración segura en el espacio aéreo. 2-Protección de la privacidad y prevención de accidentes y daños. 3-Gestión de riesgos y cumplimiento legal y regulatorio. 4-Fomento de una cultura de seguridad e investigación y análisis de incidentes.",
+    "respuestas_incorrectas": [
+      "Los numerales 1, 2 y 3 son correctos.",
+      "Los numerales 2 y 3 son incorrectos."
+    ],
+    "respuesta_correcta": "Todos los numerales son correctos."
+  },
+  {
+    "id": 352,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 41,
+    "pregunta": "¿Cuáles son los focos que promueven la seguridad operacional para la aviación en general, entre otros? 1-Gestión del tránsito aéreo y colisiones en el aire. 2-Turbulencia y condiciones meteorológicas adversas. 3-Errores humanos, mantenimiento y fiabilidad de las aeronaves. 4-Cultura de seguridad y cumplimiento de regulaciones. 5-Gestión de crisis y emergencias. 6- Integración de Nuevas Tecnologías.",
+    "respuestas_incorrectas": [
+      "Los numerales 2, 4 y 6 son correctos.",
+      "Solamente los numerales 1 y 2 son correctos."
+    ],
+    "respuesta_correcta": "Todos los numerales son correctos."
+  },
+  {
+    "id": 353,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 42,
+    "pregunta": "¿Cuál es el objetivo de la seguridad operacional que se aborda con la capacitación adecuada y la gestión de la fatiga?",
+    "respuestas_incorrectas": [
+      "Gestión del tránsito aéreo.",
+      "Cultura de seguridad física."
+    ],
+    "respuesta_correcta": "Errores humanos."
+  },
+  {
+    "id": 354,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 43,
+    "pregunta": "¿Cuál es el objetivo de la Seguridad Operacional que se aborda mediante la coordinación acertada del flujo de aeronaves y el garantizar un espacio aéreo seguro?",
+    "respuestas_incorrectas": [
+      "Mantenimiento y fiabilidad de las aeronaves.",
+      "Cultura de seguridad física."
+    ],
+    "respuesta_correcta": "Gestión del tránsito aéreo."
+  },
+  {
+    "id": 355,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 44,
+    "pregunta": "El ABC del análisis del peligro, es:",
+    "respuestas_incorrectas": [
+      "Establecer el riesgo específico (formulación), identificar los componentes de ese riesgo específico y orientar a la tripulación para evitar actividades que desencadenen en peligros.",
+      "Identificar el peligro, analizar y calificar el riesgo, mitigar el riesgo."
+    ],
+    "respuesta_correcta": "Establecer el peligro genérico (formulación), identificar los componentes específicos del peligro y orientar a la tripulación para evitar los riesgos específicos."
+  },
+  {
+    "id": 356,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 45,
+    "pregunta": "La información documentada no es considerada un proceso indispensable en el sistema de mitigación de la seguridad operacional. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 357,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 46,
+    "pregunta": "La documentación de los peligros es una necesidad de estandarización al interior de la empresa y, para ello, incluye la definición y comprensión específica de un tipo de peligro, acompañado de su aplicación, reporte, medición y gestión específica del riesgo, como política de seguridad común y general. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 358,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 47,
+    "pregunta": "La identificación de peligros es un proceso continuo del SMS; debe ser parte de un ciclo de mejora continua de la seguridad operacional. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 359,
+    "tema": "SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL",
+    "numero_pregunta": 48,
+    "pregunta": "En el contexto de la seguridad operacional, ¿cuáles son las clases de severidad?",
+    "respuestas_incorrectas": [
+      "Únicamente peligroso e insignificante.",
+      "Frecuente, ocasional, remoto, improbable, extremadamente improbable."
+    ],
+    "respuesta_correcta": "Depende del explotador UAS el cómo serán determinadas."
+  },
+  {
+    "id": 360,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 1,
+    "pregunta": "De acuerdo con la norma RAC 1, la definición de aeronave es:",
+    "respuestas_incorrectas": [
+      "Toda nave o aparato que sin importar su peso puede surcar el cielo y está destinada a volar con o sin piloto.",
+      "Ambas definiciones son correctas."
+    ],
+    "respuesta_correcta": "Toda máquina que puede sustentarse en la atmósfera por reacciones del aire que no sean las reacciones del mismo contra la superficie de la tierra."
+  },
+  {
+    "id": 361,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 2,
+    "pregunta": "En el mundo aeronáutico, ¿a que se refiere la expresión \"dron\"?",
+    "respuestas_incorrectas": [
+      "Abejorro o zángano, por el \"zumbido\" de los rotores.",
+      "Cualquier tipo de vehículo aéreo tripulado o aeromodelo."
+    ],
+    "respuesta_correcta": "Palabra genérica empleada para referirse a cualquier aeronave no tripulada o pilotada a distancia."
+  },
+  {
+    "id": 362,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 3,
+    "pregunta": "La sigla “RPAS” se emplea genéricamente para referirnos a cualquier clase de aeronaves no tripuladas. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  },
+  {
+    "id": 363,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 4,
+    "pregunta": "¿Qué significa la sigla “UAS”?",
+    "respuestas_incorrectas": [
+      "Aerial Aircraft Support / Aeronave no tripulada.",
+      "Aerial Vehicle System / Vehículo aéreo no tripulado."
+    ],
+    "respuesta_correcta": "Unmmaned Aircraft System / Sistema de aeronave no tripulada."
+  },
+  {
+    "id": 364,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 5,
+    "pregunta": "¿Qué significa la sigla “RPAS”?",
+    "respuestas_incorrectas": [
+      "Remotely Piloted Aircraft Software / Aeronaves piloteadas remotamente por software.",
+      "Remotely Pylon Aerial System / Aeronaves pilotadas a la distancia."
+    ],
+    "respuesta_correcta": "Remotely Piloted Aircraft System / Sistema de aeronave remotamente pilotada."
+  },
+  {
+    "id": 365,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 6,
+    "pregunta": "¿Qué significa la sigla UAV?",
+    "respuestas_incorrectas": [
+      "Unmmaned Aircraft Visual / Sistema visual aéreo no tripulado.",
+      "Unmmaned Aerial System / Sistemas de aeronaves remotamente piloteadas."
+    ],
+    "respuesta_correcta": "Ummaned Aerial Vehicle / Vehículo aéreo no tripulado."
+  },
+  {
+    "id": 366,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 7,
+    "pregunta": "De las siguientes opciones, seleccione la que contenga componentes que NO forman parte de un UAS:",
+    "respuestas_incorrectas": [
+      "Chasis, baterías, planta(s) de potencia, tarjeta controladora.",
+      "Chasis, computadora, sensores, baterías y control remoto."
+    ],
+    "respuesta_correcta": "Fuselaje, baterías, antenas, tren de aterrizaje, satélites."
+  },
+  {
+    "id": 367,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 8,
+    "pregunta": "¿Qué tipo de motores eléctricos empleados por los UA son más eficientes?",
+    "respuestas_incorrectas": [
+      "Motores trifásicos con escobillas",
+      "Motores monofásicos estriados."
+    ],
+    "respuesta_correcta": "Motores trifásicos sin escobillas."
+  },
+  {
+    "id": 368,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 9,
+    "pregunta": "¿Qué tipo de baterías empleadas por los UA son las más comunes?",
+    "respuestas_incorrectas": [
+      "Li-Fe.",
+      "Ni-Cd."
+    ],
+    "respuesta_correcta": "Li-Po."
+  },
+  {
+    "id": 369,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 10,
+    "pregunta": "¿Cuál es la principal precaución que se debe tener cuando se inicia un ciclo de carga de las baterías?",
+    "respuestas_incorrectas": [
+      "Sobrepasar el tiempo de carga.",
+      "Cargarlas inmediatamente después del vuelo."
+    ],
+    "respuesta_correcta": "Supervisarlas siempre mientras estas se cargan."
+  },
+  {
+    "id": 370,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 11,
+    "pregunta": "¿Cuál es la funcionalidad del ESC en un sistema de propulsión eléctrico?",
+    "respuestas_incorrectas": [
+      "Control de velocidad electrónico, para medir la fuerza del motor.",
+      "Electronic Speed Controller, que controla la corriente que produce el generador."
+    ],
+    "respuesta_correcta": "Electronic Speed Controller, que envía la corriente necesaria para mantener las revoluciones de los motores exigidas por la tarjeta controladora."
+  },
+  {
+    "id": 371,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 12,
+    "pregunta": "¿Qué función realiza la computadora de vuelo del UA?",
+    "respuestas_incorrectas": [
+      "Controla la carga de las baterías.",
+      "Programa el control remoto."
+    ],
+    "respuesta_correcta": "Controla el funcionamiento en vuelo de la UA."
+  },
+  {
+    "id": 372,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 13,
+    "pregunta": "¿Para qué se usa un sistema RTK (Real Time Kinetic)?",
+    "respuestas_incorrectas": [
+      "Aumentar la señal de los satélites.",
+      "Emitir una señal que evita la interferencia electrónica."
+    ],
+    "respuesta_correcta": "Aumentar la precisión de la UA con base en una antena en tierra."
+  },
+  {
+    "id": 373,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 14,
+    "pregunta": "¿Qué es el OSD?",
+    "respuestas_incorrectas": [
+      "Sensor de obstáculos direccional.",
+      "On Screen Display, transmite únicamente la señal de la cámara a la pantalla."
+    ],
+    "respuesta_correcta": "On Screen Display, mezcla la imagen de la cámara con la información de telemetría."
+  },
+  {
+    "id": 374,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 15,
+    "pregunta": "¿Cuál es la frecuencia más común en la señal de comunicación de una UA con la estación de tierra?",
+    "respuestas_incorrectas": [
+      "326 GHz.",
+      "1,5 GHz."
+    ],
+    "respuesta_correcta": "2,4 GHz."
+  },
+  {
+    "id": 375,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 16,
+    "pregunta": "¿Cuáles de las siguientes frecuencias de transmisión de la señal desde el control son las mas comunes?",
+    "respuestas_incorrectas": [
+      "2,4 MHz a 5,8 MHz.",
+      "118 MHz a 2,4 GHz."
+    ],
+    "respuesta_correcta": "2,4 GHz a 5,8 GHz."
+  },
+  {
+    "id": 376,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 17,
+    "pregunta": "¿Qué función cumple el \"gimbal\"?",
+    "respuestas_incorrectas": [
+      "Aumenta la precisión del GPS.",
+      "Mejora la señal de transmisión de video."
+    ],
+    "respuesta_correcta": "Estabiliza el movimiento de la cámara."
+  },
+  {
+    "id": 377,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 18,
+    "pregunta": "¿Qué precaución hay que tener con los sensores ópticos?",
+    "respuestas_incorrectas": [
+      "Solo funcionan con buena luminosidad.",
+      "Deben estar alejados de la luz fuerte o láser porque los puede dañar."
+    ],
+    "respuesta_correcta": "Las dos opciones son correctas."
+  },
+  {
+    "id": 378,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 19,
+    "pregunta": "En la región de América del Sur, para la configuración del movimiento de las palancas de la estación terrena, ¿qué modo debe ser seleccionado?",
+    "respuestas_incorrectas": [
+      "Modo uno.",
+      "Modo cine, normal, sport."
+    ],
+    "respuesta_correcta": "Modo dos."
+  },
+  {
+    "id": 379,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 20,
+    "pregunta": "¿Cuál es la característica de operación del comando RTH?",
+    "respuestas_incorrectas": [
+      "La UA mantiene su posición cuando pierde señal.",
+      "La UA regresa a su última posición de vuelo."
+    ],
+    "respuesta_correcta": "La UA regresa automáticamente al origen."
+  },
+  {
+    "id": 380,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 21,
+    "pregunta": "¿Mínimo con cuántos satélites enlazados al sistema de navegación se recomienda volar en modo de asistencia satelital?",
+    "respuestas_incorrectas": [
+      "Tres satélites.",
+      "Cinco satélites."
+    ],
+    "respuesta_correcta": "Doce satélites."
+  },
+  {
+    "id": 381,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 22,
+    "pregunta": "En zonas de despegue, ¿qué tipos de superficies pueden generar interferencia en la operación de la UA?",
+    "respuestas_incorrectas": [
+      "Superficies lisas.",
+      "Superficies de madera."
+    ],
+    "respuesta_correcta": "Superficies metálicas."
+  },
+  {
+    "id": 382,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 23,
+    "pregunta": "¿Cual es la carga de voltaje nominal medio que tiene cada celda en una batería Li-Po?",
+    "respuestas_incorrectas": [
+      "12 voltios.",
+      "3,5 voltios."
+    ],
+    "respuesta_correcta": "3,7 voltios."
+  },
+  {
+    "id": 383,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 24,
+    "pregunta": "¿Qué es el índice KP?",
+    "respuestas_incorrectas": [
+      "La cantidad de satélites que puede alinear el dron.",
+      "La cantidad de luminosidad del día."
+    ],
+    "respuesta_correcta": "El índice geomagnético planetario."
+  },
+  {
+    "id": 384,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 25,
+    "pregunta": "¿Con qué porcentaje de carga de batería se deben almacenar las baterías Li-Po para evitar su deterioro?",
+    "respuestas_incorrectas": [
+      "0 %.",
+      "20 %."
+    ],
+    "respuesta_correcta": "50 a 60 %."
+  },
+  {
+    "id": 385,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 26,
+    "pregunta": "¿Qué es el enlace C2?",
+    "respuestas_incorrectas": [
+      "Es el canal que permite el control de la UA, pero no tiene retroalimentación de las condiciones de la aeronave en tiempo real.",
+      "Es una tecnología automatizada que permite recopilar, desarrollar y transmitir información de un dispositivo electrónico a otro."
+    ],
+    "respuesta_correcta": "Es la vía de comunicación que conecta la UA con su control y permite la transmisión de datos en ambas direcciones."
+  },
+  {
+    "id": 386,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 27,
+    "pregunta": "Al sistema de medición de magnitudes físicas que permite transmitir los datos obtenidos a un observador lejano se le conoce como:",
+    "respuestas_incorrectas": [
+      "Transmisión de datos.",
+      "Enlace C2."
+    ],
+    "respuesta_correcta": "Telemetría."
+  },
+  {
+    "id": 387,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 28,
+    "pregunta": "La estación de control en tierra de una aeronave no tripulada, permite al operador UA o piloto UAS dirigir el vuelo de la UA. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 388,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 29,
+    "pregunta": "La función “ALTITUDE HOLD” hace referencia a:",
+    "respuestas_incorrectas": [
+      "Ayuda a mantener siempre la misma altura, sin importar los comandos que le dé el piloto.",
+      "Ayuda a mantener la altura establecida por el piloto en el RTH."
+    ],
+    "respuesta_correcta": "Corrige y mantiene automáticamente la altura de vuelo de la UA a la última altura establecida por el piloto en el vuelo."
+  },
+  {
+    "id": 389,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 30,
+    "pregunta": "¿Qué significa el modo “RTH” y para qué sirve?",
+    "respuestas_incorrectas": [
+      "Reset to House. Permite regresar la configuración del UA a la de la casa fabricante.",
+      "Re-Start and Hold. Permite reencender el dron en vuelo y mantenerlo en espera."
+    ],
+    "respuesta_correcta": "Return to Home. Permite que la UA retorne a las coordenadas previas de despegue."
+  },
+  {
+    "id": 390,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 31,
+    "pregunta": "De las siguientes opciones, seleccione la que actualmente aplica para los UAS: ¿Qué parámetros requiere el modo RTH?",
+    "respuestas_incorrectas": [
+      "Establecer las coordenadas de salida por parte del piloto.",
+      "No requiero parametrizar el RTH, ha sido establecido de fábrica."
+    ],
+    "respuesta_correcta": "Solamente se debe establecer la altura segura de regreso."
+  },
+  {
+    "id": 391,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 32,
+    "pregunta": "En algunos modelos de UAS, el modo RTH es el mismo modo RTL de otros modelos. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 392,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 33,
+    "pregunta": "De las siguientes opciones, seleccione las tecnologías que permiten la detección de obstáculos en tiempo real para un UAS:",
+    "respuestas_incorrectas": [
+      "Sistemas de mensajería instantánea.",
+      "Códigos QR."
+    ],
+    "respuesta_correcta": "Sistemas de radar, sensores ópticos y \"LiDAR\"."
+  },
+  {
+    "id": 393,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 34,
+    "pregunta": "¿Cuál de las siguientes tecnologías NO se utiliza para el control de operaciones aéreas con UAS?",
+    "respuestas_incorrectas": [
+      "5G.",
+      "Radiocontrol."
+    ],
+    "respuesta_correcta": "GPS."
+  },
+  {
+    "id": 394,
+    "tema": "CONOCIMIENTOS GENERALES DE LAS UA",
+    "numero_pregunta": 35,
+    "pregunta": "¿Qué significa la sigla VTOL?",
+    "respuestas_incorrectas": [
+      "Visual Talk Off Line / Aeronave de despegue y aterrizaje horizontal."
+    ],
+    "respuesta_correcta": "Vertical Take Off and Landing / Aeronave de despegue y aterrizaje vertical."
+  },
+  {
+    "id": 395,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 1,
+    "pregunta": "¿Qué se entiende por la sigla NOTAM?",
+    "respuestas_incorrectas": [
+      "Noticias para el hombre del mar.",
+      "Informes operacionales periódicos."
+    ],
+    "respuesta_correcta": "Aviso a los aviadores. Información de carácter de temporal e importante para las operaciones aéreas."
+  },
+  {
+    "id": 396,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 2,
+    "pregunta": "¿Qué es la AIP?",
+    "respuestas_incorrectas": [
+      "Aerodrome Instrument Procedures.",
+      "Aplicación Informativa Periódica."
+    ],
+    "respuesta_correcta": "Publicación de Información Aeronáutica."
+  },
+  {
+    "id": 397,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 3,
+    "pregunta": "¿Qué limitaciones de la UA debemos contemplar en la planificación del vuelo?",
+    "respuestas_incorrectas": [
+      "Estados de ansiedad del piloto u operador.",
+      "Limitaciones físicas y psicológicas del piloto."
+    ],
+    "respuesta_correcta": "Limitaciones de seguridad: Altura máxima, distancia máxima, rango de operación y PMBO."
+  },
+  {
+    "id": 398,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 4,
+    "pregunta": "Con respecto a los espacios aéreos, ¿cuál es una buena práctica antes de planificar un vuelo?",
+    "respuestas_incorrectas": [
+      "Revisar la meteorología, para estar seguros de contar con las condiciones favorables para nuestro vuelo.",
+      "Revisar las condiciones normativas, para poder realizar el permiso de vuelo acorde con el trabajo que se requiere hacer."
+    ],
+    "respuesta_correcta": "Revisar el área en donde se va a realizar la operación para determinar si se podría estar incurriendo en algún área de control o zona especial."
+  },
+  {
+    "id": 399,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 5,
+    "pregunta": "¿Cuál de las siguientes tareas no corresponde a una actividad de preparación operacional de un vuelo UAS?",
+    "respuestas_incorrectas": [
+      "Analizar los espacios aéreos y zonas de control.",
+      "Diseño de las misiones de vuelo y ciclos de baterías."
+    ],
+    "respuesta_correcta": "Reunión final del vuelo."
+  },
+  {
+    "id": 400,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 6,
+    "pregunta": "De las siguientes, ¿cuáles son las prácticas que contribuyen a la seguridad operacional del vuelo con UAS que todo piloto UAS debe aplicar?",
+    "respuestas_incorrectas": [
+      "Comprobaciones post-vuelo.",
+      "Entrega de trabajo final y reporte de misión cumplida."
+    ],
+    "respuesta_correcta": "Capacitación y certificación, planificación de vuelo y mantenimiento regular."
+  },
+  {
+    "id": 401,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 7,
+    "pregunta": "De las siguientes, ¿cuáles son las prácticas que contribuyen a la seguridad operacional de vuelo con UAS que todo explotador-piloto UAS debe aplicar?",
+    "respuestas_incorrectas": [
+      "Actualización de firmware y software; plan de emergencia.",
+      "Seguimiento visual; gestión de la batería."
+    ],
+    "respuesta_correcta": "Todas las opciones son correctas."
+  },
+  {
+    "id": 402,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 8,
+    "pregunta": "Las limitaciones operacionales están dadas por las características técnicas de la aeronave, el pronóstico meteorológico y el diseño de las maniobras de vuelo para administrar apropiadamente las condiciones de riesgo. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 403,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 9,
+    "pregunta": "¿Cuál de las siguientes consideraciones es crucial al planificar un vuelo con UAS en zona urbana?",
+    "respuestas_incorrectas": [
+      "La altitud máxima permitida.",
+      "La capacidad de carga de la aeronave."
+    ],
+    "respuesta_correcta": "La densidad de población y la clase de espacio aéreo."
+  },
+  {
+    "id": 404,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 10,
+    "pregunta": "¿Cuál es el objetivo principal de la seguridad operacional en la aviación no tripulada?",
+    "respuestas_incorrectas": [
+      "Garantizar la seguridad de las operaciones con UAS y su integración segura en el espacio aéreo.",
+      "Promover una cultura de seguridad y cumplimiento de las regulaciones."
+    ],
+    "respuesta_correcta": "Las dos opciones son correctas."
+  },
+  {
+    "id": 405,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 11,
+    "pregunta": "¿Cuál es el propósito principal de una operación de vuelo UAS?",
+    "respuestas_incorrectas": [
+      "Garantizar que el dron tenga suficiente combustible.",
+      "Definir las restricciones de altura máxima."
+    ],
+    "respuesta_correcta": "Cumplir con los objetivos de la misión."
+  },
+  {
+    "id": 406,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 12,
+    "pregunta": "Algunos requisitos qué se deben incluir en una solicitud de autorización de vuelo UAS son:",
+    "respuestas_incorrectas": [
+      "Color del equipamiento del personal operacional en campo.",
+      "El equipo de protección personal del piloto UAS."
+    ],
+    "respuesta_correcta": "La información del análisis de riesgos - SMS, áreas geográficas de vuelo, marca y modelo de la UA, pilotos UAS."
+  },
+  {
+    "id": 407,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 13,
+    "pregunta": "¿Por qué es importante conocer, entender y verificar la regulación antes de planificar un vuelo UAS?",
+    "respuestas_incorrectas": [
+      "Para asegurarse de que la aeronave pueda cumplir con las restricciones determinadas en la norma.",
+      "Para determinar el monto de las tarifas que nos pueden aplicar por el trámite administrativo y operacional del UAS."
+    ],
+    "respuesta_correcta": "Para evitar violaciones de las restricciones consignadas en la norma, de espacio aéreo y maximizar la seguridad operacional."
+  },
+  {
+    "id": 408,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 14,
+    "pregunta": "¿Cuál de las siguientes fuentes de información es esencial para planificar un vuelo seguro con un UAS?",
+    "respuestas_incorrectas": [
+      "Listados de actualizaciones de aeronaves no tripuladas expedidos por la página oficial del fabricante.",
+      "Diarios oficiales con las ultimas noticias del país e información económica que afecte el mercado de aeronaves no tripuladas."
+    ],
+    "respuesta_correcta": "Espacios aéreos, pronóstico meteorológico actualizado y NOTAMS aplicables al lugar donde se realizará la operación, entre otros."
+  },
+  {
+    "id": 409,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 15,
+    "pregunta": "¿Cuál NO sería una consideración al seleccionar una ubicación de despegue y aterrizaje para una UA?",
+    "respuestas_incorrectas": [
+      "El tiempo de vuelo, según la cantidad de baterías o combustible disponible.",
+      "La dirección e intensidad del viento al momento del despegue."
+    ],
+    "respuesta_correcta": "El color de la superficie del terreno."
+  },
+  {
+    "id": 410,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 16,
+    "pregunta": "De las características técnicas de una UA en cuanto a sus limitaciones operacionales, ¿qué aspectos se deben tener en cuenta para realizar una excelente planificación de vuelo?",
+    "respuestas_incorrectas": [
+      "Velocidad máxima, autonomía de vuelo y color de la UA.",
+      "FPV, altura máxima, EPP del piloto UA y frecuencia de operación."
+    ],
+    "respuesta_correcta": "Altura máxima, velocidad máxima y PMBO de la UA."
+  },
+  {
+    "id": 411,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 17,
+    "pregunta": "¿Cuáles son algunos de los aspectos que se deben verificar antes de encender una UA con el propósito de volarla?",
+    "respuestas_incorrectas": [
+      "Si está bien embalada en su contenedor.",
+      "Si se cuenta con la cantidad de baterías suficientes para poder concluir la misión exitosamente."
+    ],
+    "respuesta_correcta": "El estado y la funcionalidad de la aeronave, incluyendo fuente de potencia y sensores."
+  },
+  {
+    "id": 412,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 18,
+    "pregunta": "¿Qué debe hacerse si se encuentra con condiciones meteorológicas adversas durante un vuelo con UAS?",
+    "respuestas_incorrectas": [
+      "Aumentar la velocidad para completar la misión rápidamente.",
+      "Llevar en vuelo el dron hacia una zona donde haya mejores condiciones meteorológicas."
+    ],
+    "respuesta_correcta": "Aterrizar de manera segura y suspender la operación hasta que las condiciones mejoren."
+  },
+  {
+    "id": 413,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 19,
+    "pregunta": "¿Cuál es una consideración al desarrollar una misión de vuelo con un UAS que requiera operar cerca de aeropuertos o helipuertos?",
+    "respuestas_incorrectas": [
+      "Aumentar la altitud de la UA para evitar colisiones y tener la capacidad de realizar maniobras evasivas rápidas.",
+      "Contar con un sistema de mantenimiento en tiempo real para la UA."
+    ],
+    "respuesta_correcta": "Realizar un CDM (si aplica) y obtener los permisos especiales correspondientes de la Aerocivil."
+  },
+  {
+    "id": 414,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 20,
+    "pregunta": "El propósito principal de consultar los NOTAMS de un sector específico en relación con la planificación del vuelo con UAS es enterarse de las alertas, restricciones del espacio aéreo y situaciones especiales con suficiente anticipación. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Falso."
+    ],
+    "respuesta_correcta": "Verdadero."
+  },
+  {
+    "id": 415,
+    "tema": "PLANIFICACIÓN DE VUELO",
+    "numero_pregunta": 21,
+    "pregunta": "El propósito principal de consultar los NOTAMS de un sector específico en relación con la planificación del vuelo con UAS es enterarse de alertas de fenómenos meteorológicos significativos con suficiente anticipación. Este postulado es:",
+    "respuestas_incorrectas": [
+      "Verdadero."
+    ],
+    "respuesta_correcta": "Falso."
+  }
+]

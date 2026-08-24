@@ -7,7 +7,7 @@ import {
 } from "react-dom/client";
 
 import {
-  BrowserRouter,
+  HashRouter,
 } from "react-router-dom";
 
 import App from "./App";
@@ -29,8 +29,8 @@ createRoot(
   rootElement,
 ).render(
   <StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <App />
-    </BrowserRouter>
+    </HashRouter>
   </StrictMode>,
 );

@@ -6,11 +6,9 @@
 
   width: 100%;
 
-  min-height:
-    100svh;
+  min-height: 100svh;
 
-  height:
-    100dvh;
+  height: auto;
 
   padding:
     max(
@@ -21,13 +19,14 @@
     )
     14px
     max(
-      14px,
+      24px,
       env(
         safe-area-inset-bottom
       )
     );
 
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: visible;
 
   color: #f4f8fb;
 
@@ -246,18 +245,22 @@
 }
 
 .quiz__card-area {
-  flex: 1;
+  flex: 0 0 auto;
 
-  display: flex;
+  display: block;
 
   width: min(
     100%,
     620px
   );
 
-  min-height: 0;
+  height: auto;
 
   margin-inline: auto;
+
+  padding-bottom: 24px;
+
+  overflow: visible;
 }
 
 /* ========================

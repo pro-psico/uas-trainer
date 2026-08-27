@@ -1,14 +1,12 @@
 .question-card-stage {
   position: relative;
 
-  flex: 1;
+  flex: 0 0 auto;
 
-  display: flex;
-  align-items: stretch;
+  display: block;
 
   width: 100%;
-
-  min-height: 0;
+  height: auto;
 
   perspective: 1400px;
 }
@@ -18,7 +16,9 @@
 
   width: 100%;
 
-  min-height: 0;
+  height: auto;
+
+  touch-action: pan-y;
 
   transform:
     translate3d(
@@ -32,8 +32,6 @@
 
   transform-origin:
     center 85%;
-
-  touch-action: pan-y;
 
   user-select: none;
 
@@ -91,36 +89,24 @@
   position: relative;
 
   width: 100%;
-  height: 100%;
 
-  min-height: 580px;
+  height: auto;
 
   transform-style:
     preserve-3d;
-
-  transition:
-    transform 560ms
-    cubic-bezier(
-      0.22,
-      1,
-      0.36,
-      1
-    );
-}
-
-.question-card--flipped {
-  transform:
-    rotateY(180deg);
 }
 
 .question-card__face {
-  position: absolute;
-  inset: 0;
+  position: relative;
 
   display: flex;
   flex-direction: column;
 
-  overflow: hidden;
+  width: 100%;
+
+  height: auto;
+
+  overflow: visible;
 
   border:
     1px solid
@@ -137,12 +123,6 @@
       7vw,
       34px
     );
-
-  backface-visibility:
-    hidden;
-
-  -webkit-backface-visibility:
-    hidden;
 
   box-shadow:
     0 28px 90px
@@ -191,39 +171,295 @@
 }
 
 .question-card__back {
-  transform:
-    rotateY(180deg);
+  position: relative;
 
-  background:
-    linear-gradient(
-      165deg,
-      #101b27,
-      #080d15
+  isolation: isolate;
+
+  /*
+   * Podemos usar hidden porque la tarjeta
+   * ahora crece con su contenido.
+   * Solo recortamos los efectos decorativos.
+   */
+  overflow: hidden;
+
+  animation:
+    feedbackFlipIn
+    420ms
+    cubic-bezier(
+      0.22,
+      1,
+      0.36,
+      1
     );
 }
+
+
+/* =========================================
+   CORRECTO
+========================================= */
+
+.question-card__back--correct {
+  border-color:
+    rgba(
+      72,
+      235,
+      161,
+      0.48
+    );
+
+  background:
+    radial-gradient(
+      circle at 50% 5%,
+      rgba(
+        47,
+        221,
+        143,
+        0.30
+      ),
+      transparent 40%
+    ),
+    radial-gradient(
+      circle at 100% 70%,
+      rgba(
+        27,
+        145,
+        101,
+        0.18
+      ),
+      transparent 45%
+    ),
+    linear-gradient(
+      165deg,
+      #10251f 0%,
+      #091813 45%,
+      #06100d 100%
+    );
+
+  box-shadow:
+    0 28px 90px
+      rgba(
+        0,
+        0,
+        0,
+        0.42
+      ),
+    0 0 45px
+      rgba(
+        54,
+        220,
+        145,
+        0.16
+      ),
+    inset 0 1px 0
+      rgba(
+        167,
+        255,
+        213,
+        0.16
+      );
+}
+
+
+/* =========================================
+   INCORRECTO
+========================================= */
+
+.question-card__back--incorrect {
+  border-color:
+    rgba(
+      255,
+      99,
+      110,
+      0.52
+    );
+
+  background:
+    radial-gradient(
+      circle at 50% 5%,
+      rgba(
+        239,
+        70,
+        82,
+        0.34
+      ),
+      transparent 40%
+    ),
+    radial-gradient(
+      circle at 100% 70%,
+      rgba(
+        155,
+        37,
+        54,
+        0.22
+      ),
+      transparent 45%
+    ),
+    linear-gradient(
+      165deg,
+      #291317 0%,
+      #190b0f 48%,
+      #100709 100%
+    );
+
+  box-shadow:
+    0 28px 90px
+      rgba(
+        0,
+        0,
+        0,
+        0.42
+      ),
+    0 0 48px
+      rgba(
+        235,
+        65,
+        80,
+        0.18
+      ),
+    inset 0 1px 0
+      rgba(
+        255,
+        177,
+        185,
+        0.13
+      );
+}
+
+.feedback-answer:not(
+  .feedback-answer--correct
+) {
+  border-color:
+    rgba(
+      255,
+      101,
+      113,
+      0.25
+    );
+
+  background:
+    rgba(
+      218,
+      61,
+      75,
+      0.10
+    );
+}
+
+.question-card__back--correct
+.feedback-answer {
+  border-color:
+    rgba(
+      91,
+      229,
+      166,
+      0.22
+    );
+
+  background:
+    rgba(
+      55,
+      197,
+      137,
+      0.08
+    );
+}
+
+
+/* =========================================
+   RESPLANDOR DECORATIVO
+========================================= */
 
 .question-card__back::before {
   content: "";
 
   position: absolute;
-  inset: 0;
+
+  width: 320px;
+  height: 320px;
+
+  top: -180px;
+  left: 50%;
+
+  transform:
+    translateX(-50%);
+
+  border-radius: 50%;
 
   pointer-events: none;
 
-  opacity: 0.22;
+  filter:
+    blur(20px);
+
+  z-index: 0;
 }
 
 .question-card__back--correct::before {
   background:
-    radial-gradient(
-      circle at 50% 15%,
-      rgba(
-        60,
-        220,
-        155,
-        0.35
-      ),
-      transparent 45%
+    rgba(
+      61,
+      231,
+      153,
+      0.24
+    );
+}
+
+.question-card__back--incorrect::before {
+  background:
+    rgba(
+      244,
+      72,
+      86,
+      0.28
+    );
+}
+
+
+/* =========================================
+   LÍNEA SUPERIOR DE ESTADO
+========================================= */
+
+.question-card__back::after {
+  content: "";
+
+  position: absolute;
+
+  top: 0;
+  left: 12%;
+  right: 12%;
+
+  height: 3px;
+
+  border-radius:
+    0 0 999px 999px;
+
+  pointer-events: none;
+}
+
+.question-card__back--correct::after {
+  background:
+    #69efad;
+
+  box-shadow:
+    0 0 22px
+    rgba(
+      80,
+      235,
+      165,
+      0.75
+    );
+}
+
+.question-card__back--incorrect::after {
+  background:
+    #ff6975;
+
+  box-shadow:
+    0 0 22px
+    rgba(
+      255,
+      88,
+      104,
+      0.7
     );
 }
 
@@ -310,22 +546,21 @@
 }
 
 .question-card__body {
-  flex: 1;
-
   display: flex;
   flex-direction: column;
 
+  width: 100%;
+  height: auto;
+
   padding:
     clamp(
-      22px,
-      6vw,
+      18px,
+      5vw,
       30px
     )
     18px 18px;
 
-  overflow-y: auto;
-
-  scrollbar-width: thin;
+  overflow: visible;
 }
 
 .question-card__number {
@@ -375,10 +610,10 @@
 .question-card__answers {
   display: flex;
   flex-direction: column;
-
+  width: 100%;
   gap: 11px;
-
-  margin-top: auto;
+  margin-top: 4px;
+  padding-bottom: 4px;
 }
 
 .answer-option {
@@ -390,6 +625,8 @@
   width: 100%;
 
   min-height: 62px;
+
+  height: auto;
 
   padding:
     11px 13px;
@@ -528,8 +765,19 @@
 }
 
 .question-card__hint {
+  width: 100%;
+
   padding:
     13px 18px 16px;
+
+  border-top:
+    1px solid
+    rgba(
+      255,
+      255,
+      255,
+      0.055
+    );
 
   color:
     rgba(
@@ -537,6 +785,14 @@
       233,
       241,
       0.32
+    );
+
+  background:
+    rgba(
+      8,
+      14,
+      23,
+      0.96
     );
 
   font-size: 0.66rem;
@@ -559,11 +815,13 @@
 
   z-index: 2;
 
-  flex: 1;
-
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  width: 100%;
+
+  height: auto;
 
   padding:
     clamp(
@@ -573,7 +831,7 @@
     )
     20px 22px;
 
-  overflow-y: auto;
+  overflow: visible;
 
   text-align: center;
 }
@@ -776,7 +1034,7 @@
 }
 
 .feedback__swipe {
-  margin-top: auto;
+  margin-top: 24px;
 
   color:
     rgba(

@@ -279,7 +279,7 @@ export function Home() {
           </span>
 
           <span>
-            V1.3
+            V1.4
           </span>
         </footer>
       </section>

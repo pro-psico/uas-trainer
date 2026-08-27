@@ -1,0 +1,34 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="3"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <!-- Hélices -->
+  <ellipse cx="14" cy="14" rx="10" ry="4"/>
+  <ellipse cx="50" cy="14" rx="10" ry="4"/>
+
+  <!-- Brazos -->
+  <path d="M18 18 27 27"/>
+  <path d="M46 18 37 27"/>
+
+  <!-- Cuerpo -->
+  <rect x="24" y="25" width="16" height="12" rx="4"/>
+
+  <!-- Cámara -->
+  <rect x="28" y="38" width="8" height="7" rx="2"/>
+  <circle cx="32" cy="41.5" r="1.5"/>
+
+  <!-- Patas -->
+  <path d="M27 37 23 47"/>
+  <path d="M37 37 41 47"/>
+  <path d="M20 47h7"/>
+  <path d="M37 47h7"/>
+
+  <!-- Motores -->
+  <circle cx="18" cy="18" r="3"/>
+  <circle cx="46" cy="18" r="3"/>
+</svg>

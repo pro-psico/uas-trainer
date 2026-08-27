@@ -255,177 +255,193 @@ export function QuestionCard({
           handlePointerCancel
         }
       >
-        <div
-          className={[
-            "question-card",
+        <div className="question-card">
+          {!isAnswered || !revealFeedback ? (
+            /*
+            * ==============================
+            * PARTE FRONTAL
+            * ==============================
+            *
+            * Se muestra:
+            * - mientras no hayas respondido;
+            * - siempre en Modo Examen,
+            *   porque revealFeedback = false.
+            */
+            <section className="question-card__face question-card__front">
+              <header className="question-card__header">
+                <span className="question-card__counter">
+                  {String(
+                    currentNumber,
+                  ).padStart(
+                    2,
+                    "0",
+                  )}
 
-            isAnswered && revealFeedback
-              ? "question-card--flipped"
-              : "",
-          ]
-            .filter(Boolean)
-            .join(" ")}
-        >
-          <section className="question-card__face question-card__front">
-            <header className="question-card__header">
-              <span className="question-card__counter">
-                {String(
-                  currentNumber,
-                ).padStart(
-                  2,
-                  "0",
-                )}
-                {" / "}
-                {String(
-                  totalQuestions,
-                ).padStart(
-                  2,
-                  "0",
-                )}
-              </span>
+                  {" / "}
 
-              <span className="question-card__topic">
-                {question.tema}
-              </span>
-            </header>
+                  {String(
+                    totalQuestions,
+                  ).padStart(
+                    2,
+                    "0",
+                  )}
+                </span>
 
-            <div className="question-card__body">
-              <span className="question-card__number">
-                PREGUNTA{" "}
-                {
-                  question.numero_pregunta
-                }
-              </span>
+                <span className="question-card__topic">
+                  {question.tema}
+                </span>
+              </header>
 
-              <h2>
-                {
-                  question.pregunta
-                }
-              </h2>
+              <div className="question-card__body">
+                <span className="question-card__number">
+                  PREGUNTA{" "}
+                  {
+                    question.numero_pregunta
+                  }
+                </span>
 
-              <div className="question-card__answers">
-                {question.opciones.map(
-                  (
-                    option,
-                    index,
-                  ) => (
-                    <button
-                      key={`${question.id}-${option}`}
-                      type="button"
-                      className={[
-                                  "answer-option",
+                <h2>
+                  {
+                    question.pregunta
+                  }
+                </h2>
 
-                                  !revealFeedback &&
-                                  selectedAnswer ===
-                                    option
-                                    ? "answer-option--selected"
-                                    : "",
-                                ]
-                                  .filter(Boolean)
-                                  .join(" ")}
-                      onClick={() =>
-                        onAnswer(
-                          option,
-                        )
-                      }
-                      disabled={
-                        isAnswered
-                      }
+                <div className="question-card__answers">
+                  {question.opciones.map(
+                    (
+                      option,
+                      index,
+                    ) => (
+                      <button
+                        key={`${question.id}-${option}`}
+                        type="button"
+
+                        className={[
+                          "answer-option",
+
+                          !revealFeedback &&
+                          selectedAnswer ===
+                            option
+                            ? "answer-option--selected"
+                            : "",
+                        ]
+                          .filter(
+                            Boolean,
+                          )
+                          .join(" ")}
+
+                        onClick={() =>
+                          onAnswer(
+                            option,
+                          )
+                        }
+
+                        disabled={
+                          isAnswered
+                        }
+                      >
+                        <span className="answer-option__letter">
+                          {String.fromCharCode(
+                            65 +
+                              index,
+                          )}
+                        </span>
+
+                        <span className="answer-option__text">
+                          {option}
+                        </span>
+                      </button>
+                    ),
+                  )}
+                </div>
+              </div>
+
+              <footer className="question-card__hint">
+                {!isAnswered
+                  ? "Selecciona una respuesta"
+                  : "Respuesta registrada · desliza para continuar"}
+              </footer>
+            </section>
+          ) : (
+            /*
+            * ==============================
+            * PARTE TRASERA
+            * ==============================
+            *
+            * Solo existe después de responder
+            * en modos con feedback.
+            */
+            <section
+              key={`feedback-${question.id}`}
+              className={[
+                "question-card__face",
+                "question-card__back",
+
+                isCorrect
+                  ? "question-card__back--correct"
+                  : "question-card__back--incorrect",
+              ].join(" ")}
+            >
+              <div className="feedback">
+                <div
+                  className={[
+                    "feedback__icon",
+
+                    isCorrect
+                      ? "feedback__icon--correct"
+                      : "feedback__icon--incorrect",
+                  ].join(" ")}
+                  aria-hidden="true"
+                >
+                  {isCorrect ? (
+                    <svg
+                      viewBox="0 0 24 24"
+                      width="36"
+                      height="36"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="2.5"
                     >
-                      <span className="answer-option__letter">
-                        {String.fromCharCode(
-                          65 +
-                            index,
-                        )}
-                      </span>
-
-                      <span className="answer-option__text">
-                        {option}
-                      </span>
-                    </button>
-                  ),
-                )}
-              </div>
-            </div>
-
-            <footer className="question-card__hint">
-              {!isAnswered
-                ? "Selecciona una respuesta"
-                : !revealFeedback
-                  ? "Respuesta registrada · desliza para continuar"
-                  : "Respuesta registrada"}
-            </footer>
-          </section>
-
-          <section
-            className={[
-              "question-card__face",
-              "question-card__back",
-              isCorrect
-                ? "question-card__back--correct"
-                : "question-card__back--incorrect",
-            ].join(" ")}
-          >
-            <div className="feedback">
-              <div
-                className={[
-                  "feedback__icon",
-                  isCorrect
-                    ? "feedback__icon--correct"
-                    : "feedback__icon--incorrect",
-                ].join(" ")}
-                aria-hidden="true"
-              >
-                {isCorrect ? (
-                  <svg
-                    viewBox="0 0 24 24"
-                    width="36"
-                    height="36"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="2.5"
-                  >
-                    <path d="m5 12 4 4L19 6" />
-                  </svg>
-                ) : (
-                  <svg
-                    viewBox="0 0 24 24"
-                    width="36"
-                    height="36"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="2.5"
-                  >
-                    <path d="M6 6l12 12" />
-                    <path d="M18 6 6 18" />
-                  </svg>
-                )}
-              </div>
-
-              <span className="feedback__eyebrow">
-                RESULTADO
-              </span>
-
-              <h2>
-                {isCorrect
-                  ? "Correcto"
-                  : "Incorrecto"}
-              </h2>
-
-              <div className="feedback__answers">
-                <div className="feedback-answer">
-                  <span>
-                    Tu respuesta
-                  </span>
-
-                  <strong>
-                    {
-                      selectedAnswer
-                    }
-                  </strong>
+                      <path d="m5 12 4 4L19 6" />
+                    </svg>
+                  ) : (
+                    <svg
+                      viewBox="0 0 24 24"
+                      width="36"
+                      height="36"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="2.5"
+                    >
+                      <path d="M6 6l12 12" />
+                      <path d="M18 6 6 18" />
+                    </svg>
+                  )}
                 </div>
 
-                {!isCorrect && (
+                <span className="feedback__eyebrow">
+                  RESULTADO
+                </span>
+
+                <h2>
+                  {isCorrect
+                    ? "Correcto"
+                    : "Incorrecto"}
+                </h2>
+
+                <div className="feedback__answers">
+                  <div className="feedback-answer">
+                    <span>
+                      Tu respuesta
+                    </span>
+
+                    <strong>
+                      {
+                        selectedAnswer
+                      }
+                    </strong>
+                  </div>
+
                   <div className="feedback-answer feedback-answer--correct">
                     <span>
                       Respuesta correcta
@@ -437,57 +453,44 @@ export function QuestionCard({
                       }
                     </strong>
                   </div>
-                )}
+                </div>
 
-                {isCorrect && (
-                  <div className="feedback-answer feedback-answer--correct">
+                <div className="feedback__swipe">
+                  <div className="feedback__swipe-track">
                     <span>
-                      Respuesta correcta
+                      ←
                     </span>
 
-                    <strong>
-                      {
-                        question.respuesta_correcta
-                      }
-                    </strong>
+                    <span>
+                      DESLIZA
+                    </span>
+
+                    <span>
+                      →
+                    </span>
                   </div>
-                )}
-              </div>
 
-              <div className="feedback__swipe">
-                <div className="feedback__swipe-track">
-                  <span>
-                    ←
-                  </span>
+                  <small>
+                    para continuar
+                  </small>
+                </div>
 
-                  <span>
-                    DESLIZA
-                  </span>
+                <button
+                  type="button"
+                  className="feedback__next"
+                  onClick={
+                    handleNextButton
+                  }
+                >
+                  Siguiente pregunta
 
-                  <span>
+                  <span aria-hidden="true">
                     →
                   </span>
-                </div>
-
-                <small>
-                  para continuar
-                </small>
+                </button>
               </div>
-
-              <button
-                type="button"
-                className="feedback__next"
-                onClick={
-                  handleNextButton
-                }
-              >
-                Siguiente pregunta
-                <span aria-hidden="true">
-                  →
-                </span>
-              </button>
-            </div>
-          </section>
+            </section>
+          )}
         </div>
 
         {isAnswered && (

@@ -214,11 +214,14 @@ export function createGeneralQuiz(
 
 export function createTopicQuiz(
   topic: string,
+  onlyUnanswered = false,
 ): QuizQuestion[] {
   const normalizedTopic =
     topic.trim();
 
-  if (!normalizedTopic) {
+  if (
+    !normalizedTopic
+  ) {
     throw new Error(
       "Debes seleccionar un tema.",
     );
@@ -239,6 +242,37 @@ export function createTopicQuiz(
     );
   }
 
+  /*
+   * =========================================
+   * SOLO PREGUNTAS NO CONTESTADAS
+   * =========================================
+   */
+  if (
+    onlyUnanswered
+  ) {
+    const progress =
+      loadProgress();
+
+    const unansweredQuestions =
+      topicQuestions.filter(
+        (question) =>
+          (
+            progress.questionStats[
+              question.id
+            ]?.attempts ?? 0
+          ) === 0,
+      );
+
+    return shuffle(
+      unansweredQuestions,
+    ).map(
+      prepareQuestion,
+    );
+  }
+
+  /*
+   * Tema completo.
+   */
   return shuffle(
     topicQuestions,
   ).map(

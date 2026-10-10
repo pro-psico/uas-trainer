@@ -456,13 +456,13 @@
     0.07em;
 }
 
-.topic-card__action {
-  display: flex;
+.topic-card__actions {
+  display: grid;
 
-  justify-content:
-    space-between;
+  grid-template-columns:
+    1fr 1fr;
 
-  align-items: center;
+  gap: 8px;
 
   margin-top: 18px;
 
@@ -476,22 +476,173 @@
       255,
       0.055
     );
+}
+
+.topic-card__button {
+  display: flex;
+
+  align-items: center;
+  justify-content:
+    space-between;
+
+  gap: 8px;
+
+  min-height: 48px;
+
+  padding:
+    10px 12px;
+
+  border-radius: 13px;
+
+  font-size: 0.65rem;
+
+  font-weight: 800;
+
+  line-height: 1.25;
+
+  text-decoration: none;
+
+  transition:
+    transform 150ms ease,
+    background 150ms ease,
+    border-color 150ms ease;
+}
+
+.topic-card__button span {
+  display: grid;
+
+  place-items: center;
+
+  flex: 0 0 auto;
+
+  min-width: 27px;
+  height: 27px;
+
+  padding-inline: 6px;
+
+  border-radius: 999px;
+
+  font-size: 0.6rem;
+}
+
+.topic-card__button--primary {
+  border:
+    1px solid
+    rgba(
+      123,
+      225,
+      250,
+      0.18
+    );
 
   color:
     rgba(
-      176,
-      232,
-      247,
-      0.65
+      222,
+      245,
+      251,
+      0.9
     );
 
-  font-size: 0.67rem;
-  font-weight: 800;
+  background:
+    rgba(
+      82,
+      193,
+      224,
+      0.08
+    );
+}
 
-  text-transform: uppercase;
+.topic-card__button--primary
+span {
+  background:
+    rgba(
+      109,
+      218,
+      245,
+      0.1
+    );
+}
 
-  letter-spacing:
-    0.08em;
+.topic-card__button--pending {
+  border:
+    1px solid
+    rgba(
+      255,
+      205,
+      104,
+      0.18
+    );
+
+  color:
+    rgba(
+      255,
+      225,
+      163,
+      0.9
+    );
+
+  background:
+    rgba(
+      225,
+      174,
+      67,
+      0.07
+    );
+}
+
+.topic-card__button--pending
+span {
+  background:
+    rgba(
+      235,
+      185,
+      78,
+      0.11
+    );
+}
+
+.topic-card__button--completed {
+  justify-content:
+    center;
+
+  border:
+    1px solid
+    rgba(
+      90,
+      223,
+      163,
+      0.12
+    );
+
+  color:
+    rgba(
+      111,
+      231,
+      177,
+      0.55
+    );
+
+  background:
+    rgba(
+      68,
+      190,
+      137,
+      0.035
+    );
+}
+
+.topic-card__button[href]:hover {
+  transform:
+    translateY(-1px);
+}
+
+@media (
+  max-width: 390px
+) {
+  .topic-card__actions {
+    grid-template-columns:
+      1fr;
+  }
 }
 
 @media (

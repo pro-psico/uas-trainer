@@ -92,18 +92,20 @@ export function Topics() {
             topic,
             index,
           ) => {
-            const topicUrl =
-              `/quiz?mode=topic&topic=${encodeURIComponent(
+            const fullTopicUrl =
+              `/quiz?mode=topic&scope=all&topic=${encodeURIComponent(
+                topic.topic,
+              )}`;
+
+            const unansweredTopicUrl =
+              `/quiz?mode=topic&scope=unanswered&topic=${encodeURIComponent(
                 topic.topic,
               )}`;
 
             return (
-              <Link
+              <article
                 key={
                   topic.topic
-                }
-                to={
-                  topicUrl
                 }
                 className={[
                   "topic-card",
@@ -113,8 +115,7 @@ export function Topics() {
                 <div className="topic-card__top">
                   <span className="topic-card__number">
                     {String(
-                      index +
-                        1,
+                      index + 1,
                     ).padStart(
                       2,
                       "0",
@@ -142,7 +143,9 @@ export function Topics() {
                   </span>
 
                   <strong>
-                    {topic.accuracy}
+                    {
+                      topic.accuracy
+                    }
                     %
                   </strong>
                 </div>
@@ -175,6 +178,18 @@ export function Topics() {
                   <div>
                     <strong>
                       {
+                        topic.unseenQuestions
+                      }
+                    </strong>
+
+                    <span>
+                      Pendientes
+                    </span>
+                  </div>
+
+                  <div>
+                    <strong>
+                      {
                         topic.accuracy
                       }
                       %
@@ -184,27 +199,47 @@ export function Topics() {
                       Precisión
                     </span>
                   </div>
+                </div>
 
-                  <div>
-                    <strong>
-                      {
-                        topic.incorrect
-                      }
-                    </strong>
+                <div className="topic-card__actions">
+                  <Link
+                    to={
+                      fullTopicUrl
+                    }
+                    className="topic-card__button topic-card__button--primary"
+                  >
+                    Tema completo
 
                     <span>
-                      Errores
+                      {
+                        topic.totalQuestions
+                      }
                     </span>
-                  </div>
-                </div>
+                  </Link>
 
-                <div className="topic-card__action">
-                  Entrenar tema
-                  <span>
-                    →
-                  </span>
+                  {topic.unseenQuestions >
+                  0 ? (
+                    <Link
+                      to={
+                        unansweredTopicUrl
+                      }
+                      className="topic-card__button topic-card__button--pending"
+                    >
+                      Solo pendientes
+
+                      <span>
+                        {
+                          topic.unseenQuestions
+                        }
+                      </span>
+                    </Link>
+                  ) : (
+                    <div className="topic-card__button topic-card__button--completed">
+                      ✓ Sin pendientes
+                    </div>
+                  )}
                 </div>
-              </Link>
+              </article>
             );
           },
         )}

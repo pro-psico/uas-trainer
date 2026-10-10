@@ -9,33 +9,79 @@ interface WeightedQuestion {
 function calculateQuestionWeight(
   stats?: QuestionStats,
 ): number {
-  if (!stats || stats.attempts === 0) {
-    return 1;
+  /*
+   * =========================================
+   * 1. PREGUNTA NUNCA CONTESTADA
+   * =========================================
+   *
+   * Es nuestra prioridad principal.
+   *
+   * Peso 8 significa que tendrá mucha más
+   * probabilidad de aparecer que una pregunta
+   * ya muy practicada.
+   */
+  if (
+    !stats ||
+    stats.attempts === 0
+  ) {
+    return 8;
   }
 
-  const errorRate =
-    stats.incorrect / stats.attempts;
+  /*
+   * =========================================
+   * 2. BONUS POR POCOS INTENTOS
+   * =========================================
+   *
+   * Mientras menos veces la hayas visto,
+   * mayor es su peso.
+   *
+   * 1 intento  → +2
+   * 2 intentos → +1.33
+   * 4 intentos → +0.8
+   * 9 intentos → +0.4
+   */
+  const exposureBonus =
+    4 /
+    (
+      stats.attempts +
+      1
+    );
 
-  const errorWeight =
+  /*
+   * =========================================
+   * 3. BONUS POR PORCENTAJE DE ERROR
+   * =========================================
+   */
+  const errorRate =
+    stats.incorrect /
+    stats.attempts;
+
+  const errorBonus =
     errorRate * 3;
 
-  const lastAnswerPenalty =
-    stats.lastWasCorrect === false
+  /*
+   * =========================================
+   * 4. SI LA ÚLTIMA VEZ FALLASTE
+   * =========================================
+   */
+  const recentMistakeBonus =
+    stats.lastWasCorrect ===
+    false
       ? 1.25
       : 0;
 
-  const streakReduction =
-    Math.min(
-      stats.currentStreak * 0.1,
-      0.5,
-    );
-
+  /*
+   * =========================================
+   * PESO FINAL
+   * =========================================
+   */
   return Math.max(
     1,
+
     1 +
-      errorWeight +
-      lastAnswerPenalty -
-      streakReduction,
+      exposureBonus +
+      errorBonus +
+      recentMistakeBonus,
   );
 }
 

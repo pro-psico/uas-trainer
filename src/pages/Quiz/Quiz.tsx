@@ -76,6 +76,10 @@ interface QuizConfiguration {
 
   topic?: string;
 
+  topicScope?:
+  | "all"
+  | "unanswered";
+
   reviewIds?: number[];
 }
 
@@ -197,23 +201,45 @@ function resolveConfiguration(
    * MODO POR TEMA
    */
   if (
-    mode === "topic"
-  ) {
-    const topic =
-      searchParams
-        .get("topic")
-        ?.trim();
+  mode === "topic"
+) {
+  const topic =
+    searchParams
+      .get("topic")
+      ?.trim();
 
-    if (topic) {
+  const scope =
+    searchParams.get(
+      "scope",
+    );
+
+  const topicScope:
+    | "all"
+    | "unanswered" =
+    scope ===
+    "unanswered"
+      ? "unanswered"
+      : "all";
+
+  if (
+      topic
+    ) {
       return {
-        mode: "topic",
+        mode:
+          "topic",
 
-        title: topic,
+        title:
+          topic,
 
         subtitle:
-          "Tema completo",
+          topicScope ===
+          "unanswered"
+            ? "Solo preguntas pendientes"
+            : "Tema completo",
 
         topic,
+
+        topicScope,
       };
     }
   }
@@ -321,6 +347,9 @@ function createQuestions(
 
       return createTopicQuiz(
         configuration.topic,
+
+        configuration.topicScope ===
+          "unanswered",
       );
 
     /*
